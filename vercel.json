@@ -161,11 +161,6 @@
       "statusCode": 302
     },
     {
-      "source": "https://tile.micr.dev/:match*",
-      "destination": "https://quarzite.micr.dev/:match*",
-      "permanent": true
-    },
-    {
       "source": "/",
       "destination": "https://room.micr.dev/",
       "permanent": true,
