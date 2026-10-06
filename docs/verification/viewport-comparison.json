@@ -1,0 +1,47 @@
+[
+  {
+    "viewport": [
+      1920,
+      1080
+    ],
+    "referenceRaster": [
+      1920,
+      1080
+    ],
+    "convertedRaster": [
+      1920,
+      1080
+    ],
+    "maximumProjectionDifference": 0.0
+  },
+  {
+    "viewport": [
+      1280,
+      720
+    ],
+    "referenceRaster": [
+      1920,
+      1080
+    ],
+    "convertedRaster": [
+      1920,
+      1080
+    ],
+    "maximumProjectionDifference": 0.0
+  },
+  {
+    "viewport": [
+      390,
+      844
+    ],
+    "referenceRaster": [
+      1920,
+      1080
+    ],
+    "convertedRaster": [
+      1920,
+      1080
+    ],
+    "maximumProjectionDifference": 0.0
+  }
+]

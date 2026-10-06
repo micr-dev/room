@@ -1,0 +1,63 @@
+{
+  "scope": "Same native scene and active camera; mock GPU renderer traverses visible meshes, calculates model-view matrices and calls render hooks. 25 warm-up + 5 batches of 200 calls. Measures Post orchestration CPU only.",
+  "results": [
+    {
+      "page": "Setup",
+      "captures": [
+        {
+          "name": "before",
+          "normalMaterials": 382,
+          "meanMs": 0.7898439640000006,
+          "batchesMs": [
+            0.807007900000001,
+            0.7763880500000004,
+            0.7908005950000007,
+            0.7863887950000003,
+            0.7886344800000006
+          ]
+        },
+        {
+          "name": "after",
+          "normalMaterials": 1,
+          "meanMs": 0.8082931700000009,
+          "batchesMs": [
+            0.8545292900000004,
+            0.7843681450000008,
+            0.7985978750000027,
+            0.7827577049999991,
+            0.8212128350000012
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Desktop",
+      "captures": [
+        {
+          "name": "before",
+          "normalMaterials": 396,
+          "meanMs": 0.03774310200000036,
+          "batchesMs": [
+            0.04764111500000126,
+            0.03531101000000035,
+            0.034711720000000244,
+            0.036103339999999665,
+            0.034948325000000294
+          ]
+        },
+        {
+          "name": "after",
+          "normalMaterials": 1,
+          "meanMs": 0.03965696299999853,
+          "batchesMs": [
+            0.03127512000000024,
+            0.0310570000000007,
+            0.0315833799999973,
+            0.05143859999999677,
+            0.05293071499999769
+          ]
+        }
+      ]
+    }
+  ]
+}

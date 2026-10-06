@@ -1,0 +1,26 @@
+{
+  "scope": "All real transition-bearing event bindings dispatched together with external effects mocked, 120 scheduler ticks, final whole-document states exactly equal; 2 warm-up pairs + 6 interleaved measured samples, order reversed. Scene construction excluded; includes host structuredClone. Synthetic stress fixture, not browser frame time. Run separately after full capture finished.",
+  "bindings": 40,
+  "samples": {
+    "before": [
+      83.62532800000008,
+      83.87431700000002,
+      79.16229499999986,
+      83.19177499999978,
+      82.01060199999984,
+      81.49605800000018
+    ],
+    "after": [
+      34.21868399999994,
+      25.19069599999989,
+      31.80628300000035,
+      24.496765999999752,
+      30.814390999999887,
+      24.486540000000332
+    ]
+  },
+  "meanMs": {
+    "before": 82.22672916666663,
+    "after": 28.50222666666669
+  }
+}

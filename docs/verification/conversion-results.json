@@ -1,0 +1,16 @@
+{
+  "converted": 693,
+  "types": {
+    "RectangleGeometry": 26,
+    "NonParametricGeometry": 610,
+    "CubeGeometry": 39,
+    "TextGeometry": 17,
+    "SubdivGeometry": 1
+  },
+  "failures": [],
+  "approximate": [
+    "Generic features beyond this room fixture remain unverified",
+    "Browser media and pointer QA remain separate from native GPU tests"
+  ],
+  "uniqueGeometries": 237
+}

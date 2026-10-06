@@ -1,0 +1,12 @@
+{
+  "dragChangesCamera": true,
+  "dragPersistsAfterRelease": true,
+  "cancelStopsMovement": true,
+  "cameraAnimationRemovedOnDrag": true,
+  "catsActionStillOpensDescription": true,
+  "catsClickedThroughPointerEvents": [
+    1280,
+    620
+  ],
+  "scope": "Native DOM pointer events with real scheduler; GPU screenshots rendered separately. Browser input not certified."
+}

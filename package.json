@@ -1,0 +1,19 @@
+{
+  "name": "room-threejs-standalone",
+  "private": true,
+  "scripts": {
+    "build": "npm run build:site",
+    "build:site": "node scripts/generate-about-llms.mjs && node scripts/build-public.mjs && node scripts/build-runtime.mjs",
+    "optimize": "node scripts/build-compact.mjs && node scripts/build-media.mjs && npm run build:site",
+    "convert": "node scripts/convert-scene.mjs",
+    "test": "node tests/scene.test.mjs && node tests/test-compact-text.mjs && node tests/test-lazy-video.mjs && node tests/test-startup-loading.mjs && node tests/test-public-output.mjs",
+    "format": "prettier --write \"src/*.{js,css,html}\" \"scripts/*.mjs\" \"tools/conversion/*.mjs\" \"tests/*.mjs\"",
+    "format:check": "prettier --check \"src/*.{js,css,html}\" \"scripts/*.mjs\" \"tools/conversion/*.mjs\" \"tests/*.mjs\""
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "prettier": "3.6.2",
+    "sharp": "0.35.5"
+  },
+  "type": "module"
+}

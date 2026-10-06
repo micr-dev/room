@@ -1,0 +1,27 @@
+{
+  "scope": "Virtual RAF with post GPU render mocked; actual Start actions and their repeating scheduler remain active.",
+  "rendersInThreeIdleSeconds": 0,
+  "activeAnimations": 1,
+  "directTransformEditReapplied": true,
+  "settlesAgainAfterEdit": true,
+  "benchmark": {
+    "before": {
+      "scope": "Actual Start actions; 600 warm-up + 600 measured virtual RAF callbacks; post GPU drawing mocked. CPU duration, not browser FPS. Before uses previous apply/idle loop; both use optimized scheduler.",
+      "label": "before",
+      "callbacks": 600,
+      "renders": 600,
+      "worldMatrixTraversals": 600,
+      "cpuMs": 193.15437699999984,
+      "activeAnimations": 1
+    },
+    "after": {
+      "scope": "Actual Start actions; 600 warm-up + 600 measured virtual RAF callbacks; post GPU drawing mocked. CPU duration, not browser FPS. Before uses previous apply/idle loop; both use optimized scheduler.",
+      "label": "after",
+      "callbacks": 600,
+      "renders": 0,
+      "worldMatrixTraversals": 0,
+      "cpuMs": 34.60106300000007,
+      "activeAnimations": 1
+    }
+  }
+}

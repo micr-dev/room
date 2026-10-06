@@ -1,0 +1,45 @@
+{
+  "scope": "Native DOM and virtual RAF; render calls counted with GPU mocked. Scheduler and wake-up test, not a screenshot or browser video test. Camera case clears unrelated startup jobs/tweens and pauses video to isolate a two-second camera animation.",
+  "results": [
+    {
+      "case": "180 idle RAF callbacks before entry",
+      "frames": 180,
+      "renders": 32
+    },
+    {
+      "case": "page change resumes, then settles",
+      "frames": 180,
+      "renders": 32
+    },
+    {
+      "case": "object edit resumes rendering",
+      "frames": 180,
+      "renders": 32
+    },
+    {
+      "case": "pointer event resumes rendering",
+      "frames": 180,
+      "renders": 32
+    },
+    {
+      "case": "playing video continues every RAF",
+      "frames": 90,
+      "renders": 90
+    },
+    {
+      "case": "paused video settles",
+      "frames": 180,
+      "renders": 32
+    },
+    {
+      "case": "two-second camera animation keeps rendering past 32 frames",
+      "frames": 90,
+      "renders": 90
+    },
+    {
+      "case": "completed camera animation settles",
+      "frames": 90,
+      "renders": 0
+    }
+  ]
+}

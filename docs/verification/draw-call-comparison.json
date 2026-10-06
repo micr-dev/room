@@ -1,0 +1,14 @@
+{
+  "state": "Keyboard F13 hover",
+  "sourceMaterialDraws": 514,
+  "convertedMaterialDraws": 514,
+  "storedMeshMatches": 513,
+  "stateFieldsCompared": [
+    "side",
+    "transparent",
+    "depthWrite",
+    "depthTest"
+  ],
+  "mismatches": [],
+  "remainingDraw": "One generated instance UUID differs; same Merged Geometry mesh"
+}

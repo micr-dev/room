@@ -1,0 +1,690 @@
+[
+  {
+    "object": "Cube003",
+    "layer": "layer2",
+    "type": "texture",
+    "file": "assets/6de0257fb90fdc7a6d1a04a00aec40826ea983f556e31d17eea515cdcafbbff3.jpg",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/6de0257fb90fdc7a6d1a04a00aec40826ea983f556e31d17eea515cdcafbbff3.jpg"
+        },
+        "name": "Neutral.png"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        1,
+        -1
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": false,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,-1.000000000000)+vec2(0.000000000000,0.000000000000)))",
+    "geometry": "NonParametricGeometry",
+    "compiled": "assets/7f5f7ecd4b2533d7b43fb1daac5db564d63d16e9aa269083491c5d20e8ac5494.geometry.json"
+  },
+  {
+    "object": "Plane",
+    "layer": "7c20e2a1-379f-4b40-bd36-e9de4359a43e",
+    "type": "video",
+    "file": "assets/e48351d5dbaf62199738cb58ecd25ca94f47d122cc3e62ad7b5275f17d39a767.mp4",
+    "texture": {
+      "video": {
+        "data": {
+          "$asset": "assets/e48351d5dbaf62199738cb58ecd25ca94f47d122cc3e62ad7b5275f17d39a767.mp4"
+        },
+        "thumb": {
+          "$asset": "assets/9f506e936506cea38271b56a3fe2dc1589488cb95fbbcfdf6d07d876575985ac.jpg"
+        },
+        "type": "video",
+        "name": "quarziteanim.mp4"
+      },
+      "wrapping": 1001,
+      "repeat": [
+        1,
+        -1
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": false,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,-1.000000000000)+vec2(0.000000000000,0.000000000000)))",
+    "geometry": "NonParametricGeometry",
+    "compiled": "assets/3334f13f7b86350023de25bc576bc80970cd55fdf7a339a6b48231271f8c9a6f.geometry.json"
+  },
+  {
+    "object": "welcome_to_my_desktop_feel_gradient.webm",
+    "layer": "29c3b2da-8d0b-4af2-b05f-733e050ac812",
+    "type": "video",
+    "file": "assets/db0ba0976f2aaf4cf9734dc1808157e83674692d72e5d8c22421710511cd0edb.mp4",
+    "texture": {
+      "video": {
+        "data": {
+          "$asset": "assets/db0ba0976f2aaf4cf9734dc1808157e83674692d72e5d8c22421710511cd0edb.mp4"
+        },
+        "thumb": {
+          "$asset": "assets/9f506e936506cea38271b56a3fe2dc1589488cb95fbbcfdf6d07d876575985ac.jpg"
+        },
+        "type": "video",
+        "name": "bad.mp4"
+      },
+      "wrapping": 1001,
+      "repeat": [
+        1,
+        0.36363636363636365
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": false,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,0.363636363636)+vec2(0.000000000000,0.000000000000)))",
+    "geometry": "RectangleGeometry",
+    "compiled": "assets/09bdebf4b429f2dd5ada6c29d6c52eceeca3b16e31e593482d8c7b2aafb2693d.geometry.json"
+  },
+  {
+    "object": "transition.png",
+    "layer": "layer1",
+    "type": "texture",
+    "file": "assets/345fc13114ed85e11f3dfec95c5052edaf11e2fca0d89adf03c4470b7592c577.jpg",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/345fc13114ed85e11f3dfec95c5052edaf11e2fca0d89adf03c4470b7592c577.jpg"
+        },
+        "name": "transition.png"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        1,
+        1
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": false,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,1.000000000000)+vec2(0.000000000000,0.000000000000)))",
+    "geometry": "RectangleGeometry",
+    "compiled": "assets/39847fba32f5c4e14e96d3efe13fdf5484d54f463693837aeea5417cbb5d3fcc.geometry.json"
+  },
+  {
+    "object": "loading-full",
+    "layer": "layer1",
+    "type": "texture",
+    "file": "assets/a41e510d429b55a21dc8c5c6f31da78237d24040a5bec7697082027490278aea.jpg",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/a41e510d429b55a21dc8c5c6f31da78237d24040a5bec7697082027490278aea.jpg"
+        },
+        "name": "loading-hover.png"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        1,
+        1
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": false,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,1.000000000000)+vec2(0.000000000000,0.000000000000)))",
+    "geometry": "RectangleGeometry",
+    "compiled": "assets/64b20460fdfe007dd9c07dba6de83eda5aa9806ef6773124c320ad0408076131.geometry.json"
+  },
+  {
+    "object": "Cube",
+    "layer": "layer2",
+    "type": "texture",
+    "file": "assets/b4dc0d4b5536ac139648987129533508108bac299d3b55f55f8f64157668d126.png",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/b4dc0d4b5536ac139648987129533508108bac299d3b55f55f8f64157668d126.png",
+          "mimeType": "image/png"
+        }
+      },
+      "wrapping": 1000,
+      "repeat": [
+        1,
+        -1
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": false,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,-1.000000000000)+vec2(0.000000000000,0.000000000000)))",
+    "geometry": "NonParametricGeometry",
+    "compiled": "assets/a1dde2f029767834802db2929eb66920bb0b83ec2349077ff94ba954b24f79ef.geometry.json"
+  },
+  {
+    "object": "model_0",
+    "layer": "layer2",
+    "type": "texture",
+    "file": "assets/31b9afee953cd71919f90bd422d627390e44f8f3283dfdc984f1f754eded4a02.webp",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/31b9afee953cd71919f90bd422d627390e44f8f3283dfdc984f1f754eded4a02.webp"
+        },
+        "name": "texture (2).webp"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        1,
+        -1
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": false,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,-1.000000000000)+vec2(0.000000000000,0.000000000000)))",
+    "geometry": "NonParametricGeometry",
+    "compiled": "assets/e16ce58715a73ecf771da4dd9ee552bfe514824132931f2a3feba40d133cd14c.geometry.json"
+  },
+  {
+    "object": "model_6",
+    "layer": "layer2",
+    "type": "texture",
+    "file": "assets/a8acb3dd171a16e99dfa0d60e34ffe245d731b2b2de8204791682a2239ea2060.webp",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/a8acb3dd171a16e99dfa0d60e34ffe245d731b2b2de8204791682a2239ea2060.webp"
+        },
+        "name": "texture (3).webp"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        1,
+        -1
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": false,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,-1.000000000000)+vec2(0.000000000000,0.000000000000)))",
+    "geometry": "NonParametricGeometry",
+    "compiled": "assets/0cf72c43204351fc42e1a7af01a60a058b71f8452dc2cca4a73b27a644e3e90d.geometry.json"
+  },
+  {
+    "object": "R_Shift028",
+    "layer": "b8d10f8b-1608-48e7-bc28-0032daf20ab8",
+    "type": "texture",
+    "file": "assets/445d86d040c3e97a6dfd69b4180e397857fe8b0e6d66a6dfe727b9ef220399c4.jpg",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/445d86d040c3e97a6dfd69b4180e397857fe8b0e6d66a6dfe727b9ef220399c4.jpg"
+        },
+        "name": "Smoothed Concrete"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        2,
+        2
+      ],
+      "offset": [
+        0,
+        0
+      ]
+    },
+    "crop": false,
+    "projection": 2,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((vec2(0.5+atan(normalize(localPosition).z,normalize(localPosition).x)/6.283,0.5+asin(clamp(normalize(localPosition).y,-1.0,1.0))/3.1415))*2.0-1.0)*vec2(2.000000000000,2.000000000000)+vec2(0.000000000000,0.000000000000)))",
+    "geometry": "NonParametricGeometry",
+    "compiled": "assets/40d8046a81f652c532448125291aefa5acdc968a58986e6479c3fa53def2c4c1.geometry.json"
+  },
+  {
+    "object": "0019",
+    "layer": "b8d10f8b-1608-48e7-bc28-0032daf20ab8",
+    "type": "texture",
+    "file": "assets/9f025fb45891dfd3188bf99dbc247acdcae98a5e0019734d4456cba59993cac4.jpg",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/9f025fb45891dfd3188bf99dbc247acdcae98a5e0019734d4456cba59993cac4.jpg"
+        },
+        "name": "Smoothed Concrete"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        2,
+        2
+      ],
+      "offset": [
+        0,
+        0
+      ]
+    },
+    "crop": false,
+    "projection": 2,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((vec2(0.5+atan(normalize(localPosition).z,normalize(localPosition).x)/6.283,0.5+asin(clamp(normalize(localPosition).y,-1.0,1.0))/3.1415))*2.0-1.0)*vec2(2.000000000000,2.000000000000)+vec2(0.000000000000,0.000000000000)))",
+    "geometry": "NonParametricGeometry",
+    "compiled": "assets/c6f80033fb33c5d4523f20dbd7876378d13f52cc4d9ae2fefaa8d20830c87c3c.geometry.json"
+  },
+  {
+    "object": "model_2",
+    "layer": "l2",
+    "type": "texture",
+    "file": "assets/b8361a505a72230b6ccd0e2a91b26ef4a9cf60d57c48847caa78c5985d78ea41.webp",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/b8361a505a72230b6ccd0e2a91b26ef4a9cf60d57c48847caa78c5985d78ea41.webp"
+        },
+        "name": "iPodFinal_low_02_-_Default_Diffuse2 (1).webp"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        1,
+        1
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": false,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,1.000000000000)+vec2(0.000000000000,0.000000000000)))",
+    "geometry": "NonParametricGeometry",
+    "compiled": "assets/29328a423ba620ac9dc738bb38a0d2b05f6f546b1bb07ba702890d8baa85f228.geometry.json"
+  },
+  {
+    "object": "Thor_Textured",
+    "layer": "layer2",
+    "type": "texture",
+    "file": "assets/24101e5f757219cd89ea698cbaac7e84e339e8e055c781984677285e27d8ec98.webp",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/24101e5f757219cd89ea698cbaac7e84e339e8e055c781984677285e27d8ec98.webp"
+        },
+        "name": "texture.webp"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        1,
+        -1
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": false,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,-1.000000000000)+vec2(0.000000000000,0.000000000000)))",
+    "geometry": "NonParametricGeometry",
+    "compiled": "assets/1bb706b019bfd6a19676cba01eca9b5fefaa11871ff0ead42adbd64a4863d098.geometry.json"
+  },
+  {
+    "object": "Dorito_Textured",
+    "layer": "layer2",
+    "type": "texture",
+    "file": "assets/9c94d9faf41cf59fd82cfa04372b34b1f48771e95cf1dec1f9b38f1ddfe481e4.webp",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/9c94d9faf41cf59fd82cfa04372b34b1f48771e95cf1dec1f9b38f1ddfe481e4.webp"
+        },
+        "name": "texture (1) (1).webp"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        1,
+        -1
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": false,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,-1.000000000000)+vec2(0.000000000000,0.000000000000)))",
+    "geometry": "NonParametricGeometry",
+    "compiled": "assets/edb6766189825c5d47b59896a9666df2860d447a6e9621d6e8eb057d428eaf97.geometry.json"
+  },
+  {
+    "object": "group_BOOK_B_Couv_Down",
+    "layer": "1",
+    "type": "texture",
+    "file": "assets/88addbf9bacb1c880d66f8b7f0417b19243db14c86b0307d4c47ea07e1f0c67f.webp",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/88addbf9bacb1c880d66f8b7f0417b19243db14c86b0307d4c47ea07e1f0c67f.webp"
+        },
+        "name": "descarga - 2025-06-13T220102.741 (1).webp"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        1,
+        1
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "rotation": 180,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": false,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(-1.000000000000,0.000000000000,-0.000000000000,-1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,1.000000000000)+vec2(0.000000000000,0.000000000000)))",
+    "geometry": "NonParametricGeometry",
+    "compiled": "assets/bf4621680d5da19eba3fe99023c34afdd10c13d2c28401c30676647c38fb14ee.geometry.json"
+  },
+  {
+    "object": "cover",
+    "layer": "l2",
+    "type": "texture",
+    "file": "assets/d973e107c1b8b31c312b847fa1a356018c6d5f06eb9d2ec836fa5109d2613940.jpg",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/d973e107c1b8b31c312b847fa1a356018c6d5f06eb9d2ec836fa5109d2613940.jpg"
+        },
+        "name": "81EezeWs+EL._AC_UF1000,1000_QL80_ (1).webp"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        1,
+        1
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": false,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,1.000000000000)+vec2(0.000000000000,0.000000000000)))",
+    "geometry": "NonParametricGeometry",
+    "compiled": "assets/bf4621680d5da19eba3fe99023c34afdd10c13d2c28401c30676647c38fb14ee.geometry.json"
+  },
+  {
+    "object": "gaming-folder-good.png",
+    "layer": "layer1",
+    "type": "texture",
+    "file": "assets/98927613ca32e31b8473ccc2d66c9173faf4e366ade104a76ffd5761a86e0e1d.webp",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/98927613ca32e31b8473ccc2d66c9173faf4e366ade104a76ffd5761a86e0e1d.webp"
+        },
+        "name": "gaming-folder-good.png"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        1,
+        1
+      ],
+      "offset": [
+        0,
+        0.17
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": true,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,1.000000000000)+vec2(0.000000000000,0.170000000000)))",
+    "geometry": "RectangleGeometry",
+    "compiled": "assets/3916f4fb0e7ea4aa7f0551010856ba8556bc600246822096f0d8084be2ba8287.geometry.json"
+  },
+  {
+    "object": "projects-folder.png",
+    "layer": "layer1",
+    "type": "texture",
+    "file": "assets/9ea09a27261ee0a2f704db26f3544125a6e38ff8a962be3f25887b1e37a61d58.webp",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/9ea09a27261ee0a2f704db26f3544125a6e38ff8a962be3f25887b1e37a61d58.webp"
+        },
+        "name": "projects-folder.png"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        1,
+        1
+      ],
+      "offset": [
+        -0.03,
+        0.03
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": true,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,1.000000000000)+vec2(-0.030000000000,0.030000000000)))",
+    "geometry": "RectangleGeometry",
+    "compiled": "assets/3916f4fb0e7ea4aa7f0551010856ba8556bc600246822096f0d8084be2ba8287.geometry.json"
+  },
+  {
+    "object": "others-Oflder-fashionm",
+    "layer": "layer1",
+    "type": "texture",
+    "file": "assets/de50e4ec5669bc7cc308eed865cc6d65198db6ce5be547b443a73c2c41af66fb.webp",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/de50e4ec5669bc7cc308eed865cc6d65198db6ce5be547b443a73c2c41af66fb.webp"
+        },
+        "name": "others-folder-fashion.png"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        1,
+        1
+      ],
+      "offset": [
+        0,
+        0.09
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": true,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,1.000000000000)+vec2(0.000000000000,0.090000000000)))",
+    "geometry": "RectangleGeometry",
+    "compiled": "assets/3916f4fb0e7ea4aa7f0551010856ba8556bc600246822096f0d8084be2ba8287.geometry.json"
+  },
+  {
+    "object": "others_folder_keyboards",
+    "layer": "layer1",
+    "type": "texture",
+    "file": "assets/248965642fe291ec43064af86abd9d06112734a13e91354c9cc1051efa63841f.webp",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/248965642fe291ec43064af86abd9d06112734a13e91354c9cc1051efa63841f.webp"
+        },
+        "name": "others-folder-keyboards.png"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        1,
+        1
+      ],
+      "offset": [
+        0,
+        0.09
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": true,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,1.000000000000)+vec2(0.000000000000,0.090000000000)))",
+    "geometry": "RectangleGeometry",
+    "compiled": "assets/3916f4fb0e7ea4aa7f0551010856ba8556bc600246822096f0d8084be2ba8287.geometry.json"
+  },
+  {
+    "object": "others-folder-main.png",
+    "layer": "layer1",
+    "type": "texture",
+    "file": "assets/da622f60e005040e459f35158a19a7f31121c251fc552b7e3dfb2259715c9b8a.webp",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/da622f60e005040e459f35158a19a7f31121c251fc552b7e3dfb2259715c9b8a.webp"
+        },
+        "name": "others-folder-main.png"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        1,
+        1
+      ],
+      "offset": [
+        0,
+        0.09
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": true,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,1.000000000000)+vec2(0.000000000000,0.090000000000)))",
+    "geometry": "RectangleGeometry",
+    "compiled": "assets/e52a202f8a98fd40c00246297713f5697e5a248875a0bab747530b5d75f2c6df.geometry.json"
+  },
+  {
+    "object": "LoadingScreen.mp4",
+    "layer": "6f04f82d-4e8f-4235-aac0-0f43f663c168",
+    "type": "video",
+    "file": "assets/c179ce11b1771e2aeea46960cff96a75087c7149f87f8ebcd9324dcbb89d38d0.mp4",
+    "texture": {
+      "video": {
+        "data": {
+          "$asset": "assets/c179ce11b1771e2aeea46960cff96a75087c7149f87f8ebcd9324dcbb89d38d0.mp4"
+        },
+        "thumb": {
+          "$asset": "assets/070e52d659c76c48f5c06edf2e5b87326353459e083ee2769a4e0ef5a56ef5d4.jpg"
+        },
+        "name": "LoadingScreen.mp4",
+        "type": "video"
+      },
+      "wrapping": 1001,
+      "repeat": [
+        1,
+        1
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": false,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,1.000000000000)+vec2(0.000000000000,0.000000000000)))",
+    "geometry": "RectangleGeometry",
+    "compiled": "assets/385fe1f1f498c349cea1f06188405b41f05c6c0b42c0b61ba343572109a87624.geometry.json"
+  },
+  {
+    "object": "bg-full.png",
+    "layer": "layer1",
+    "type": "texture",
+    "file": "assets/fd9f41e5e29b6ba9e5b731813704a1b0564e87e1430eda3dd45a7a0781a0aaf8.jpg",
+    "texture": {
+      "image": {
+        "data": {
+          "$asset": "assets/fd9f41e5e29b6ba9e5b731813704a1b0564e87e1430eda3dd45a7a0781a0aaf8.jpg"
+        },
+        "name": "bg-full.png"
+      },
+      "wrapping": 1000,
+      "repeat": [
+        1,
+        1
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "rotation": 0,
+      "minFilter": 1008,
+      "magFilter": 1006
+    },
+    "crop": false,
+    "projection": 0,
+    "glsl": "(vec2(0.5)+0.5*mat2(1.000000000000,0.000000000000,0.000000000000,1.000000000000)*(((rawUV)*2.0-1.0)*vec2(1.000000000000,1.000000000000)+vec2(0.000000000000,0.000000000000)))",
+    "geometry": "RectangleGeometry",
+    "compiled": "assets/64b20460fdfe007dd9c07dba6de83eda5aa9806ef6773124c320ad0408076131.geometry.json"
+  }
+]

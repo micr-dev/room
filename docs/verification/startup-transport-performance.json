@@ -1,0 +1,28 @@
+{
+  "scope": "Local Node gzip inflate + JSON parse + full byte restoration. Six warm samples; excludes network, browser, shader compilation and GPU.",
+  "beforeBytes": 14810834,
+  "afterBytes": 13177707,
+  "transferReductionPercent": 11.02657014453069,
+  "samplesMs": {
+    "before": [
+      172.041021,
+      165.894998,
+      168.73876799999994,
+      170.3419080000001,
+      169.59053300000005,
+      166.33191699999998
+    ],
+    "after": [
+      170.23051299999997,
+      151.12003200000004,
+      149.10662300000013,
+      149.53522999999996,
+      147.28465899999992,
+      148.59354399999984
+    ]
+  },
+  "meanMs": {
+    "before": 168.82319083333334,
+    "after": 152.64510016666665
+  }
+}

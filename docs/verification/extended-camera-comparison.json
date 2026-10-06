@@ -1,0 +1,197 @@
+{
+  "scope": "32 sequential states; active camera projection and world matrices; native virtual RAF fixture",
+  "results": [
+    {
+      "label": "start",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 4.547473508864641e-12,
+      "status": "pass"
+    },
+    {
+      "label": "2-mouseHover-13a9552d-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 1.4691128424892952e-08,
+      "status": "pass"
+    },
+    {
+      "label": "3-mouseHover-13a9552d-true",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 1.2732925824820995e-11,
+      "status": "pass"
+    },
+    {
+      "label": "4-mouseHover-05d7915d-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 1.4691133143340807e-08,
+      "status": "pass"
+    },
+    {
+      "label": "5-mouseHover-05d7915d-true",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 1.4691135363786856e-08,
+      "status": "pass"
+    },
+    {
+      "label": "6-mouseDown-13a9552d-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 2.3646862246096134e-11,
+      "status": "pass"
+    },
+    {
+      "label": "7-mouseDown-de1bfcc3-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 3.2754198895354384e-09,
+      "status": "pass"
+    },
+    {
+      "label": "8-mouseDown-e0f22b4f-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 2.6693669497035444e-10,
+      "status": "pass"
+    },
+    {
+      "label": "9-mouseDown-c6100348-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 1.6325429896824062e-10,
+      "status": "pass"
+    },
+    {
+      "label": "10-mouseDown-e241d2d4-false",
+      "maximumProjectionError": 3.0357660829594124e-18,
+      "maximumCameraWorldError": 2.6693669497035444e-10,
+      "status": "pass"
+    },
+    {
+      "label": "11-mouseDown-05d7915d-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 1.8030732462648302e-10,
+      "status": "pass"
+    },
+    {
+      "label": "12-mouseDown-533bc62f-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 2.6693669497035444e-10,
+      "status": "pass"
+    },
+    {
+      "label": "13-mouseDown-30b6cf6b-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 1.318767317570746e-10,
+      "status": "pass"
+    },
+    {
+      "label": "14-mouseDown-e0ad34f9-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 2.6830093702301383e-10,
+      "status": "pass"
+    },
+    {
+      "label": "15-mouseDown-a3c78044-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 9.276845958083868e-11,
+      "status": "pass"
+    },
+    {
+      "label": "16-mouseDown-29fab0a0-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 2.6830093702301383e-10,
+      "status": "pass"
+    },
+    {
+      "label": "17-mouseDown-2653c1e1-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 1.1032424973578259e-12,
+      "status": "pass"
+    },
+    {
+      "label": "18-mouseDown-3cac6b32-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 5.152287485543638e-10,
+      "status": "pass"
+    },
+    {
+      "label": "19-mouseDown-eb44ea9c-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 1.7818301684095666e-09,
+      "status": "pass"
+    },
+    {
+      "label": "20-mouseDown-464c9278-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 5.194701221057456e-09,
+      "status": "pass"
+    },
+    {
+      "label": "21-mouseDown-366c9975-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 3.5119796972433913e-09,
+      "status": "pass"
+    },
+    {
+      "label": "22-mouseDown-44465644-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 3.511979545934005e-09,
+      "status": "pass"
+    },
+    {
+      "label": "23-mouseDown-36df5187-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 3.511979394624605e-09,
+      "status": "pass"
+    },
+    {
+      "label": "24-mouseDown-6834529d-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 3.5119792433152055e-09,
+      "status": "pass"
+    },
+    {
+      "label": "25-mouseDown-64172c93-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 9.99307306423116e-09,
+      "status": "pass"
+    },
+    {
+      "label": "26-mouseDown-5d245355-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 1.5907201427469417e-08,
+      "status": "pass"
+    },
+    {
+      "label": "27-mouseDown-6834529d-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 1.590720127615999e-08,
+      "status": "pass"
+    },
+    {
+      "label": "28-mouseDown-c910b656-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 1.4473993222491721e-08,
+      "status": "pass"
+    },
+    {
+      "label": "29-mouseDown-5d245355-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 1.4473993071182335e-08,
+      "status": "pass"
+    },
+    {
+      "label": "30-mouseDown-6d0d15bc-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 4.547473508864641e-12,
+      "status": "pass"
+    },
+    {
+      "label": "31-mouseDown-3ebfee77-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 1.3642420526593924e-12,
+      "status": "pass"
+    },
+    {
+      "label": "32-mouseDown-6d0d15bc-false",
+      "maximumProjectionError": 0.0,
+      "maximumCameraWorldError": 4.547473508864641e-12,
+      "status": "pass"
+    }
+  ]
+}

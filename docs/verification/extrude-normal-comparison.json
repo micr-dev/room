@@ -1,0 +1,2530 @@
+{
+  "tolerance": 0.001,
+  "results": [
+    {
+      "id": "204f53d5-06be-41ac-b237-da2656179176",
+      "name": "Rectangle 2",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "509df64b-b35f-4854-a71e-90bebed56b91",
+      "name": "Rectangle 2",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "5065083a-c5d4-4c1c-a259-724c682cda53",
+      "name": "Rectangle 2",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "c2b1f511-63d9-43fe-aa41-400d1c29953e",
+      "name": "Rectangle 2",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "1ff02f15-71ed-43a0-a477-bfbc619c4ce3",
+      "name": "Rectangle 2",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "9270f571-75ac-45d0-a3a0-6ed31498d409",
+      "name": "Rectangle 2",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "8d1c6a72-ed57-466c-aaf8-753148cadd2b",
+      "name": "Wall",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "157e375b-3b40-4652-a041-25b9cc4c4d8d",
+      "name": "Wall",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "91c5bc45-8d5a-4ebb-9555-b93520fa159e",
+      "name": "Cube",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "3ad3b136-0b4d-4c2d-8876-973f75450ba8",
+      "name": "Cube001",
+      "maxPositionExtrudeNormalError": 1.3328003749250113e-07
+    },
+    {
+      "id": "fcf40ee9-dc78-412f-bce4-e4981f5e59b8",
+      "name": "Cube002",
+      "maxPositionExtrudeNormalError": 1.2288165240034868e-07
+    },
+    {
+      "id": "afe7f7f8-5e80-4d6f-ba8c-04ca4aa49280",
+      "name": "Cube003",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "422557eb-9736-4420-9647-0360f6bc623b",
+      "name": "Cube005",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "199a8f57-fbe1-4091-bf1f-1719ab7b935d",
+      "name": "Cube006",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "b67f359f-ae68-4a95-b727-77d60d113cc4",
+      "name": "Cylinder",
+      "maxPositionExtrudeNormalError": 1.7120130796843852e-07
+    },
+    {
+      "id": "2adf8a87-c4dc-4821-866f-0405cddfebc3",
+      "name": "Plane",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "68da22f2-4b6e-4714-9297-186f4b4c435d",
+      "name": "Plane002",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "57eac119-8b4e-4201-a5e6-7c6a739f7a1f",
+      "name": "Trainers_01",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "4facac64-d4fb-4309-9f95-a8fd1f92ede4",
+      "name": "Cube",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "deede0f6-b43a-4c48-a8e8-3beac713fb41",
+      "name": "Cube001",
+      "maxPositionExtrudeNormalError": 1.3328003749250113e-07
+    },
+    {
+      "id": "3c1be635-cb2a-4111-ac13-95b2e73a0ed7",
+      "name": "Cube002",
+      "maxPositionExtrudeNormalError": 1.2288165240034868e-07
+    },
+    {
+      "id": "4131c1c4-8e43-45d4-a5d3-cee36a989302",
+      "name": "Cube003",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "297a5ff4-7262-4acf-9d87-14d44500c739",
+      "name": "Cube005",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "156482e6-7e48-4ee0-82e9-d8a79679838c",
+      "name": "Cube006",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "ecc1f5dd-e56a-4323-8841-697a93499993",
+      "name": "Cylinder",
+      "maxPositionExtrudeNormalError": 1.7120130796843852e-07
+    },
+    {
+      "id": "d3de1280-c281-43f2-90ec-2f1af6bf6613",
+      "name": "Plane",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "decda9e6-3d30-42ea-9ca6-fb621db8ec86",
+      "name": "Plane002",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "8176c0a4-3349-49b8-b96b-c8e154ca8873",
+      "name": "Trainers_01",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "9cec74e7-f9c7-4846-8fa5-022900a5b6ef",
+      "name": "model_0",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "7a05ce7b-d8ea-45f8-9539-73688bf2fad6",
+      "name": "model_1",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "b0be59e6-9ab5-4cfd-9a2e-f656df6205db",
+      "name": "model_2",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "bacfc150-2b53-411e-9752-3d0559fcfd37",
+      "name": "model_6",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "c3399cd0-4c49-4941-abaa-9ee4ea82cdd0",
+      "name": "model_7",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "0564bf36-1e2a-4ae9-956d-80156b6bdf49",
+      "name": "model_8",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "efe8f4e3-52e2-4be7-a100-f9149ef67fbc",
+      "name": "model_0",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "024dea29-6d6d-4923-b338-c370b084ef0b",
+      "name": "model_1",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "57203e57-9f32-4b13-b8bf-daf85c9254c5",
+      "name": "model_2",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "f230dd44-b233-4858-a956-c869bc556aef",
+      "name": "model_6",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "25b6ad95-6e01-43cd-88d5-7ebc28e62b65",
+      "name": "model_7",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "785083e4-b6dd-4bb5-9284-fe186bee2398",
+      "name": "R_Shift028",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "b6887dcb-9494-4e66-b447-3437e9ccf325",
+      "name": "0019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "abecd544-71c5-43d8-8f8c-d4b4b80106b0",
+      "name": "1019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "ac7148d2-264e-4571-8d66-afe458c43ab9",
+      "name": "2019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "c3c55528-97c5-4ff5-9a69-6d305d23246a",
+      "name": "3019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "1d994249-91de-4a3e-9092-f11fb54563fa",
+      "name": "4019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "bede46ba-f30f-43ba-b66a-c55b7b9ed5df",
+      "name": "5019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "2248b795-8c7d-408c-bd49-7386ef16a572",
+      "name": "6019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "323e08ed-c017-497f-9194-2e9bfd58f29a",
+      "name": "7019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "16934d8a-b6fb-40bc-8076-1e172caf6e3d",
+      "name": "8019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "3242e833-388f-4b92-a376-26d06c208574",
+      "name": "9019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "f7c3bf58-c015-4dcc-831b-d1153cbac7c7",
+      "name": "A021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "1e617e5d-1971-4316-9ab8-1f26deffeadf",
+      "name": "At019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "5d751b57-0e7b-490f-ba32-ff6501e8d96a",
+      "name": "B021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "5018a427-cefd-4daa-b036-f995ca18b05a",
+      "name": "BackSpace019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "e281763e-35ae-4e7f-acd4-0a3785f1dd8b",
+      "name": "C021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "5d792012-29ae-4e8c-a763-8c2a1797ca2d",
+      "name": "Caps020",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "f7228a7c-a612-4502-98bc-747223d50de2",
+      "name": "CapsLock_Stepped_Icon_Full017",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "6a655125-cc42-48a1-8208-3485304149bc",
+      "name": "Close019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "0661efba-96f0-484d-a5d7-e0653fa8cb37",
+      "name": "Comma021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "334549c8-ff8c-4580-8bec-e34d5eafe662",
+      "name": "D021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "7b1ac412-9ce5-48be-bf32-c8ec5010377a",
+      "name": "D_Cursor018",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "b4d25bcc-da4e-47db-9873-0cfb1f02742f",
+      "name": "Del012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "d7ec69b8-7699-422c-a643-3547a611e5b8",
+      "name": "E021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "f4bc7485-30a5-45a5-ad97-f9f7abcec707",
+      "name": "End009",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "23d5e361-39eb-4ebe-85f9-4291ba04a472",
+      "name": "Enter019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "ff90afa2-faf0-4dde-8ad3-89d9e942e873",
+      "name": "Esc012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "0cc1e22c-88c9-469b-b6e8-ec8ceab5c8e2",
+      "name": "F023",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "5af5fcc3-5788-480a-bfab-21c986bfca00",
+      "name": "F1012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "f9b32d35-213e-4b25-bab8-734d667b3ddb",
+      "name": "F10012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "61a098a6-916f-49b4-aa3e-1627a6a0e6c0",
+      "name": "F11012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "17b8c8eb-48b3-4a8f-8b9c-c2217c870910",
+      "name": "F12012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "33ac6828-146f-41b2-a2cd-e42be9597c6c",
+      "name": "F13001",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "7f9f9987-f071-4613-a9d0-b6800bd25b95",
+      "name": "F2012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "1c01669b-f06d-46f6-9bf7-e880e6bc9205",
+      "name": "F3012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "5ece24aa-afb4-46f7-b696-da467477310b",
+      "name": "F4012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "628b24fc-f6bf-480c-9c0f-181eb4ca2048",
+      "name": "F5012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "5f1e2966-d711-45c2-91b0-3eadcd2a9a09",
+      "name": "F6012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "31ffba3d-16e3-42bf-909b-934a1218e0fc",
+      "name": "F7012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "156678bd-180f-4ecd-9322-7f59efe4acec",
+      "name": "F8012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "7cec878b-5cdd-4cc6-baf9-29f8c3f4ac5f",
+      "name": "F9012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "fa5629da-3ffe-49a5-8bac-6f5a60049fcf",
+      "name": "G021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "d46847ff-d943-4edd-a492-a03023797c7f",
+      "name": "H021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "9ec97780-7f6a-4fbf-99d8-8c33e211bd7d",
+      "name": "Home010",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "5f32307e-640b-43b1-82e4-ecee10f76dd7",
+      "name": "I023",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "b395dde3-c616-4a57-b0b6-c4ec035a08b9",
+      "name": "Insert011",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "4c9a7c73-2016-43da-ad38-2a9ff5b3dbbe",
+      "name": "J023",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "bd61d9fe-6486-4372-a1b9-733c55c337e5",
+      "name": "K021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "4d066afe-aca1-40cd-a392-ae616cbbe71a",
+      "name": "L021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "250b17e8-17eb-427e-9a1b-ae5b13f981ac",
+      "name": "L_AltTs016",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "864098b4-74d2-4c22-a25b-7567642382f7",
+      "name": "L_CtrlTs016",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "b94efecd-7fbb-4afa-a1ff-93a660327f6c",
+      "name": "L_Cursor018",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "8acc808f-6867-4657-87fa-3abc16f60ce0",
+      "name": "L_Shift019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "1fa7d6ef-5492-418b-b553-0afff4f0e40e",
+      "name": "M021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "22976360-8b06-4d28-8bbb-328d155e94ae",
+      "name": "Minus019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "5e59178c-88d4-4f27-97a8-044bf3431f95",
+      "name": "N021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "6f3a79e6-9452-4d39-b755-a244496aab58",
+      "name": "Not004",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "abc6f349-942f-4edb-9558-52b9c212fb03",
+      "name": "O021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "9fe9af6a-646c-4a5b-b7c9-488a5a43df7c",
+      "name": "Open019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "a41daf24-fb40-4c25-a6b6-0b72bb0e4e0a",
+      "name": "P021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "96220d33-56c1-4092-a666-b9d235bbeddb",
+      "name": "PageDown007",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "14944003-7c7d-4266-8081-44c5caa043c6",
+      "name": "PageUp008",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "d4cd9be9-a051-45ff-b63a-cc4dcfabd05a",
+      "name": "Pause009",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "1d84fa19-2f0e-4754-93ff-e384e2944da1",
+      "name": "Pipe019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "83e42b1e-eb49-4908-b63a-436dcb4d4083",
+      "name": "Plus003",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "a11fe33e-6750-4b89-8e2e-f1d0209ec949",
+      "name": "PS008",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "2d21f80f-858c-4204-bd35-b6b5e37da640",
+      "name": "Q021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "dc7d311b-b02d-4983-9cbe-8d9668c25421",
+      "name": "Question019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "b02264ef-7da3-4971-8664-84bdf9f1aa31",
+      "name": "Quote019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "351e3697-a08b-4c76-8397-3560ba556dcb",
+      "name": "R021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "1184a2a3-adea-4372-af87-286d558bcdb4",
+      "name": "R_AltTs014",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "42225ef8-4ff8-4c6b-879a-3897a9638228",
+      "name": "R_CtrlTs014",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "d7416854-e24b-4f8d-a79e-f68a1f441508",
+      "name": "R_Cursor018",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "026be603-e6bc-4678-bdd5-cda4545d9576",
+      "name": "S021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "4919bd76-cf00-4a68-9698-005584ae797f",
+      "name": "Scroll008",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "cc7cf04c-22d4-4422-a7fe-df5dd8e7a993",
+      "name": "SemiColon021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "9fb98801-c020-4cf2-8aa2-b3d6c07790c4",
+      "name": "Spacebar7016",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "261d5181-bb84-411b-8b5c-77bfdbc56f49",
+      "name": "Stop010",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "66bec5c5-bc6f-4252-b580-4a8cb3297a07",
+      "name": "T021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "3b5df116-8edd-4dd6-b3fe-8bfa929ea265",
+      "name": "Tab019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "ef133e67-be14-4d5d-b7cc-c861080d06b8",
+      "name": "Tilde009",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "d401c4d6-e52b-49af-a05d-a989edfae550",
+      "name": "U021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "e2cf2528-48b2-4e5c-a41a-a0065f008675",
+      "name": "U_Cursor018",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "9a76393e-dee8-4a24-85e1-93b92f780a85",
+      "name": "V021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "bb43a3e2-a443-4fb5-aef6-c860a219fc04",
+      "name": "W021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "06f04b67-de09-4510-a0dc-f45ec06590ae",
+      "name": "X021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "630e61c2-d1df-4985-8592-4505861ff943",
+      "name": "Y021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "8bec4003-da0a-4e2d-8cac-cb08e5c02f56",
+      "name": "Z021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "2d6114c8-bfcd-487e-9b56-37f89da90a49",
+      "name": "Phoenix_Bottom001",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "9581ed7b-064f-4db1-847b-f028f74605e5",
+      "name": "Phoenix_Feet001",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "6ae229f8-a9df-41c9-b651-7cca46aa2120",
+      "name": "Phoenix_Top_WKL",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "6e0ffc5d-410a-4e5c-963a-8c2aaceb00a0",
+      "name": "PhoenixPlate001",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "0ebb4c23-5ef8-48ac-8706-62eb4acced62",
+      "name": "USBC_Connx001",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "99b37845-af94-4570-af63-2c8d4675c75e",
+      "name": "USBC_Connx001_1",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "03cda255-d064-40e3-b046-74eee0ca807d",
+      "name": "R_Shift028",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "b56b1749-1595-4dbf-acc7-f160bfceae80",
+      "name": "0019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "bc3624be-d6c7-42d5-99c2-f107392dfa4f",
+      "name": "1019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "63b4d079-9fbe-4d66-b93c-fc42078e2d27",
+      "name": "2019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "5ac14ec8-4308-4ecd-af16-c512c11252bf",
+      "name": "3019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "2a6c58b8-cebd-49e0-b495-15822b0ac474",
+      "name": "4019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "aee5ca21-a748-4806-a05b-83b7da49095c",
+      "name": "5019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "0223256a-1166-4a3e-a560-ac276f4714a1",
+      "name": "6019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "37d6f89a-9e8f-40f4-93b9-bfc4416a6310",
+      "name": "7019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "bdd83d8a-a21d-4c4b-ab8c-a5b413f48cf5",
+      "name": "8019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "a5e0d613-c7ff-4f05-b2d6-986f089b8dee",
+      "name": "9019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "5f29f32e-fb8c-46bd-8889-5737ae7d635d",
+      "name": "A021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "d98ce806-c091-45bb-8d49-467b17d8bedd",
+      "name": "At019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "372dd3d5-2c94-441e-a932-d89e04d84d82",
+      "name": "B021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "0a3e8e19-03f2-4799-8ff6-93a73b90ec23",
+      "name": "BackSpace019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "9f97ae4b-033c-4e69-9c22-664cbe174bfa",
+      "name": "C021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "899d2073-76d2-48b2-bc15-8e5f66ec05de",
+      "name": "Caps020",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "a1897551-0264-4b8e-ad97-b549edc90c31",
+      "name": "CapsLock_Stepped_Icon_Full017",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "b013cca0-b05d-4249-8e78-02ceb0bd155f",
+      "name": "Close019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "7e7b972e-f67d-408a-b996-d2d94165a6f2",
+      "name": "Comma021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "b240e472-d69f-4a6b-ae64-026ee9cbbbf0",
+      "name": "D021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "2a05de0b-b538-46a0-8d1f-604d7f1064ad",
+      "name": "D_Cursor018",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "bd1251bf-2287-4e83-b412-5b063dd3981b",
+      "name": "Del012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "49e3cdb8-7f89-471c-b400-cbfe3074f8fa",
+      "name": "E021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "be64555b-d3e1-4048-bd18-c90d048163c7",
+      "name": "End009",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "aad5e01f-ceeb-473f-83ed-0bc1d4588194",
+      "name": "Enter019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "716bc3ec-d758-4413-a160-2eceaab1fd08",
+      "name": "Esc012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "e9270c32-ac30-456c-a6f0-0d6dcecee466",
+      "name": "F023",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "07351188-d24e-4087-b370-ac7529824792",
+      "name": "F1012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "f9dbbfc9-fa2b-47a6-93ec-d006cbfa3ec6",
+      "name": "F10012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "c4b98322-b7b3-4f38-9be7-11b437ab5217",
+      "name": "F11012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "cde25ec4-0da9-4b54-b33d-8529f454f807",
+      "name": "F12012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "ed5a8c58-b51d-4784-bb13-f942e03ee6b6",
+      "name": "F13001",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "94c6bcbe-21fb-4199-9dd6-6349dcf5083e",
+      "name": "F2012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "4ba0c452-5e06-4b43-9cf7-fddf6a8248a9",
+      "name": "F3012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "ab1b6aa3-11c9-4582-a168-ac50478e24f6",
+      "name": "F4012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "fcfc39d8-f6b6-4555-8cc4-5b8b4807107a",
+      "name": "F5012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "e7d69c82-c272-4f99-81d9-90bbc4685940",
+      "name": "F6012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "9adffe36-5896-4a5a-b855-c5f0e1980edb",
+      "name": "F7012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "67edec9f-8e46-4c03-b4be-1ac61d75884a",
+      "name": "F8012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "a5cb525e-63b4-4225-8d45-359ccac88edc",
+      "name": "F9012",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "d64dc6ab-8356-4c36-bce6-ffe3cb8c37b3",
+      "name": "G021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "90c8e118-0298-46aa-a9a1-672686a45acf",
+      "name": "H021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "61561cd8-1ad3-4a9a-b23c-aa7bb459363b",
+      "name": "Home010",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "2a7133d5-5769-4345-88f6-589458e0e8be",
+      "name": "I023",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "1a06230e-58f6-409c-b07f-182a7b10b48b",
+      "name": "Insert011",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "5586978a-39fa-411d-b9e7-a52bb752266a",
+      "name": "J023",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "bfdd709e-3730-4ee8-9ebb-88b98bc8b617",
+      "name": "K021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "9f39e861-7232-4b4f-9d66-3141658fd9bd",
+      "name": "L021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "4e3891db-bc1e-4838-b9ab-7c1ff86d88db",
+      "name": "L_AltTs016",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "1bcd4749-abd7-4644-8dc8-162be15b2e9f",
+      "name": "L_CtrlTs016",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "fc40e1ca-0451-44d7-a0b7-58ad6a1914cf",
+      "name": "L_Cursor018",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "fdf1559d-81b7-4e93-801c-4f0eb0ab5c45",
+      "name": "L_Shift019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "991ea007-1940-434f-88a6-2c4c5442a629",
+      "name": "M021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "100301ed-3938-43d9-8211-9fd5b2185755",
+      "name": "Minus019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "8f6d1647-55a1-4fb9-ae4a-258967174984",
+      "name": "N021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "6ea0263a-60ec-438e-8c07-8e125437e036",
+      "name": "Not004",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "47ef4880-e01b-4e46-baff-fc3b91569935",
+      "name": "O021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "9e3517c1-23b6-43e5-a13e-ee148295ac30",
+      "name": "Open019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "21524635-ec97-41f3-8391-f267788061a8",
+      "name": "P021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "89cb1a0b-0661-4420-9afb-d7a6cab5aa4b",
+      "name": "PageDown007",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "d47854ea-50ea-4d89-b485-91990d270797",
+      "name": "PageUp008",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "45823c2c-a178-4dea-9fe4-0dd65caa7f12",
+      "name": "Pause009",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "469ce5e7-485c-4fd1-adc7-88e13c74352e",
+      "name": "Pipe019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "2f409ed7-6358-4fcb-822e-0c1d2a749fc3",
+      "name": "Plus003",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "edde78a8-f981-4596-a99a-272a79dccc81",
+      "name": "PS008",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "39eaf1b6-0a0c-4732-a000-59b4fbbc47f8",
+      "name": "Q021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "8c51558a-0950-4076-ae8c-61ebf0653965",
+      "name": "Question019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "64fcc3bc-e93e-40ac-bdf9-f48e6e8e4a15",
+      "name": "Quote019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "0ae21d9e-bf6f-436b-9e9d-e93adae20f3c",
+      "name": "R021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "da9c7e6b-0536-4454-9321-77f5e25d4c50",
+      "name": "R_AltTs014",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "add457f2-3a9d-4c3f-a7c0-27d92f3ea1f1",
+      "name": "R_CtrlTs014",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "81ac4d68-89ed-4b5c-acc0-8c226e05dac9",
+      "name": "R_Cursor018",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "658a77d8-9261-47d8-997f-a9ed276ab826",
+      "name": "S021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "b918e497-4d2a-4796-a239-f79064fed434",
+      "name": "Scroll008",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "64395416-55c2-4e08-9ad5-ccf3c0d7c51b",
+      "name": "SemiColon021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "ecd68a9e-552f-4a2f-99e2-c0bdcd5375de",
+      "name": "Spacebar7016",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "123eaa1a-94ff-420e-881d-d8b07f25217e",
+      "name": "Stop010",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "125fa547-22c5-4ba8-8819-2a2b23191112",
+      "name": "T021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "d8034fd5-d99a-47aa-a508-932db9508eda",
+      "name": "Tab019",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "71aff44f-0874-4891-9f65-923161e27a91",
+      "name": "Tilde009",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "e34202d1-2a5c-4855-a776-b6d04e14dca2",
+      "name": "U021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "adb19da4-19fc-400a-8ad1-cd6b48f7acc5",
+      "name": "U_Cursor018",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "913e78e7-7c58-491c-b1bd-3d031b681212",
+      "name": "V021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "b8ea8c4d-2ada-4e4a-a222-c976e153e2cc",
+      "name": "W021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "b18bd462-77d8-4795-ab39-d142690a29e2",
+      "name": "X021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "b3c2adfa-6f35-4daf-b16f-e58c01abc2a2",
+      "name": "Y021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "90f67f66-6d71-4472-b2df-faada7f4dc8b",
+      "name": "Z021",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "18bb92aa-e731-47d2-b74b-cb83b88bdf8d",
+      "name": "Phoenix_Bottom001",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "ea4bc5fb-fddf-4288-a4b1-6ba17cdf2097",
+      "name": "Phoenix_Top_WKL",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "9261bbff-09f0-456d-b769-b709b942b138",
+      "name": "Phoenix_Feet001",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "a983f3e5-f924-40a1-b32e-437e07b8e6db",
+      "name": "PhoenixPlate001",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "b8bc3f8e-4aa7-409f-b79a-832a4633fb16",
+      "name": "USBC_Connx001",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "f60e2d47-7c8b-4eef-8709-100c231c08f1",
+      "name": "USBC_Connx001_1",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "66bed476-ee3b-4e9d-ae4c-0afcdcf93f8f",
+      "name": "Caps020",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "2f923714-fd97-4a0d-bc09-f9e79528a9a0",
+      "name": "Phoenix_Feet001",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "c4d627a6-2f61-4db1-a144-3b07b30e85ec",
+      "name": "USBC_Connx001",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "298afafe-c5be-4170-a8f9-bc5a6fe54692",
+      "name": "USBC_Connx001_1",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "29577876-cb39-45fe-9ae6-9ee58dfaee5c",
+      "name": "model_1",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "74857103-1fc0-4850-831d-289113181bcb",
+      "name": "model_2",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "24b15bc8-9b4a-4b4e-9c1d-fe082d5957d1",
+      "name": "model_3",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "08fff35d-367d-4517-bb4a-2254f754e03f",
+      "name": "model_4",
+      "maxPositionExtrudeNormalError": 6.188917057900187e-08
+    },
+    {
+      "id": "b80a2ea5-a551-4192-abc3-534703e888b5",
+      "name": "model_1",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "912dc03b-3e7d-4111-8452-8108f585fce2",
+      "name": "model_2",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "cdeea48c-c9e6-440a-a7a4-6ff2fe859f07",
+      "name": "model_3",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "d6843a9e-fc8e-47e7-a83a-736d0ae6358f",
+      "name": "model_4",
+      "maxPositionExtrudeNormalError": 6.188917057900187e-08
+    },
+    {
+      "id": "1802b3ee-86b6-4f22-804d-6a6c70452df6",
+      "name": "model_5",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "ba075a86-2a35-44cc-a701-dc9ed612fc39",
+      "name": "Thor_Textured",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "32f7efca-2536-48ff-b271-11ec55a1e94b",
+      "name": "Thor_Shadow",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "46249c7c-e7a3-4349-aa1f-c2a0924a55a0",
+      "name": "Dorito_Shadow",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "ab5d8bf3-64c1-45e0-8305-e0b122f0f440",
+      "name": "Dorito_Textured",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "3af6d058-37d4-4b4d-bcd4-e94bb62b8bdd",
+      "name": "PostIt_Textured",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "d58a9493-14a7-4cb1-806d-96e270e09c6b",
+      "name": "PostIt_Shadow",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "770e09bf-6e5b-4b2e-a218-78e77a7dd074",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "c6ccd3f0-e510-41f7-8bc7-b5c1df8b6cd9",
+      "name": "group_BOOK_B_Couv_Up",
+      "maxPositionExtrudeNormalError": 6.828569911354542e-08
+    },
+    {
+      "id": "729536d2-de28-4436-ae5b-ca13f7793533",
+      "name": "group_BOOK_B_Pages_Red",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "1e5121c7-c0ac-4f94-9d6f-9bbca4b1defa",
+      "name": "group_BOOK_B_Pages_FX",
+      "maxPositionExtrudeNormalError": 8.560065398421926e-08
+    },
+    {
+      "id": "d2ef2eaf-5874-4679-8b9e-43d3bea18075",
+      "name": "group_BOOK_B_Pages_FZ",
+      "maxPositionExtrudeNormalError": 8.560065398421926e-08
+    },
+    {
+      "id": "eb7a8ed0-7ef6-449a-9d3a-4b252703682c",
+      "name": "group_BOOK_B_Pages_FX",
+      "maxPositionExtrudeNormalError": 3.371747880871523e-07
+    },
+    {
+      "id": "d3a6f860-87b5-4b8f-94d4-63e57bc74cd4",
+      "name": "group_BOOK_B_Couv_Dos_int",
+      "maxPositionExtrudeNormalError": 1.2644054553268208e-07
+    },
+    {
+      "id": "bbc32dd6-7693-4017-8898-aa85319f000a",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "1d3d4201-85a3-40c8-8991-904d60dcc8b5",
+      "name": "group_BOOK_B_Couv_Up",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "ce770d1f-6808-4d9e-a366-6d93f11535f4",
+      "name": "group_BOOK_B_Couv_Down",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "205780f7-8b6e-4946-882b-a675880efd77",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "715117bb-f45c-4db6-97bf-01a13048270f",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "0c436928-bf17-45c7-a4b7-4b5d39ed8b06",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2644054553268208e-07
+    },
+    {
+      "id": "8df1c79c-bec4-45c5-b694-6e62400ef687",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "5a9fe248-2f7f-4558-9ae9-ccdd89cc81c1",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "fcca0162-cb3c-49c5-a8bf-ff73dde5eec2",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.7133502347401117e-07
+    },
+    {
+      "id": "e3da9b69-4896-448f-abdc-46905a1560b2",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "740ba198-f833-49d6-b7ad-89921d4e0c4a",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.2670431921709637e-07
+    },
+    {
+      "id": "1bfb8556-fb16-4461-8f28-17108714e432",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "988cca6e-c6d0-4a3f-af89-4bc6019dd579",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 5.534031273338175e-07
+    },
+    {
+      "id": "63c2488e-c6ee-4d94-aaf1-bfaf7cf70a85",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2310379476739693e-07
+    },
+    {
+      "id": "3a73cdb7-75e4-4208-adad-2569f50edc1b",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.7342202920143806e-07
+    },
+    {
+      "id": "d881779e-1ea6-448a-bf22-5a2bc499d443",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "49a59ecd-cc2e-42e8-a4f9-76d7e50d6dcc",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.951133646320149e-07
+    },
+    {
+      "id": "96522150-ea85-4069-9bdb-ed94a585ff2e",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "e239204b-0f78-4762-b4e3-c293685c2ec5",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.951133646320149e-07
+    },
+    {
+      "id": "d680663d-a3be-49aa-a9b9-b303bba8cff7",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "0e0ca0f3-5615-40af-922f-38f57bb6cb67",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.453084893899103e-07
+    },
+    {
+      "id": "9acdcc5f-bc7f-45e6-9baa-09976b045e44",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.0323827311807139e-07
+    },
+    {
+      "id": "fb09ba2e-b964-4737-b4e7-d6e31034dbdc",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 2.2302015940987714e-07
+    },
+    {
+      "id": "faa47042-7655-4e25-84e0-f4656aa04a75",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "61c0bc21-cef1-48b3-92b7-617be02b08ec",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.29514509253144e-07
+    },
+    {
+      "id": "f6b966c0-c99e-4e48-9d91-7b06ebdf36bb",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "3b91e620-2c2b-470d-8d45-fceb9b71f82b",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.29514509253144e-07
+    },
+    {
+      "id": "8358c881-a49f-4178-bdde-a5c61683a735",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2644054553268208e-07
+    },
+    {
+      "id": "a355be22-21f7-4886-a34b-4a7578923fcf",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "03ae93bb-a38e-4325-bec2-ca81a453b576",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.560065398421926e-08
+    },
+    {
+      "id": "eaaee482-d8ca-4d98-b399-2580733feca2",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "06634ba1-11a7-4c8a-a258-857afef3690f",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "81784735-69fd-4f8f-8a58-c69f5cd35fbe",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.7133502347401117e-07
+    },
+    {
+      "id": "5c22c90f-5e38-429e-9391-ed58739d047c",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2377834115800373e-07
+    },
+    {
+      "id": "acfab772-2c4b-4b98-9fd2-dfda22b513d3",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.2670431921709637e-07
+    },
+    {
+      "id": "f12a2471-a4ba-40f0-8256-d1a072e79fe9",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.437597493012342e-08
+    },
+    {
+      "id": "37a76fd5-4bfa-4319-ac40-0adaa3fbd312",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 6.115038777322353e-07
+    },
+    {
+      "id": "4102f6e9-87eb-4738-905e-7999ae811776",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2293457984924316e-07
+    },
+    {
+      "id": "660601dc-f2c5-4f53-8f48-45c7702496ac",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.7342202920143806e-07
+    },
+    {
+      "id": "d47ab901-38ab-4731-8505-6ad344994f40",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "abac15c5-e220-4af4-9053-47d9024796a1",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.951133646320149e-07
+    },
+    {
+      "id": "7c64aed8-5b59-4dd4-ab36-ae3960f7385d",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.3657139822709083e-07
+    },
+    {
+      "id": "db1b6089-fd2e-47aa-bc3e-ae3dabb87bc1",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.951133646320149e-07
+    },
+    {
+      "id": "4fc424db-8dc8-485c-b4df-d11d19ad28cc",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.3657139822709083e-07
+    },
+    {
+      "id": "19fde45c-59e6-48bd-be12-58befaf2157e",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.453084893899103e-07
+    },
+    {
+      "id": "b55f841a-fa0c-4e19-9d24-b92dbb565b6a",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.0323827311807139e-07
+    },
+    {
+      "id": "c72b1aa4-635d-4d7c-bc2b-1446d38369d0",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 2.2302015940987714e-07
+    },
+    {
+      "id": "0172b696-60c2-4176-a1be-cc91c768bd83",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.0323827311807139e-07
+    },
+    {
+      "id": "e227abe3-9b82-4c2e-973d-a1617c3c3771",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.29514509253144e-07
+    },
+    {
+      "id": "e9e87664-9c8d-46db-8fb5-1e78ebd1a855",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "f2f4c154-988a-4a4d-8ff5-fade1b6e1d9d",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.29514509253144e-07
+    },
+    {
+      "id": "9ad9268e-1050-421b-b9cf-4608d9830ffe",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2310379476739693e-07
+    },
+    {
+      "id": "7f6db434-96fc-48cd-94be-eed3628c582f",
+      "name": "group_BOOK_B_Pages_Red",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "9516e0b7-512e-4fb0-a0f1-11f79d3ab209",
+      "name": "group_BOOK_B_Pages_FX",
+      "maxPositionExtrudeNormalError": 8.560065398421926e-08
+    },
+    {
+      "id": "d9f49793-c467-4578-ac88-f7fdd189556c",
+      "name": "group_BOOK_B_Pages_FZ",
+      "maxPositionExtrudeNormalError": 8.560065398421926e-08
+    },
+    {
+      "id": "7b7f7e2c-69a6-4c75-9b4c-ef140c3d14e7",
+      "name": "group_BOOK_B_Pages_FX",
+      "maxPositionExtrudeNormalError": 3.371747880871523e-07
+    },
+    {
+      "id": "7005b04b-d18b-4244-ba2a-d752044cae14",
+      "name": "group_BOOK_B_Couv_Dos_int",
+      "maxPositionExtrudeNormalError": 1.2644054553268208e-07
+    },
+    {
+      "id": "27287552-9abc-420b-97a1-d6f54f6bf359",
+      "name": "group_BOOK_B_Couv_Down",
+      "maxPositionExtrudeNormalError": 6.828569911354542e-08
+    },
+    {
+      "id": "1c251722-fa4d-4686-8a15-cc616c091f51",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "e74e1b43-ede9-42e5-83cb-dc2776605bf9",
+      "name": "group_BOOK_B_Couv_Up",
+      "maxPositionExtrudeNormalError": 6.828569911354542e-08
+    },
+    {
+      "id": "88f60a9a-cdf4-4e05-9cdd-83717f2774b4",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "201a3cd5-5eb4-414e-ab88-f68debeec7b6",
+      "name": "group_BOOK_B_Couv_Up",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "8e826e7c-1298-4fc3-b81d-3e6371b1c818",
+      "name": "group_BOOK_B_Couv_Down",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "7418d526-cd0d-41b6-8c0f-cd76b604499b",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "028e06ec-8b3f-41b1-a745-6ea9c33cf079",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "3558b9cb-d36d-4a5b-8791-32544b3388a9",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2644054553268208e-07
+    },
+    {
+      "id": "3c7211e3-c16d-48ab-a7b3-f19c394a9d2b",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "f8c7514b-1842-406c-a39c-24556af62b0c",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "f6041322-cd51-4ec9-a57b-c279f5b0b8cb",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.7133502347401117e-07
+    },
+    {
+      "id": "39aa77af-6a87-44d1-a6d4-aa2d02ecb4fd",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "0dafce56-8614-41e8-9dda-8190d20e7e11",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.2670431921709637e-07
+    },
+    {
+      "id": "744a66bb-a09b-427a-933c-adebb4dd644b",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "217012b0-cead-4b1c-867f-7c2fb39732e9",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 5.534031273338175e-07
+    },
+    {
+      "id": "a41ae694-e20a-4e0c-a665-420bee642170",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2310379476739693e-07
+    },
+    {
+      "id": "65b84348-d011-45d0-8fe2-8bd0a70d0ed4",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.7342202920143806e-07
+    },
+    {
+      "id": "8a460c41-e8b0-4ee1-962c-068b6461e5d8",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "3d7780cc-25df-4087-8c30-f52d29cceabf",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.951133646320149e-07
+    },
+    {
+      "id": "795651af-4be4-4b35-bfde-ff857249d209",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "614430bd-2072-44a4-93aa-777063955d65",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.951133646320149e-07
+    },
+    {
+      "id": "23ee7d82-22db-4df0-893e-b1762c6c3b90",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "eae59613-0e9f-4e04-9fa1-67a7773a8d9f",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.453084893899103e-07
+    },
+    {
+      "id": "61f7c389-f25a-456f-ae6d-eb51d01b41d6",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.0323827311807139e-07
+    },
+    {
+      "id": "6e019330-67b8-4fd5-8b21-0700a7221a81",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 2.2302015940987714e-07
+    },
+    {
+      "id": "5c4f622f-fd9e-4cd1-93ff-ab370dd681e1",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "5e41bf79-afa0-40c0-b757-8c25b5c9af3e",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.29514509253144e-07
+    },
+    {
+      "id": "ff48f964-9c0c-4d14-8ce9-c8b6ef83995a",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "b8dee2b0-c690-4289-9fcf-61e90cf6f566",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.29514509253144e-07
+    },
+    {
+      "id": "399b0f13-f1eb-4b8d-8fe3-cc59cdde0db2",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2644054553268208e-07
+    },
+    {
+      "id": "7e3079d4-e050-4116-95bd-c2085c0b59b0",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "d1f4bcd1-9fb4-452e-80c8-2fff712e27e8",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.560065398421926e-08
+    },
+    {
+      "id": "8c764e51-183c-45b5-b0cf-927c8f2a1381",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "dd248c92-c1a8-4e73-87c5-3022397359cc",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "e38e7b9c-a6a7-4c83-b1b3-6ea6fa2e5c58",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.7133502347401117e-07
+    },
+    {
+      "id": "8efbbf39-fac9-489c-9324-fbcf057be9d0",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2377834115800373e-07
+    },
+    {
+      "id": "5fdfcdb0-a386-4131-972f-f56a5afe7776",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.2670431921709637e-07
+    },
+    {
+      "id": "fc812506-b945-4bfe-b4bf-1002c1c8159d",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.437597493012342e-08
+    },
+    {
+      "id": "7d2e42a0-43e8-461c-95dd-5a56e52dd0b9",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 6.115038777322353e-07
+    },
+    {
+      "id": "e6ccf29c-b371-46ff-97a4-764844e85d95",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2293457984924316e-07
+    },
+    {
+      "id": "80b95f1d-672f-4b3b-bb27-c6b8c6e70460",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.7342202920143806e-07
+    },
+    {
+      "id": "289c60cc-621b-4b1d-bd38-35ae87fa36f7",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "9954cf15-0d15-4e64-8750-db3574bc4c6b",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.951133646320149e-07
+    },
+    {
+      "id": "dc8715b0-93b9-4212-969f-9d695c9f04d5",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.3657139822709083e-07
+    },
+    {
+      "id": "f095a944-ad25-4547-81dd-568337e1845f",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.951133646320149e-07
+    },
+    {
+      "id": "43cb107d-8c08-4b64-b548-cb229b00f50b",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.3657139822709083e-07
+    },
+    {
+      "id": "41449609-66cc-4531-9760-7553d9ef8c8e",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.453084893899103e-07
+    },
+    {
+      "id": "81cef69c-f4fc-4068-9133-f13c9ff2831b",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.0323827311807139e-07
+    },
+    {
+      "id": "b1ec9a7f-35d7-49ff-beb8-4dbfd31167aa",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 2.2302015940987714e-07
+    },
+    {
+      "id": "3b19178b-4f43-4889-beec-f93de43c25c6",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.0323827311807139e-07
+    },
+    {
+      "id": "34659561-2d63-4231-be94-b42f6b198fa8",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.29514509253144e-07
+    },
+    {
+      "id": "3bffdb1a-ba0e-41ef-aaa3-5d200a1668ca",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "4e94e7cd-1e97-4988-ad28-c1733082a2e3",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.29514509253144e-07
+    },
+    {
+      "id": "20868fe0-fcd5-4cf8-b5d3-87c2818738fb",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2310379476739693e-07
+    },
+    {
+      "id": "12132a8b-ecd6-48a0-8ff8-304cc8deaa88",
+      "name": "subcover",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "de6bfe2b-476d-4700-bddb-31f454db4c5e",
+      "name": "subcover",
+      "maxPositionExtrudeNormalError": 6.828569911354542e-08
+    },
+    {
+      "id": "684aa5bb-9992-49eb-9cb7-69bedd9139ba",
+      "name": "group_BOOK_B_Pages_Red",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "12ced20d-3927-472b-8087-9ba6e42e6786",
+      "name": "group_BOOK_B_Pages_FX",
+      "maxPositionExtrudeNormalError": 8.560065398421926e-08
+    },
+    {
+      "id": "60cb60fa-c8e2-4818-ab94-74946bdc56ba",
+      "name": "group_BOOK_B_Pages_FZ",
+      "maxPositionExtrudeNormalError": 8.560065398421926e-08
+    },
+    {
+      "id": "e24bbadf-8a47-43a0-adc2-73092a05013c",
+      "name": "group_BOOK_B_Pages_FX",
+      "maxPositionExtrudeNormalError": 3.371747880871523e-07
+    },
+    {
+      "id": "1584b93f-ca06-4466-a2ab-d1a894ba6d84",
+      "name": "group_BOOK_B_Couv_Dos_int",
+      "maxPositionExtrudeNormalError": 1.2644054553268208e-07
+    },
+    {
+      "id": "77ee29d4-312c-4d7f-9343-2b62ae9fa8ca",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "ef22bdd0-6118-4f2a-8286-fcbbc9f216f4",
+      "name": "group_BOOK_B_Couv_Up",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "38489c53-ced7-4140-8781-dbf73923232b",
+      "name": "group_BOOK_B_Couv_Down",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "1b3012d1-ca79-4d1f-8358-1dac3c1db22d",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "631cb5b3-a44c-45cc-a10f-998f2c93f0d5",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "acc1098c-6750-476a-b165-3d7f7e897daa",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2644054553268208e-07
+    },
+    {
+      "id": "29f7b941-431b-454a-a740-6538b6b7d3a9",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "c4fdfb73-4fd1-497d-b842-6012aa1eaf3a",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "7f060217-f3bb-4fd7-8629-3923b092e2ac",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.7133502347401117e-07
+    },
+    {
+      "id": "480c5cab-a115-48d6-a5de-180fa2e43377",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "41fc3e72-98c4-4049-91bd-46934b64bbfc",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.2670431921709637e-07
+    },
+    {
+      "id": "e5ddcf9c-079c-4d64-b601-d163e9a9aff2",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "26495502-94c3-4f3a-ae20-d46ff9cb0ca8",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 5.534031273338175e-07
+    },
+    {
+      "id": "58014a6b-0e26-4dc4-8f73-ff678a290266",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2310379476739693e-07
+    },
+    {
+      "id": "024ef900-1f39-49f6-bf53-8b092fd202e7",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.7342202920143806e-07
+    },
+    {
+      "id": "f3d85697-e3b3-4281-9a49-13fb59d3e7d7",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "87782b6f-d490-4ad2-8e80-f79a85ef868b",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.951133646320149e-07
+    },
+    {
+      "id": "9bc368df-24b7-4ac6-bb7b-db8492eb1b8b",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "4435b8ad-93c4-426c-a3f5-0073f004ff67",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.951133646320149e-07
+    },
+    {
+      "id": "1fb9e884-d3fd-450a-88f4-80eaa4637132",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "b0fc7a80-8748-4ff6-ad28-862005b53654",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.453084893899103e-07
+    },
+    {
+      "id": "cb514d91-e9f1-4731-a517-7932d7904468",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.0323827311807139e-07
+    },
+    {
+      "id": "de15a3b5-19b4-4fd1-b92e-0a183042a9d1",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 2.2302015940987714e-07
+    },
+    {
+      "id": "1dea5ac7-68b9-44a2-8df8-f56342b617e0",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "8fd6b5cb-1f0d-4ba4-84ba-c22dfe9fe776",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.29514509253144e-07
+    },
+    {
+      "id": "1b7cf656-2f9a-4e38-83cb-ebcc7efffb26",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "341734bf-f808-47e5-bfd0-4b7ab0eb9747",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.29514509253144e-07
+    },
+    {
+      "id": "c8c579d9-93cb-4357-b260-cef7e03c6ed0",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2644054553268208e-07
+    },
+    {
+      "id": "b4db0bfd-5b6f-4d83-a112-924ef66a50b6",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "b0d74c20-f05e-4bee-863c-3ecdfacd48de",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.560065398421926e-08
+    },
+    {
+      "id": "0cd1e295-13b5-4fc2-8762-68541d758f18",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "e4c0d23e-5790-4f0d-93b7-25f953053a5d",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "dfb1fb4b-8b7f-43d0-910f-90533f9828a3",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.7133502347401117e-07
+    },
+    {
+      "id": "60b034c0-4c5e-4545-8ffc-57ad02b39169",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2377834115800373e-07
+    },
+    {
+      "id": "2da43bd2-a5e1-4669-8fe7-c61cad3506a3",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.2670431921709637e-07
+    },
+    {
+      "id": "c337225e-a573-4e2f-ba29-13ac699ad7b6",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.437597493012342e-08
+    },
+    {
+      "id": "c13ecf7b-aaaa-4b98-ad45-5e74b6637d37",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 6.115038777322353e-07
+    },
+    {
+      "id": "bb30911e-7c93-4497-9b58-6b84747a6929",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2293457984924316e-07
+    },
+    {
+      "id": "38e57e31-6c74-492e-b239-c2c6129a66e1",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.7342202920143806e-07
+    },
+    {
+      "id": "4b356982-29e1-46f6-a350-684681ba38f1",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "6a974e02-86a7-4630-8a99-eed7723e6ede",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.951133646320149e-07
+    },
+    {
+      "id": "93347c40-3a19-4903-8da8-ec253b0d97ae",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.3657139822709083e-07
+    },
+    {
+      "id": "c321c039-4f9b-4330-bee2-75369af92ccb",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.951133646320149e-07
+    },
+    {
+      "id": "24bb366f-24b0-4fb6-9dd5-3857ae660cb6",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.3657139822709083e-07
+    },
+    {
+      "id": "00cfa561-679c-45e3-a7a1-88517268b48b",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.453084893899103e-07
+    },
+    {
+      "id": "89ace39e-8c22-4a53-9f37-f97d7fb3e2ee",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.0323827311807139e-07
+    },
+    {
+      "id": "3da0368c-4a57-4ec7-b436-6331becc39a9",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 2.2302015940987714e-07
+    },
+    {
+      "id": "8eae95df-4776-4455-9943-7e669a99b1fe",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.0323827311807139e-07
+    },
+    {
+      "id": "4e0801bf-3a73-41dc-92d0-5c6abb25406b",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.29514509253144e-07
+    },
+    {
+      "id": "f5391cfa-a975-4e44-a369-9c0faee7659c",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "aa5a7bc6-f076-4922-a51d-ec561a0737f9",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.29514509253144e-07
+    },
+    {
+      "id": "f393d055-0efa-4bab-89f2-11fba01dc680",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2310379476739693e-07
+    },
+    {
+      "id": "ce7b74dd-f17c-455f-afc8-89ba1f2854f5",
+      "name": "group_BOOK_B_Pages_Red",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "52427966-521f-4c3a-a8ce-5328cb4d41f4",
+      "name": "group_BOOK_B_Pages_FX",
+      "maxPositionExtrudeNormalError": 8.560065398421926e-08
+    },
+    {
+      "id": "212800cd-6073-4f89-ba5d-69b97d0e450e",
+      "name": "group_BOOK_B_Pages_FZ",
+      "maxPositionExtrudeNormalError": 8.560065398421926e-08
+    },
+    {
+      "id": "7c710709-c23b-4ee6-8cde-4ea9f1569a36",
+      "name": "group_BOOK_B_Pages_FX",
+      "maxPositionExtrudeNormalError": 3.371747880871523e-07
+    },
+    {
+      "id": "bf9cd0ff-1818-4bc5-a4e2-2a081ae2efc0",
+      "name": "group_BOOK_B_Couv_Dos_int",
+      "maxPositionExtrudeNormalError": 1.2644054553268208e-07
+    },
+    {
+      "id": "4596b4eb-13cd-49a1-9a9c-5b4785071570",
+      "name": "group_BOOK_B_Couv_Down",
+      "maxPositionExtrudeNormalError": 6.828569911354542e-08
+    },
+    {
+      "id": "9e4dcb45-4c96-4b13-9fb8-a939176980a1",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "6ab7732d-3fd5-4813-aa9b-1f8b3905c604",
+      "name": "group_BOOK_B_Couv_Up",
+      "maxPositionExtrudeNormalError": 6.828569911354542e-08
+    },
+    {
+      "id": "f6175d74-e626-4e03-82fc-1076e246d304",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "08db58f6-5de5-425c-837d-842b5356245e",
+      "name": "group_BOOK_B_Couv_Up",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "291d90e0-0568-49bc-855d-81bf28a79d97",
+      "name": "group_BOOK_B_Couv_Down",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "c8be704c-8461-4b19-a8f3-55a120ebb728",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "a04e5dd9-aa93-4524-8f7e-96d56050fec1",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "e9bb6ae1-0208-4821-bf54-7cbf95498d55",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2644054553268208e-07
+    },
+    {
+      "id": "5f1dea5a-4feb-46a7-b86f-dc61467e3be5",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "21cf5414-6ae0-4ac4-9d63-431eb5624680",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "50a8abb6-0d21-47b1-81c9-8aa77e19c8a9",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.7133502347401117e-07
+    },
+    {
+      "id": "d6203865-2864-4bd8-b3a0-b5c4c35cc67e",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "3c42cba4-4fdb-427d-ae59-a56e9000315b",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.2670431921709637e-07
+    },
+    {
+      "id": "698c0c01-fbcd-45a7-98bd-4a4aaf6d363a",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "0db04e77-3ede-4552-9744-7f0ea18a1d0c",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 5.534031273338175e-07
+    },
+    {
+      "id": "81c984c2-9252-4987-9e40-056ab175ab94",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2310379476739693e-07
+    },
+    {
+      "id": "3d282db4-b9d6-417d-bb88-adf7f1de19f3",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.7342202920143806e-07
+    },
+    {
+      "id": "3ac2f419-39cc-4ff7-95fd-0a05b1d3222a",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "09c2e52b-971d-49ca-a92b-30551aaf2412",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.951133646320149e-07
+    },
+    {
+      "id": "169f67cc-df45-462e-adba-2ef5fa9f0a26",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "1110d2db-b9ee-43a1-9503-27909f78ff7e",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.951133646320149e-07
+    },
+    {
+      "id": "2920ddfb-d899-4a69-9522-b9d9df508ec0",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "5ae2b034-ead1-4801-9a2b-46d81be674d7",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.453084893899103e-07
+    },
+    {
+      "id": "6e3e7b38-4372-48cd-807f-72558757e45b",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.0323827311807139e-07
+    },
+    {
+      "id": "955c3444-0050-461f-ab5a-2d6e42db1cd0",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 2.2302015940987714e-07
+    },
+    {
+      "id": "83963dfc-6b72-4719-a456-ddd7dd07a920",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "aeccf9a0-278c-4c94-a610-a367725641ca",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.29514509253144e-07
+    },
+    {
+      "id": "2ec647ba-e929-4385-8693-cd9cc2fd4cf8",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "461509c7-6712-4c0c-a23a-20dacd3ecdb1",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.29514509253144e-07
+    },
+    {
+      "id": "1dfec764-6fb4-43ed-ad40-fdfe8d16da54",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2644054553268208e-07
+    },
+    {
+      "id": "9d3de764-9544-4e7b-ab4d-bfa92fe56e45",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "1bf2dee2-dcc7-4249-a246-e2facd21cece",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.560065398421926e-08
+    },
+    {
+      "id": "159d94e4-ea3c-455f-86b6-0398b9c6c09b",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.995779578161303e-07
+    },
+    {
+      "id": "43c20622-f7d8-4fc5-b5fc-fbdc8acc845c",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "936d8349-9d9d-4fda-92dc-13bab920183d",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.7133502347401117e-07
+    },
+    {
+      "id": "66175f34-47f4-452a-802c-e93e087fd290",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2377834115800373e-07
+    },
+    {
+      "id": "8a7a9deb-4f03-46d3-9242-b151e18dd473",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.2670431921709637e-07
+    },
+    {
+      "id": "5f62f80d-b707-40a5-976d-d7230de7f900",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.437597493012342e-08
+    },
+    {
+      "id": "53d62f09-2ea0-401e-8295-6fb6296d2e3c",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 6.115038777322353e-07
+    },
+    {
+      "id": "6145463b-356b-429c-a972-dab363763b1e",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2293457984924316e-07
+    },
+    {
+      "id": "4164ed8c-d0a3-407a-b44a-cfeccab9cd73",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.7342202920143806e-07
+    },
+    {
+      "id": "1b7e0491-fc85-4b1c-992c-62c088304798",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "a3b93e8a-e5e5-41e1-854c-f6498d8a99ef",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.951133646320149e-07
+    },
+    {
+      "id": "a9c75973-9d08-4ed2-beab-e73e866f552f",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.3657139822709083e-07
+    },
+    {
+      "id": "f8756bed-8280-4a83-859c-720c4805ff2b",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 4.951133646320149e-07
+    },
+    {
+      "id": "b1baaf7e-729f-40ec-9576-34d9f527c4ce",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.3657139822709083e-07
+    },
+    {
+      "id": "033a0016-2a66-47cd-a480-f6e97c4df19a",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.453084893899103e-07
+    },
+    {
+      "id": "b7faa928-801d-4c72-896e-773efb27b6e7",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.0323827311807139e-07
+    },
+    {
+      "id": "efd9e5e8-7fae-4a30-88cf-085cc9017788",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 2.2302015940987714e-07
+    },
+    {
+      "id": "94b12f1e-4bd3-4c33-8797-b6e99ccd0b14",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.0323827311807139e-07
+    },
+    {
+      "id": "78e9d541-0a9c-4f50-b8bd-d28d633b6f6c",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.29514509253144e-07
+    },
+    {
+      "id": "77c2a1dd-26eb-4922-a021-516fad4d139b",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "2a0beb61-d2de-4d93-a594-28e1431b48d3",
+      "name": "group_BOOK_B_Couv_Dos",
+      "maxPositionExtrudeNormalError": 3.29514509253144e-07
+    },
+    {
+      "id": "6b1da787-8e33-4293-9182-f25c58531663",
+      "name": "group_BOOK_B_Couv_Old",
+      "maxPositionExtrudeNormalError": 1.2310379476739693e-07
+    },
+    {
+      "id": "44be310e-f0e8-4e96-9cbe-b9b6c4b140c2",
+      "name": "model_0",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "f835b500-22b9-413a-9f43-c195eb534759",
+      "name": "CRT",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "45b18682-22d5-4a15-9a9a-d3ba5af27e82",
+      "name": "model_2",
+      "maxPositionExtrudeNormalError": 6.664001874625056e-08
+    },
+    {
+      "id": "d5a87e52-5777-417c-b410-7614ae4c7c3f",
+      "name": "model_3",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "9e5382e4-2f80-42c3-8db5-62c01e60e30c",
+      "name": "model_4",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "a85a0098-7fbe-42d4-b6e5-089721fa5a53",
+      "name": "model_0005",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "ff69df00-2c6c-452a-a3ab-e0b8c114b8f3",
+      "name": "Object_2",
+      "maxPositionExtrudeNormalError": 6.188917057900187e-08
+    },
+    {
+      "id": "7264ef72-a579-4052-91d0-9c696b8a5b0e",
+      "name": "Object_3",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "5e442108-f0cd-45f1-9e5e-80b660c3fef7",
+      "name": "Deskmat",
+      "maxPositionExtrudeNormalError": 1.4562483317748398e-05
+    },
+    {
+      "id": "5ba3a5df-02d2-46ad-a600-3f41dcec4f82",
+      "name": "LLeg",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "f390f10d-fdac-4a7d-af2b-3bc842b84594",
+      "name": "RLeg",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "13e27915-5dfc-4ec7-a645-53216acd6753",
+      "name": "Desk",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "fa288ed0-9fb8-4afb-adf2-8ca8d44e19fc",
+      "name": "Cube",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "aa906f81-e3b7-4528-9ea3-a6dcee4384a7",
+      "name": "Cube007",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "8153da5c-bc49-42bc-ba44-0c2099fdec86",
+      "name": "Cube010",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "9750295a-b428-4a8e-808f-e4e4f0dd0329",
+      "name": "Plane001",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "609fb724-4cb0-4df3-b793-a93f40da9230",
+      "name": "Cube008",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "1c921fdd-a247-4e98-8664-46ad87409e28",
+      "name": "Object_2",
+      "maxPositionExtrudeNormalError": 6.188917057900187e-08
+    },
+    {
+      "id": "8ad71a09-556d-462b-b044-c42bf4f194ae",
+      "name": "Object_3",
+      "maxPositionExtrudeNormalError": 8.940696716308594e-08
+    },
+    {
+      "id": "cc720912-283d-4584-9f9c-cf15f30a2523",
+      "name": "Wall",
+      "maxPositionExtrudeNormalError": 0.0
+    },
+    {
+      "id": "129beabd-809b-4623-b2b6-dceadbcec707",
+      "name": "Wall",
+      "maxPositionExtrudeNormalError": 0.0
+    }
+  ]
+}

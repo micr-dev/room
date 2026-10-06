@@ -1,0 +1,8 @@
+{
+  "state": "Keyboard F13 hover",
+  "comparedMeshes": 693,
+  "maximumMatrixElementError": 9.094947017729282e-13,
+  "tolerance": 1e-05,
+  "mismatches": 0,
+  "scope": "World transforms only; not proof of identical mesh topology or drawing."
+}

@@ -9,7 +9,6 @@ coverage/
 .nyc_output
 
 # Production builds
-dist/
 build/
 .cache/
 .next/
@@ -58,3 +57,7 @@ ehthumbs.db
 Desktop.ini
 
 .residue/
+
+# Generated optimized site and conversion workspaces
+public/
+.cache/

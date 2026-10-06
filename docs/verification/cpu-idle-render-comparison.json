@@ -1,0 +1,165 @@
+{
+  "scope": "1920x1080 native Mesa WebGL, 32 event states, 16 manually rendered temporal frames per state; optimized scheduler and idle apply/traversal guards versus prior conversion. Frozen video fixture and controlled clone IDs. Does not test continuously running browser temporal history, browser media or full original parity.",
+  "results": [
+    {
+      "label": "optimized-converted-10-mouseDown-e241d2d4-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-11-mouseDown-05d7915d-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-12-mouseDown-533bc62f-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-13-mouseDown-30b6cf6b-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-14-mouseDown-e0ad34f9-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-15-mouseDown-a3c78044-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-16-mouseDown-29fab0a0-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-17-mouseDown-2653c1e1-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-18-mouseDown-3cac6b32-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-19-mouseDown-eb44ea9c-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-2-mouseHover-13a9552d-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-20-mouseDown-464c9278-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-21-mouseDown-366c9975-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-22-mouseDown-44465644-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-23-mouseDown-36df5187-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-24-mouseDown-6834529d-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-25-mouseDown-64172c93-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-26-mouseDown-5d245355-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-27-mouseDown-6834529d-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-28-mouseDown-c910b656-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-29-mouseDown-5d245355-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-3-mouseHover-13a9552d-true",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-30-mouseDown-6d0d15bc-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-31-mouseDown-3ebfee77-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-32-mouseDown-6d0d15bc-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-4-mouseHover-05d7915d-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-5-mouseHover-05d7915d-true",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-6-mouseDown-13a9552d-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-7-mouseDown-de1bfcc3-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-8-mouseDown-e0f22b4f-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-9-mouseDown-c6100348-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "optimized-converted-start",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    }
+  ]
+}

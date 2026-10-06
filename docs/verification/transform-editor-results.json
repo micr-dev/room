@@ -1,0 +1,10 @@
+{
+  "scope": "Native DOM handlers, virtual RAF and delayed actual font parse; GPU mocked; does not verify full browser editor UI.",
+  "results": [
+    "Geometry preview scale explicitly updates the frozen mesh transform",
+    "Partial geometry edits merge existing parameters and rebuild the captured selection",
+    "Newest overlapping edit wins; replaced owned geometry is disposed",
+    "Font rebuild completed after idle explicitly wakes rendering",
+    "A failed font request clears its cache and a later rebuild retries successfully"
+  ]
+}

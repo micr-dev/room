@@ -1,0 +1,126 @@
+{
+  "scope": "Eleven native virtual-RAF snapshots: startup, rapid Contact hover reversal/re-entry, overlapping F13 hover, click during hover, popup close and Quarzite entry. Positions, rotations, scales, dimensions, visibility, active page and camera across 783 stored objects; tolerance 1e-5. GPU suppressed, external effects mocked; not all interruption paths or browser pointer dispatch.",
+  "results": [
+    {
+      "event": "start",
+      "id": null,
+      "reverse": null,
+      "elapsed": null,
+      "objectsCompared": 783,
+      "maximumTransformError": 4.547473508864641e-12,
+      "mismatchingObjects": [],
+      "pageAndCameraMatch": true,
+      "status": "pass"
+    },
+    {
+      "event": "mouseHover",
+      "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+      "reverse": false,
+      "elapsed": 100,
+      "objectsCompared": 783,
+      "maximumTransformError": 4.547473508864641e-12,
+      "mismatchingObjects": [],
+      "pageAndCameraMatch": true,
+      "status": "pass"
+    },
+    {
+      "event": "mouseHover",
+      "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+      "reverse": true,
+      "elapsed": 50,
+      "objectsCompared": 783,
+      "maximumTransformError": 4.547473508864641e-12,
+      "mismatchingObjects": [],
+      "pageAndCameraMatch": true,
+      "status": "pass"
+    },
+    {
+      "event": "mouseHover",
+      "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+      "reverse": false,
+      "elapsed": 50,
+      "objectsCompared": 783,
+      "maximumTransformError": 4.547473508864641e-12,
+      "mismatchingObjects": [],
+      "pageAndCameraMatch": true,
+      "status": "pass"
+    },
+    {
+      "event": "mouseHover",
+      "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+      "reverse": false,
+      "elapsed": 100,
+      "objectsCompared": 783,
+      "maximumTransformError": 4.547473508864641e-12,
+      "mismatchingObjects": [],
+      "pageAndCameraMatch": true,
+      "status": "pass"
+    },
+    {
+      "event": "mouseHover",
+      "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+      "reverse": true,
+      "elapsed": 100,
+      "objectsCompared": 783,
+      "maximumTransformError": 4.547473508864641e-12,
+      "mismatchingObjects": [],
+      "pageAndCameraMatch": true,
+      "status": "pass"
+    },
+    {
+      "event": "mouseHover",
+      "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+      "reverse": true,
+      "elapsed": 200,
+      "objectsCompared": 783,
+      "maximumTransformError": 4.547473508864641e-12,
+      "mismatchingObjects": [],
+      "pageAndCameraMatch": true,
+      "status": "pass"
+    },
+    {
+      "event": "mouseHover",
+      "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+      "reverse": false,
+      "elapsed": 100,
+      "objectsCompared": 783,
+      "maximumTransformError": 4.547473508864641e-12,
+      "mismatchingObjects": [],
+      "pageAndCameraMatch": true,
+      "status": "pass"
+    },
+    {
+      "event": "mouseDown",
+      "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+      "reverse": false,
+      "elapsed": 100,
+      "objectsCompared": 783,
+      "maximumTransformError": 4.092726157978177e-12,
+      "mismatchingObjects": [],
+      "pageAndCameraMatch": true,
+      "status": "pass"
+    },
+    {
+      "event": "mouseDown",
+      "id": "533bc62f-0360-4bf5-96bb-f41ab9e1ff07",
+      "reverse": false,
+      "elapsed": 100,
+      "objectsCompared": 783,
+      "maximumTransformError": 4.547473508864641e-12,
+      "mismatchingObjects": [],
+      "pageAndCameraMatch": true,
+      "status": "pass"
+    },
+    {
+      "event": "mouseDown",
+      "id": "de1bfcc3-aab3-49f8-badc-3d669d669bd0",
+      "reverse": false,
+      "elapsed": 2000,
+      "objectsCompared": 783,
+      "maximumTransformError": 3.517666158359134e-09,
+      "mismatchingObjects": [],
+      "pageAndCameraMatch": true,
+      "status": "pass"
+    }
+  ]
+}

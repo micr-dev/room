@@ -9,7 +9,10 @@ const checkOnly = process.argv.includes("--check");
 const aboutData = JSON.parse(readFileSync(dataPath, "utf8"));
 
 const categoryNames = Object.entries(aboutData)
-  .filter(([key, value]) => key !== "intro" && key !== "lastUpdated" && value?.displayName)
+  .filter(
+    ([key, value]) =>
+      key !== "intro" && key !== "lastUpdated" && value?.displayName,
+  )
   .map(([, value]) => value.displayName);
 
 const listCategories = categoryNames.map((name) => `- ${name}`).join("\n");
@@ -52,7 +55,9 @@ ${listCategories}
 if (checkOnly) {
   const current = readFileSync(outputPath, "utf8");
   if (current !== content) {
-    console.error("about/llms.txt is out of date. Run node scripts/generate-about-llms.mjs.");
+    console.error(
+      "about/llms.txt is out of date. Run node scripts/generate-about-llms.mjs.",
+    );
     process.exit(1);
   }
   process.exit(0);

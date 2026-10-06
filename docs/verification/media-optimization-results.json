@@ -1,0 +1,52 @@
+[
+  {
+    "file": "070e52d659c76c48f5c06edf2e5b87326353459e083ee2769a4e0ef5a56ef5d4.jpg",
+    "before": 3195,
+    "after": 978
+  },
+  {
+    "file": "345fc13114ed85e11f3dfec95c5052edaf11e2fca0d89adf03c4470b7592c577.jpg",
+    "before": 28004,
+    "after": 16734
+  },
+  {
+    "file": "5b83795cb76c69c879cd9fe66147aff6edcf9461730addaa1f8ea4465fe43c5a.jpg",
+    "before": 51962,
+    "after": 29746
+  },
+  {
+    "file": "5d26501ca59bf33b9364c9c3f173a5de4eba49d6e3b53c7b4f6e5a4149eba0c4.jpg",
+    "before": 42261,
+    "after": 19266
+  },
+  {
+    "file": "7b46ab82de027dd6c6d356d22fbeecdf9f085c9b25b1694d0f6d9b478c29f1c6.jpg",
+    "before": 36821,
+    "after": 16660
+  },
+  {
+    "file": "9f506e936506cea38271b56a3fe2dc1589488cb95fbbcfdf6d07d876575985ac.jpg",
+    "before": 1810,
+    "after": 136
+  },
+  {
+    "file": "b4dc0d4b5536ac139648987129533508108bac299d3b55f55f8f64157668d126.png",
+    "before": 439806,
+    "after": 85992
+  },
+  {
+    "file": "c179ce11b1771e2aeea46960cff96a75087c7149f87f8ebcd9324dcbb89d38d0.mp4",
+    "videoBytes": 197086,
+    "posterBytes": 14908
+  },
+  {
+    "file": "db0ba0976f2aaf4cf9734dc1808157e83674692d72e5d8c22421710511cd0edb.mp4",
+    "videoBytes": 1296172,
+    "posterBytes": 114
+  },
+  {
+    "file": "e48351d5dbaf62199738cb58ecd25ca94f47d122cc3e62ad7b5275f17d39a767.mp4",
+    "videoBytes": 8212211,
+    "posterBytes": 86418
+  }
+]

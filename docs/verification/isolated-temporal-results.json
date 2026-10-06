@@ -1,0 +1,101 @@
+{
+  "scope": "Native WebGL; identical captured source color input, zero velocity, constant depth, black initial history; source shader explicitly lowp samplers; 16 frames. Does not verify motion or browser rendering.",
+  "results": [
+    {
+      "frame": 1,
+      "meanAbsoluteRGB": 0,
+      "maxChannelError": 0,
+      "pixelsAbove1": 0
+    },
+    {
+      "frame": 2,
+      "meanAbsoluteRGB": 0,
+      "maxChannelError": 0,
+      "pixelsAbove1": 0
+    },
+    {
+      "frame": 3,
+      "meanAbsoluteRGB": 0,
+      "maxChannelError": 0,
+      "pixelsAbove1": 0
+    },
+    {
+      "frame": 4,
+      "meanAbsoluteRGB": 0,
+      "maxChannelError": 0,
+      "pixelsAbove1": 0
+    },
+    {
+      "frame": 5,
+      "meanAbsoluteRGB": 0,
+      "maxChannelError": 0,
+      "pixelsAbove1": 0
+    },
+    {
+      "frame": 6,
+      "meanAbsoluteRGB": 0,
+      "maxChannelError": 0,
+      "pixelsAbove1": 0
+    },
+    {
+      "frame": 7,
+      "meanAbsoluteRGB": 0,
+      "maxChannelError": 0,
+      "pixelsAbove1": 0
+    },
+    {
+      "frame": 8,
+      "meanAbsoluteRGB": 0,
+      "maxChannelError": 0,
+      "pixelsAbove1": 0
+    },
+    {
+      "frame": 9,
+      "meanAbsoluteRGB": 0,
+      "maxChannelError": 0,
+      "pixelsAbove1": 0
+    },
+    {
+      "frame": 10,
+      "meanAbsoluteRGB": 0,
+      "maxChannelError": 0,
+      "pixelsAbove1": 0
+    },
+    {
+      "frame": 11,
+      "meanAbsoluteRGB": 0,
+      "maxChannelError": 0,
+      "pixelsAbove1": 0
+    },
+    {
+      "frame": 12,
+      "meanAbsoluteRGB": 0,
+      "maxChannelError": 0,
+      "pixelsAbove1": 0
+    },
+    {
+      "frame": 13,
+      "meanAbsoluteRGB": 0,
+      "maxChannelError": 0,
+      "pixelsAbove1": 0
+    },
+    {
+      "frame": 14,
+      "meanAbsoluteRGB": 0,
+      "maxChannelError": 0,
+      "pixelsAbove1": 0
+    },
+    {
+      "frame": 15,
+      "meanAbsoluteRGB": 0,
+      "maxChannelError": 0,
+      "pixelsAbove1": 0
+    },
+    {
+      "frame": 16,
+      "meanAbsoluteRGB": 0,
+      "maxChannelError": 0,
+      "pixelsAbove1": 0
+    }
+  ]
+}

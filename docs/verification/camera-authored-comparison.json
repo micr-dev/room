@@ -1,0 +1,8 @@
+{
+  "scope": "Native original authored camera states versus independently decoded states; all state data exactly equal. Final Quarzite pose still differs slightly. This localizes the discrepancy beyond authored decoding but does not identify the precise execution cause. No captured camera pose is shipped.",
+  "camera": "15d65cb0-8e07-4eef-81bc-615fa24b7461",
+  "authoredStates": 13,
+  "allAuthoredStatesExactlyEqual": true,
+  "maximumFinalRotationDifferenceRadians": 3.5176315194007657e-09,
+  "maximumFinalPositionDifference": 1.8053469830192626e-10
+}
