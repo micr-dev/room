@@ -7,7 +7,7 @@ Changes:
 - Video posters at startup; original videos assigned only on play. Deferred audio/editor/fonts, content-versioned model cache and minified split runtime.
 - Builds public/ for both Netlify and Vercel; preserves tree/wip/about routes, favicons, metadata, redirects and security headers. Removes superseded root Spline files. Retains conversion inputs outside published output.
 
-Backup: legacy must point to the exact pre-migration main snapshot f965c41afae28f2925fa1ce932503a05e343c695 before merge. A local legacy branch exists; remote creation was blocked by the integration's missing content-write permission.
+Backup: the remote `legacy` branch points to the exact pre-migration main snapshot f965c41afae28f2925fa1ce932503a05e343c695.
 
 Performance evidence:
 - Original Spline scene file 84,618,899 → compact bundle 2,757,102 bytes (96.7% smaller files; not measured wire bytes).

@@ -1,8 +1,11 @@
 # room.micr.dev
 ![portfolio](https://github.com/user-attachments/assets/1ec0295e-3ea7-4a8c-961d-9bcf9ca4d1eb)
 
-a small [3d portfolio site](https://room.micr.dev) made with [spline](https://spline.design).  
-looks cool, runs smooth... *if* your browser’s hardware acceleration is on.  
+an interactive 3d portfolio site built with an editable Three.js renderer.
+
+The site preserves the original room, interactions, media, and auxiliary routes while replacing the Spline runtime with a standalone optimized renderer. See [`qa/performance.md`](qa/performance.md) for measured results and their limits.
+
+Build and test with `npm ci`, `npm run build:site`, and `npm test`.
 
 ## License
 
