@@ -6,7 +6,7 @@ Across optimization stages of the independent conversion, stored vertices decrea
 
 The three videos total 9,705,469 bytes and have no src before play; initial posters replace their first frames. The existing 2,942,240-byte easter-egg audio no longer preloads. Model cache hits avoid model network requests. Static 3D rendering stops after 32 settling frames and resumes for input/animation/video; CRT noise still runs.
 
-All document images/posters plus gzip-estimated startup code and bundle total 3,658,302 bytes, excluding HTML/CSS/headers, audio/video playback and editing resources. Whole startup is not under 3 MB, nor is a universal three-second first frame established. Full-sequence native visual regression checks cover 32 views; small contour differences remain. Text geometry/document are exact. See compact-size-budget.json and compact-render-comparison.json.
+All document images/posters plus gzip-estimated startup code and bundle total 3,645,206 bytes, excluding HTML/CSS/headers and audio/video playback. Removing the editor and timing UI reduced the gzip-estimated startup code by 13,100 bytes (7.62%); model and image sizes are unchanged. Whole startup is not under 3 MB, nor is a universal three-second first frame established. Full-sequence native visual regression checks cover 32 views; small contour differences remain. Text geometry/document are exact. See compact-size-budget.json and compact-render-comparison.json.
 
 The historical measurements below apply to earlier stages; statements about no quantization, decimation or pixel identity do not describe the current compact meshes.
 
@@ -137,4 +137,4 @@ The bundle is now **13,177,707 bytes**, down 11.03% from 14,810,834. Integer XOR
 
 `test-startup-loading.mjs` verifies a cold network request followed by a byte-identical cache hit with no model network request, old cache eviction, blocked storage fallback, and conditional HTML preload that skips cached bundles. The cache key contains the model content hash; regeneration updates the key. Renderer modules preload early. Both copies of the easter-egg audio use `preload=none`, avoiding that 2.9 MB audio preload. Texture/video requests and GPU initialization still have costs.
 
-First-frame, texture, bundle, restored-model and prepared-scene milestones are navigation-relative; the first two remain visible and the others appear in the timing readout tooltip. Texture timing excludes video readiness. A few-second complete browser load remains unverified.
+The in-page timing overlay and its milestone instrumentation have been removed. Browser startup speed remains unverified on representative hardware.

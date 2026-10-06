@@ -1,9 +1,9 @@
 {
-  "scope": "Decimal bytes. All document images and all posters, not a browser waterfall. Runtime gzip is an estimate dependent on HTTP compression. HTML/CSS/headers excluded. Deferred video/audio/editor/fonts excluded.",
+  "scope": "Decimal bytes. All document images and all posters, not a browser waterfall. Runtime gzip is an estimate dependent on HTTP compression. HTML/CSS/headers excluded. Deferred video/audio/fonts excluded.",
   "modelBytes": 2757102,
   "imageBytes": 729361,
-  "codeGzipEstimate": 171843,
-  "initialEstimatedBytes": 3658306,
+  "codeGzipEstimate": 158743,
+  "initialEstimatedBytes": 3645206,
   "images": [
     {
       "file": "assets/d53bf051096515d22599e5ffa459cbc6362d041a4633a546f775e499f2636e03.webp",
@@ -116,39 +116,24 @@
   ],
   "code": [
     {
-      "file": "public/runtime/startup-6SNMQDY4.js",
-      "raw": 1220,
-      "gzipEstimate": 695
+      "file": "public/runtime/startup-VULNLYCF.js",
+      "raw": 617,
+      "gzipEstimate": 374
     },
     {
-      "file": "public/runtime/chunk-6DYYBRCV.js",
-      "raw": 28504,
-      "gzipEstimate": 8146
+      "file": "public/runtime/chunk-PZQHHWFD.js",
+      "raw": 28476,
+      "gzipEstimate": 8127
     },
     {
-      "file": "public/runtime/chunk-AFCXVONT.js",
-      "raw": 57427,
-      "gzipEstimate": 21846
+      "file": "public/runtime/chunk-VIPXPBX2.js",
+      "raw": 552285,
+      "gzipEstimate": 146226
     },
     {
-      "file": "public/runtime/chunk-LW6JWTYR.js",
-      "raw": 166,
-      "gzipEstimate": 139
-    },
-    {
-      "file": "public/runtime/chunk-7A4VPDTH.js",
-      "raw": 531358,
-      "gzipEstimate": 136730
-    },
-    {
-      "file": "public/runtime/chunk-KLVR6MXQ.js",
-      "raw": 15882,
-      "gzipEstimate": 4041
-    },
-    {
-      "file": "public/runtime/chunk-JVHWUGXG.js",
-      "raw": 367,
-      "gzipEstimate": 246
+      "file": "public/runtime/chunk-3OY24NP7.js",
+      "raw": 15854,
+      "gzipEstimate": 4016
     }
   ],
   "largestGeometryByRemainingVertices": [

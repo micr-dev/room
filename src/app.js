@@ -1,6 +1,5 @@
-import { loadTiming } from "./load-timing.js";
 import * as T from "./vendor/three.module.js";
-import { Behavior, clone, merge, easing, equalJSON } from "./behavior.js";
+import { Behavior, clone, easing, equalJSON } from "./behavior.js";
 import { createGraph, applyTransform } from "./graph.js";
 import { makeMaterial, color, resolveAsset } from "./materials.js";
 import { Post } from "./post.js";
@@ -50,17 +49,7 @@ const post = new Post(renderer),
   videoMap = new Map(),
   audioMap = new Map(),
   manager = new T.LoadingManager();
-let texturesPending = 0,
-  materialsPrepared = false;
-manager.onStart = (url, loaded, total) => {
-  texturesPending = total - loaded;
-};
-manager.onProgress = (url, loaded, total) => {
-  texturesPending = total - loaded;
-};
 manager.onLoad = () => {
-  texturesPending = 0;
-  if (materialsPrepared) loadTiming.mark("textures");
   invalidate();
 };
 manager.onError = (url) => warn("Could not load " + url);
@@ -196,7 +185,6 @@ let activePage = null,
   engine,
   started = false,
   cameraAnimation = null,
-  selected = null,
   orbit = null,
   orbitControl = null;
 const ambient = new T.HemisphereLight(
@@ -362,8 +350,6 @@ function selectPage(id) {
     cam = { object: obj };
   }
   setCamera(cam);
-  $("#page").value = id;
-  updateCameraOptions();
   if (started) startEvents();
 }
 const host = {
@@ -456,26 +442,6 @@ const host = {
   },
 };
 engine = new Behavior(host);
-for (const p of pages) {
-  const option = document.createElement("option");
-  option.value = p.id;
-  option.textContent = p.current.name;
-  $("#page").append(option);
-}
-$("#page").onchange = (e) => selectPage(e.target.value);
-function updateCameraOptions() {
-  const select = $("#camera");
-  select.replaceChildren();
-  for (const r of records.values())
-    if (r.page === activePage && r.object.isCamera) {
-      const option = document.createElement("option");
-      option.value = r.id;
-      option.textContent = r.current.name;
-      option.selected = r.object === camera;
-      select.append(option);
-    }
-}
-$("#camera").onchange = (e) => setCamera(records.get(e.target.value));
 selectPage(doc.scene.publish.playPage);
 scene.updateMatrixWorld(true);
 const picker = new ScenePicker(),
@@ -577,11 +543,6 @@ canvas.addEventListener("pointerdown", (event) => {
   lastPointer = event;
   for (const r of lookAtRecords) r.lookAtResetPaused = false;
   const set = hits(event);
-  if (event.shiftKey) {
-    const r = [...set].find((r) => r.mesh);
-    if (r) inspect(r);
-    return;
-  }
   if (doc.scene.publish.orbitControls.enableRotate) {
     orbit = {
       x: event.clientX,
@@ -756,7 +717,6 @@ function frame(now) {
   if (remainingFrames > 0 || playingVideo) {
     post.render(scene, camera, activePage?.current);
     renderVersion++;
-    if (renderVersion === 1) loadTiming.mark("firstFrame");
     remainingFrames = Math.max(0, remainingFrames - 1);
   }
 }
@@ -764,9 +724,6 @@ canvas.addEventListener("webglcontextrestored", invalidate);
 for (const video of videoMap.values())
   for (const event of ["loadeddata", "seeked", "play", "pause", "ended"])
     video.addEventListener(event, invalidate);
-materialsPrepared = true;
-loadTiming.mark("prepared");
-if (!texturesPending) loadTiming.mark("textures");
 requestAnimationFrame(frame);
 $("#enter").disabled = false;
 $("#enter").textContent = "Enter room";
@@ -779,100 +736,6 @@ function start() {
   startEvents();
 }
 $("#enter").onclick = start;
-$("#edit").onclick = () => {
-  $("#editor").hidden = !$("#editor").hidden;
-};
-$("#close").onclick = () => ($("#editor").hidden = true);
-function inspect(r) {
-  selected = r;
-  $("#editor").hidden = false;
-  $("#selected").textContent = r.current.name ?? r.id;
-  $("#object-json").value = JSON.stringify(r.current, null, 2);
-  $("#selection-info").textContent = r.id;
-}
-function search() {
-  const q = $("#search").value.toLowerCase();
-  const list = $("#objects");
-  list.replaceChildren();
-  for (const r of records.values())
-    if ((r.current.name ?? "").toLowerCase().includes(q)) {
-      const button = document.createElement("button");
-      button.textContent =
-        (r.page?.current.name ?? "Components") +
-        " / " +
-        (r.current.name ?? r.current.type);
-      button.onclick = () => inspect(r);
-      list.append(button);
-    }
-}
-$("#search").oninput = search;
-search();
-$("#apply").onclick = async () => {
-  try {
-    const data = JSON.parse($("#object-json").value),
-      target = selected;
-    if (!target) return;
-    engine.animations.delete(target.id);
-    if (target.object === camera) cameraAnimation = null;
-    const old = target.current.geometry;
-    target.base = merge(target.base, data);
-    apply(target, target.base);
-    if (
-      target.mesh &&
-      data.geometry &&
-      JSON.stringify(target.current.geometry) !== JSON.stringify(old)
-    ) {
-      const request = clone(target.current.geometry),
-        token = Symbol("geometry edit");
-      target.geometryBuildToken = token;
-      const { rebuildGeometry } = await import("./edit-geometry.js"),
-        geo = await rebuildGeometry(request, doc.shared);
-      if (geo) {
-        if (
-          target.geometryBuildToken !== token ||
-          JSON.stringify(target.current.geometry) !== JSON.stringify(request)
-        ) {
-          geo.dispose();
-          return;
-        }
-        const previous = target.mesh.userData.editedGeometry;
-        target.mesh.geometry = geo;
-        target.mesh.userData.editedGeometry = geo;
-        target.mesh.userData.geometryDimensions = clone(request);
-        target.mesh.scale.set(1, 1, 1);
-        target.mesh.updateMatrix();
-        previous?.dispose();
-        invalidate();
-      }
-    }
-    if (target === activePage) {
-      scene.background = color(target.current.backgroundColor, doc.shared);
-      ambient.color.copy(color(target.current.ambient?.color, doc.shared));
-      ambient.intensity = (target.current.ambient?.intensity ?? 1) * Math.PI;
-    }
-    $("#edit-result").textContent = "Applied";
-  } catch (e) {
-    $("#edit-result").textContent = e.message;
-  }
-};
-
-$("#download").onclick = () => {
-  for (const r of records.values()) if (!r.scope) r.raw.data = r.base;
-  const blob = new Blob([JSON.stringify(doc, null, 2)], {
-      type: "application/json",
-    }),
-    url = URL.createObjectURL(blob),
-    a = document.createElement("a");
-  a.href = url;
-  a.download = "room-edited.json";
-  a.click();
-  setTimeout(() => URL.revokeObjectURL(url), 1000);
-};
-$("#outlines").onchange = (e) => {
-  post.material.uniforms.outlineEnabled.value = +e.target.checked;
-  invalidate();
-};
-$("#reset").onclick = () => location.reload();
 window.room = {
   start,
   post,
@@ -892,7 +755,6 @@ window.room = {
   },
   warnings: warningList,
   selectPage,
-  inspect,
   apply,
   setCamera,
   coverage: {

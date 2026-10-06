@@ -11,7 +11,5 @@ export class Application {
     }
     await import("./app.js");
     window.room.start();
-    if (new URLSearchParams(location.search).has("edit"))
-      document.querySelector(".toolbar").hidden = false;
   }
 }
