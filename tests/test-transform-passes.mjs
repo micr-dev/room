@@ -1,0 +1,87 @@
+import assert from "node:assert/strict";
+import * as T from "../src/vendor/three.module.js";
+import { Post } from "../src/post.js";
+const scene = new T.Scene(),
+  camera = new T.PerspectiveCamera(45, 1, 0.1, 100),
+  parent = new T.Group(),
+  mesh = new T.Mesh(new T.BoxGeometry(), new T.MeshBasicMaterial());
+mesh.material.userData.outline = {};
+scene.add(parent, camera);
+parent.add(mesh);
+scene.matrixAutoUpdate = false;
+parent.matrixAutoUpdate = false;
+mesh.matrixAutoUpdate = false;
+camera.position.z = 5;
+parent.position.set(1, 2, 3);
+parent.updateMatrix();
+mesh.scale.set(2, 3, 4);
+mesh.updateMatrix();
+let traversals = 0,
+  fail = false;
+const update = scene.updateMatrixWorld;
+scene.updateMatrixWorld = function (...args) {
+  traversals++;
+  return update.apply(this, args);
+};
+const seen = [];
+const renderer = {
+  autoClear: true,
+  getContext: () => ({ COLOR: 0, clearBufferfv() {} }),
+  setClearColor() {},
+  clear() {},
+  getPixelRatio: () => 1,
+  setRenderTarget() {},
+  render(s, c) {
+    if (s.matrixWorldAutoUpdate) s.updateMatrixWorld();
+    if (s === scene) {
+      assert.equal(s.matrixWorldAutoUpdate, false);
+      seen.push(mesh.matrixWorld.toArray());
+      if (fail) throw Error("fixture failure");
+    }
+    s.traverseVisible((o) => {
+      if (!o.isMesh) return;
+      o.modelViewMatrix.multiplyMatrices(c.matrixWorldInverse, o.matrixWorld);
+      const material = s.overrideMaterial ?? o.material;
+      material.onBeforeRender?.(renderer, s, c, o.geometry, o);
+      o.onAfterRender?.(renderer, s, c, o.geometry, material);
+    });
+  },
+};
+const post = new Post(renderer);
+post.render(scene, camera, {});
+assert.equal(traversals, 1);
+assert.equal(seen.length, 2);
+assert.deepEqual(seen[0], seen[1]);
+assert.deepEqual(
+  mesh.matrixWorld.elements,
+  new T.Matrix4()
+    .makeTranslation(1, 2, 3)
+    .multiply(new T.Matrix4().makeScale(2, 3, 4)).elements,
+);
+assert.equal(scene.matrixWorldAutoUpdate, true);
+parent.position.x = 7;
+parent.updateMatrix();
+mesh.scale.x = 5;
+mesh.updateMatrix();
+seen.length = 0;
+post.render(scene, camera, {});
+assert.equal(traversals, 2);
+assert.deepEqual(seen[0], seen[1]);
+assert.deepEqual(
+  mesh.matrixWorld.elements,
+  new T.Matrix4()
+    .makeTranslation(7, 2, 3)
+    .multiply(new T.Matrix4().makeScale(5, 3, 4)).elements,
+);
+for (const auto of [true, false]) {
+  scene.matrixWorldAutoUpdate = auto;
+  post.normalCache.invalidate();
+  fail = true;
+  assert.throws(() => post.render(scene, camera, {}), /fixture failure/);
+  assert.equal(scene.matrixWorldAutoUpdate, auto);
+  assert.equal(mesh.visible, true);
+  assert.equal(scene.overrideMaterial, null);
+}
+console.log(
+  "One world synchronization per render; parent/mesh edits reach both passes exactly; caller flags restored after failures",
+);

@@ -1,0 +1,50 @@
+import { loadScene } from "./scene-fixture.mjs";
+import { createHash } from "node:crypto";
+import fs from "node:fs";
+import { Behavior } from "../src/behavior.js";
+import { createGraph } from "../src/graph.js";
+const doc = JSON.parse(JSON.stringify(loadScene())),
+  graph = createGraph(doc),
+  engine = new Behavior({
+    resolve: graph.resolve,
+    pageOf: (r) => r.page,
+    isDestroyed: () => false,
+    apply: (r, d) => (r.current = structuredClone(d)),
+    warn() {},
+    media() {},
+    link() {},
+    switchCamera() {},
+    selectPage() {},
+    destroy() {},
+  }),
+  hash = createHash("sha256");
+function canonical(v) {
+  if (Array.isArray(v)) return v.map(canonical);
+  if (v && typeof v === "object")
+    return Object.fromEntries(
+      Object.keys(v)
+        .sort()
+        .map((k) => [k, canonical(v[k])]),
+    );
+  return v;
+}
+for (const r of graph.records.values())
+  for (const e of r.current.events ?? [])
+    if (e.data.actions?.some((a) => a.data.type === "Transition"))
+      engine.event(r, e, true);
+for (let i = 0; i < 120; i++) {
+  engine.tick((i * 1000) / 60);
+  hash.update(
+    JSON.stringify(
+      canonical([...graph.records].map(([id, r]) => [id, r.current])),
+    ),
+  );
+}
+if (
+  hash.digest("hex") !==
+  "92b7708abc54f63c729b85c259e1e2565a83082be766a119c0c75bfa42ba1a08"
+)
+  throw Error("Authored scheduler state stream changed");
+console.log(
+  "All 120 whole-document state ticks match the pre-optimization scheduler hash",
+);

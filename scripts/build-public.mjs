@@ -1,8 +1,30 @@
-import fs from 'node:fs';
-import path from 'node:path';
-// Model/source conversion inputs stay in Git, outside the deployed static output.
-const output='public';fs.rmSync(output,{recursive:true,force:true});fs.mkdirSync(output);
-const sourceFiles=new Set(['room.bundle.gz','room.json','scene.json','geometry-pack.json','conversion-results.json']);
-fs.cpSync('dist',output,{recursive:true,filter(file){const name=path.basename(file);return !sourceFiles.has(name)&&!name.endsWith('.drc')&&!name.endsWith('.f64')&&!name.endsWith('.geometry.json');}});
-for(const name of ['tree','wip','about','favicons','.well-known','robots.txt','sitemap.xml','humans.txt'])if(fs.existsSync(name))fs.cpSync(name,path.join(output,name),{recursive:true});
-console.log('Built optimized room and existing auxiliary routes in public/');
+import fs from "node:fs";
+import path from "node:path";
+
+fs.rmSync("public", { recursive: true, force: true });
+fs.mkdirSync("public");
+for (const name of ["style.css", "editor.css"])
+  fs.copyFileSync(`src/${name}`, `public/${name}`);
+fs.cpSync("assets/runtime", "public/assets", { recursive: true });
+fs.copyFileSync("assets/models/room.compact.gz", "public/room.compact.gz");
+if (fs.existsSync("assets/static"))
+  fs.cpSync("assets/static", "public", { recursive: true });
+for (const name of [
+  "tree",
+  "wip",
+  "about",
+  "favicons",
+  "fonts",
+  ".well-known",
+  "robots.txt",
+  "sitemap.xml",
+  "humans.txt",
+]) {
+  if (fs.existsSync(name))
+    fs.cpSync(name, path.join("public", name), { recursive: true });
+}
+// The console animation imports fflate at runtime, independently of the application bundle.
+fs.copyFileSync("src/run.js", "public/run.js");
+fs.mkdirSync("public/vendor", { recursive: true });
+fs.copyFileSync("src/vendor/fflate.js", "public/vendor/fflate.js");
+console.log("Staged static assets and auxiliary routes in public/");

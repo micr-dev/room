@@ -1,0 +1,23 @@
+{
+  "source": "https://github.com/zeux/meshoptimizer/tree/master/js",
+  "retrieved": "2026-10-06",
+  "license": "MIT, included alongside sources",
+  "files": [
+    {
+      "file": "tools/meshoptimizer/meshopt_encoder.js",
+      "sha256": "22c128be3e22b187e2d2661882fc62f51e995f409c0fe14c9f6358cfbaff1611"
+    },
+    {
+      "file": "tools/meshoptimizer/LICENSE.md",
+      "sha256": "f03037ca7bad1e3eb7f4a63fa6084a8baabd5ba30d3c239a9a7f35705d873e26"
+    },
+    {
+      "file": "tools/meshoptimizer/meshopt_simplifier.js",
+      "sha256": "c3098ee4cb4fc242b84f064c88898e76e44bf58b0e1f693507f323c08cdbb5ed"
+    },
+    {
+      "file": "src/vendor/meshopt_decoder.mjs",
+      "sha256": "10b313edaa0e322b0c1b46443f6c8b186b42139fe1eca189d50c09511d0ebedc"
+    }
+  ]
+}
