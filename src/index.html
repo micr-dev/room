@@ -128,7 +128,6 @@
         display: block;
       }
     </style>
-    <link rel="stylesheet" href="editor.css" />
     <!-- room bundle preload -->
     <script>
       (() => {
@@ -163,39 +162,6 @@
     <div id="cover" hidden>
       <span id="status"></span><button id="enter"></button>
     </div>
-    <nav class="toolbar">
-      <button id="edit">Edit scene</button
-      ><output id="load-time" aria-live="polite">Loading…</output>
-    </nav>
-    <aside id="editor" hidden>
-      <header>
-        <h2>Scene editor</h2>
-        <button id="close" aria-label="Close editor">×</button>
-      </header>
-      <div class="row">
-        <label>Scene<select id="page"></select></label
-        ><label>Camera<select id="camera"></select></label>
-      </div>
-      <label class="check"
-        ><input id="outlines" type="checkbox" checked /> Outline pass</label
-      ><input id="search" type="search" placeholder="Find an object…" />
-      <div id="objects"></div>
-      <h3 id="selected">Select an object</h3>
-      <p id="selection-info">
-        Shift-click an object in the room, or choose from the list.
-      </p>
-      <textarea
-        id="object-json"
-        spellcheck="false"
-        aria-label="Editable object JSON"
-      ></textarea>
-      <div class="row">
-        <button id="apply">Apply edits</button
-        ><button id="download">Export JSON</button
-        ><button id="reset">Reset</button>
-      </div>
-      <p id="edit-result" role="status"></p>
-    </aside>
     <script type="module" src="./startup.js"></script>
 
     <script>

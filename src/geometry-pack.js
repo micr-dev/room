@@ -1,4 +1,3 @@
-import { loadTiming } from "./load-timing.js";
 import { bundleURL } from "./bundle-version.js";
 // The scene document, geometry metadata and byte-exact model buffers share one
 // gzip transport. Typed views reference the decoded archive without copying.
@@ -111,13 +110,11 @@ export async function loadGeometryPack() {
       decoded.byteOffset + decoded.byteLength,
     );
   }
-  loadTiming.mark("bundle");
   const pack = [0x524d4334, 0x524d4335].includes(
     new DataView(bytes).getUint32(0, false),
   )
     ? await (await import("./compact-pack.js")).decodeCompactPack(bytes)
     : decodeRoomBundle(bytes);
-  loadTiming.mark("models");
   return pack;
 }
 

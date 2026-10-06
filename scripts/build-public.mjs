@@ -3,8 +3,7 @@ import path from "node:path";
 
 fs.rmSync("public", { recursive: true, force: true });
 fs.mkdirSync("public");
-for (const name of ["style.css", "editor.css"])
-  fs.copyFileSync(`src/${name}`, `public/${name}`);
+fs.copyFileSync("src/style.css", "public/style.css");
 fs.cpSync("assets/runtime", "public/assets", { recursive: true });
 fs.copyFileSync("assets/models/room.compact.gz", "public/room.compact.gz");
 if (fs.existsSync("assets/static"))
