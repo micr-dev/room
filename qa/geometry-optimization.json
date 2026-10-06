@@ -1,0 +1,2206 @@
+{
+  "scope": "Bit-exact full-attribute vertex deduplication and smaller indices; triangle order and all morph targets preserved.",
+  "geometries": [
+    {
+      "key": "0ed485a160916bd5a7077dd2ebebcb0f8c57e123464ac4d04a19aaa26f6be803",
+      "type": "RectangleGeometry",
+      "verticesBefore": 4,
+      "verticesAfter": 4,
+      "bytesBefore": 200,
+      "bytesAfter": 188,
+      "changed": true
+    },
+    {
+      "key": "74b76a03871521ae559763f59793198112f69deb7fce9c38e5977c43b5a7f4f9",
+      "type": "RectangleGeometry",
+      "verticesBefore": 4,
+      "verticesAfter": 4,
+      "bytesBefore": 200,
+      "bytesAfter": 188,
+      "changed": true
+    },
+    {
+      "key": "0d95f643fa76981356a71e84e2fcbf7b0096f14cd2aaccec2d59a99ef01d066a",
+      "type": "RectangleGeometry",
+      "verticesBefore": 4,
+      "verticesAfter": 4,
+      "bytesBefore": 200,
+      "bytesAfter": 188,
+      "changed": true
+    },
+    {
+      "key": "3870e44e90cc22d9aaccf4dc012a03363a599d10679ed5c0bea50da455356659",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 1419,
+      "verticesAfter": 1419,
+      "bytesBefore": 71556,
+      "bytesAfter": 66996,
+      "changed": true
+    },
+    {
+      "key": "2ea596a4bdce7c458a711f05c1f2af9e9efe7491c15bdd8d55fdf9613a24a39c",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 8,
+      "verticesAfter": 8,
+      "bytesBefore": 424,
+      "bytesAfter": 388,
+      "changed": true
+    },
+    {
+      "key": "951f6df18e659c46b4cc16b596c3d547c044c57ea01c02a08b50a1678557c768",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 680,
+      "verticesAfter": 680,
+      "bytesBefore": 43024,
+      "bytesAfter": 36472,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "e5b09be0f5a2b078eaa5b5ca82b77931a462a7ce1c83d5295eabb30374f18915",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 240,
+      "verticesAfter": 240,
+      "bytesBefore": 16032,
+      "bytesAfter": 13296,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "b4ccf44062fe62702c62310c1cd165846b042f9088b147767a23d33cf9ccfe9c",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 368,
+      "verticesAfter": 368,
+      "bytesBefore": 23512,
+      "bytesAfter": 19852,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "49f3b5f5f6aeb0a8d254028d39ce85fe048b39668ad4998a5025b38ade59d234",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 122,
+      "verticesAfter": 122,
+      "bytesBefore": 7192,
+      "bytesAfter": 6280,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "340f73f1d90b5ff8f1b42b4509b3a8d52e52b9daa8a977395462fcf79615c4ac",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 496,
+      "verticesAfter": 496,
+      "bytesBefore": 31064,
+      "bytesAfter": 26444,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "64b20460fdfe007dd9c07dba6de83eda5aa9806ef6773124c320ad0408076131",
+      "type": "RectangleGeometry",
+      "verticesBefore": 4,
+      "verticesAfter": 4,
+      "bytesBefore": 200,
+      "bytesAfter": 188,
+      "changed": true
+    },
+    {
+      "key": "385fe1f1f498c349cea1f06188405b41f05c6c0b42c0b61ba343572109a87624",
+      "type": "RectangleGeometry",
+      "verticesBefore": 4,
+      "verticesAfter": 4,
+      "bytesBefore": 200,
+      "bytesAfter": 188,
+      "changed": true
+    },
+    {
+      "key": "e52a202f8a98fd40c00246297713f5697e5a248875a0bab747530b5d75f2c6df",
+      "type": "RectangleGeometry",
+      "verticesBefore": 4,
+      "verticesAfter": 4,
+      "bytesBefore": 200,
+      "bytesAfter": 188,
+      "changed": true
+    },
+    {
+      "key": "3916f4fb0e7ea4aa7f0551010856ba8556bc600246822096f0d8084be2ba8287",
+      "type": "RectangleGeometry",
+      "verticesBefore": 4,
+      "verticesAfter": 4,
+      "bytesBefore": 200,
+      "bytesAfter": 188,
+      "changed": true
+    },
+    {
+      "key": "fad2140b4751699e7709f0c346cbd5b16366ee46c2dcf4257bf80279df6aefe5",
+      "type": "CubeGeometry",
+      "verticesBefore": 24,
+      "verticesAfter": 24,
+      "bytesBefore": 1128,
+      "bytesAfter": 1128,
+      "changed": false
+    },
+    {
+      "key": "b1cfadef27051edc5b070a84789e3b4bf84affa8ce9799f44b193cf5e3d19b3a",
+      "type": "CubeGeometry",
+      "verticesBefore": 24,
+      "verticesAfter": 24,
+      "bytesBefore": 1128,
+      "bytesAfter": 1128,
+      "changed": false
+    },
+    {
+      "key": "4d15a512fab7afde6c6ca3d7e3fea1ebf9c2eda6fe986a4c8f22551a176408aa",
+      "type": "CubeGeometry",
+      "verticesBefore": 24,
+      "verticesAfter": 24,
+      "bytesBefore": 1128,
+      "bytesAfter": 1128,
+      "changed": false
+    },
+    {
+      "key": "39847fba32f5c4e14e96d3efe13fdf5484d54f463693837aeea5417cbb5d3fcc",
+      "type": "RectangleGeometry",
+      "verticesBefore": 4,
+      "verticesAfter": 4,
+      "bytesBefore": 200,
+      "bytesAfter": 188,
+      "changed": true
+    },
+    {
+      "key": "b5854da9a97587b603af116ae9361db116d7dce01d37e6c8f253b1234b449aea",
+      "type": "RectangleGeometry",
+      "verticesBefore": 36,
+      "verticesAfter": 24,
+      "bytesBefore": 1656,
+      "bytesAfter": 1128,
+      "changed": true
+    },
+    {
+      "key": "54c5d9541c65e3a89948cdca4d311b71b47a901a45dce02d83ca7b92f566a041",
+      "type": "CubeGeometry",
+      "verticesBefore": 24,
+      "verticesAfter": 24,
+      "bytesBefore": 1128,
+      "bytesAfter": 1128,
+      "changed": false
+    },
+    {
+      "key": "83fd810558a63bbf1078ff794dbafc41a4ca2f57b7576e9a76d56c8aa7fdd8a4",
+      "type": "CubeGeometry",
+      "verticesBefore": 24,
+      "verticesAfter": 24,
+      "bytesBefore": 1128,
+      "bytesAfter": 1128,
+      "changed": false
+    },
+    {
+      "key": "6fa6cfaa643135c176af820cd41b3b53805d06950d27c00aee0496d25ae3fd4b",
+      "type": "RectangleGeometry",
+      "verticesBefore": 1956,
+      "verticesAfter": 656,
+      "bytesBefore": 89976,
+      "bytesAfter": 32776,
+      "changed": true
+    },
+    {
+      "key": "9bec4ca321b5bcde7660daa335d07b8f340059f0368cf160a05e1c6c53b296e2",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 9780,
+      "verticesAfter": 9780,
+      "bytesBefore": 583200,
+      "bytesAfter": 467640,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "86d449496da33920ebe029073847390ed87afb38444296fa0ff01da8ce29e3e8",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 86385,
+      "verticesAfter": 86385,
+      "bytesBefore": 3455400,
+      "bytesAfter": 3455400,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "f479bf7718631d9e3ed781d4056239a7933e1fc5df74dfec0db7e7cd13822939",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 335247,
+      "verticesAfter": 335247,
+      "bytesBefore": 13409880,
+      "bytesAfter": 13409880,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "14e9d90b2dabc048d877ee40606fea2a0ff891d54c5d52d1ba95e22ce052bfa6",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 78,
+      "verticesAfter": 78,
+      "bytesBefore": 3120,
+      "bytesAfter": 2964,
+      "changed": true
+    },
+    {
+      "key": "ec183d0efaf63816ebf8640ee506795b301e25fc150aaf8ae3eb354a80adb776",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 51588,
+      "verticesAfter": 51588,
+      "bytesBefore": 2863224,
+      "bytesAfter": 2566548,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "7c0b410b67cd6a85ab1b027de46f0c84e26fde5bfbf6a905bb80d56ec205ec67",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 39384,
+      "verticesAfter": 39384,
+      "bytesBefore": 2637696,
+      "bytesAfter": 2185296,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "29b43b04c9fa1de0c7d3a75342f12db3762669108c853ca61011bd0fcea9ca24",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 82,
+      "verticesAfter": 82,
+      "bytesBefore": 4032,
+      "bytesAfter": 3492,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "1c0c6982e53aef42e249b2bc7f25a91c74690344e0479c4ea79a6e5ee3aa08d0",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "9db2c9bca47afb1d6fd0aeac0eb7b6d09da0b8860b2110404222c556a0bd07e3",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "fd30f796703743feaf5bb4761f0b0216b7c5ab0fc58c62370b43fd3e88523926",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "8f2c1382ad6fb634cab41763c597b040c7162f009720540e01d3fdc4ca0b3950",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "b6e048a7913d84ed3cabc60a44b74f32e3f2526c8495b7619c05d933194374a8",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "f3c193502a3e44564612e038bbe2c3c752b3a64ce94d819510f27e3f126eb83c",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "df3c64e07821f24dd9a1c95bfec2d3735a3ce1b55bcb400615d0ef31ff7cd1e1",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "6546f8ac5f94cddfd5bd71b98e77c9f51995ba93207dabfa88a9337481d9333d",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "d6d1b89df622145eba3b99e1cbb3af919f084251e1c3f0c3f9fd540afb292549",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "d9518f7596926630462069ced03865400cbd19967c9b1a67cf6bd0b2b6be9224",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "12c804b2628552d011759d52ca8d4ed06b43c8e9f009b0d3f873c5fa0ec3381a",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "5e18aa3044b9ce53c106ff291871dd4fd968c02cf0234a2bab09f2687f5c2a13",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "354d449629e5c6a715d8807c4ad91cf8ebb4bf0ffb9bf3a3332da2e912f68477",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "feb3be1a97c6637a8fd04807e3ec94893ac268eb83fe793149ca78507360716b",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "c8564bbc0f86f21807c6660996e61ebfb49671f628a99f6084c4b3ad3e30b591",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "dba865ed14b1dae24c90c71693a955426aee35ad86b72ca3e963f3eee0172f19",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 34,
+      "bytesBefore": 1560,
+      "bytesAfter": 1392,
+      "changed": true
+    },
+    {
+      "key": "3dacfa159f7ede59bf38702a53bd547a9865a5a4d4c3cf3108e404db6aa5073e",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "a57f4c06dad9e47cd1ff0ae38c5fa01652ed27382fb5304b2557c90d0189e882",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "9fd48a167506433077591c31acd851a4dc5b12cf54061995ff77f9f0a97cae64",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "41bc9d39319ee11b78642d8bd63a8092fd4aa66b408db35f44160e98e6c20da4",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "60eb800358407581192d41aec8a279ccf2a1191b643c20152efd56b525e96f3c",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "5b2e6e1923feeaa8c2026c5a994c81453fcac8c096cb03f05ec9e6be7306114c",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "b413759e059a7d05c8989700168364a39c3ff355ee0cf236eefa094fcdcf5dfd",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "37bcedb95c0632e2713eb0cbacef70957cc3d8804951b6d1e7decc2d2324b61a",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 34,
+      "bytesBefore": 1560,
+      "bytesAfter": 1392,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "e094fb6aabeecc6b296cf3765b1bf9da345fef94e79dfa86e9b7e32c08e04adb",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "aefb88522df6e36768aa01842cebf2de6d0af9d4962cad2bf4d71f7fe565929b",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "960f197eb9c0a19d8a7f1202fc606320f1bfe79c6731d44fc3cb7280f5b728e8",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "a703c95e06c8895b349812f773e87067cd59b34fc0ae65966b601eb265505462",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "8ebb6afbb1f3a32f54b4bf8277c5965f1d9273ff32337506510407e6452e0ae1",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "aeb84ee6c874cb78c55725ce1a91652e98fb887607dbfe9318653d951033cf6d",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "a5cca0760262ed0b8435af9f5a110d869a6a1089f7e6c9904bf67c704bc9b52b",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "bd1b908355b561f87d8202a1a4706f64c192bea54264fc2554620509d46bc8b9",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "85cb6e2505ce41f3322d0bc4a61312fa5de8e486b9eabf195b62cbf5650b7ddd",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "c509e276ef5c4fcf46db582c00cf0cd2deac917fc3d7a85f91dbca67fabe9c3b",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "2659e284840a1172475e4742f5e7088e6cf6f5846496530ce580f93e0eae2f2d",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "48f133caf9a72fa574aa8a365d576fba986b2c7b23097cd63b894faa2dd29dcd",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "1d7d959ee23b87cf4a6982b9159380404fbb855981482b6bc36c8ec026c1c2b5",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "d725b4382a446d1db5491c41d2e45dd3df2f268fccf6ca736db408afe68c1ebe",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "07d58dd3a29a6e60845f33487269b9db4a52e4b7dffc769d95d41dd9e32bd498",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "8b01d8b18b00ece02593eafd28a8906f5808f6df0baf17e483375fcc24581a49",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 34,
+      "bytesBefore": 1560,
+      "bytesAfter": 1392,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "0f1b503747335bce03ba6cc1d6c0863dd1d6a7ce297f2452c9a863a80df242cb",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "2e36dc6178e8488214e91090f226e17f50286e004cfe621cd6c822a05a5a6337",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "e41eaf2d8cc0e0085b38e9f1f85c108c637e9e82578456e1ac2ae83096a2c04a",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "aee444bae2b0ccb7ed31d266eea7864867cccc324549529a4d656ff9e004e9a0",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "c69bfa40f027d9ace57e2c89d60367dc44f95af3f09b1d3c665eea6061a5eaff",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "5a529ded99c8addb5a8fec83b3ecbe51cc96b60db48759a9988da6ca54a6ecef",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 34,
+      "verticesAfter": 33,
+      "bytesBefore": 1560,
+      "bytesAfter": 1356,
+      "changed": true
+    },
+    {
+      "key": "144266f89fb94bc9fd78f17e9ccde88b06de88a33e35695cd8f8d277412ab91a",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "6da705faefa9ef68cce14b72aaa79e371c1c8a6e5e29722b2a7980ce7ee52344",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 216,
+      "bytesAfter": 216,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "5451a666e0f94fd54f271ed1054782e915a97db86cfb241e57f13d862f350831",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 26,
+      "verticesAfter": 26,
+      "bytesBefore": 1432,
+      "bytesAfter": 1288,
+      "changed": true
+    },
+    {
+      "key": "d308fa1be50a4b4f03e5a9efbdc91ed08d1a98515124d1779aeadc0c03b73dba",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 26,
+      "verticesAfter": 26,
+      "bytesBefore": 1432,
+      "bytesAfter": 1288,
+      "changed": true
+    },
+    {
+      "key": "7b5105494c62e88bf64b8da29e6b1bd13b5bad8839a0cecf5926677763636a6e",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 44,
+      "verticesAfter": 42,
+      "bytesBefore": 2016,
+      "bytesAfter": 1728,
+      "changed": true
+    },
+    {
+      "key": "00e3501f19e217bf19a49254c8c73daca18e14fd3769e0b1c86f5268adaa930c",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 8,
+      "verticesAfter": 8,
+      "bytesBefore": 400,
+      "bytesAfter": 376,
+      "changed": true
+    },
+    {
+      "key": "999b9836f9dfa5e263a656c05db66727f8ea71d67a65932a39c14bc062b6ebac",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 44,
+      "verticesAfter": 42,
+      "bytesBefore": 2016,
+      "bytesAfter": 1728,
+      "changed": true
+    },
+    {
+      "key": "bf4621680d5da19eba3fe99023c34afdd10c13d2c28401c30676647c38fb14ee",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 8,
+      "verticesAfter": 8,
+      "bytesBefore": 400,
+      "bytesAfter": 376,
+      "changed": true
+    },
+    {
+      "key": "bcb8ae47497893e2ed45a57696b8df8a3c4dca12e5050d03fab7cb291646643b",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 50,
+      "verticesAfter": 50,
+      "bytesBefore": 2376,
+      "bytesAfter": 2088,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "b3e292cfa13a2f5e57df5de0eca9cbf454a0e7e9e4832bc2b94c481b2ec393b2",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 6,
+      "verticesAfter": 6,
+      "bytesBefore": 264,
+      "bytesAfter": 264,
+      "changed": false,
+      "compressionPreserved": true
+    },
+    {
+      "key": "9f623ff60ac7260b2bcee1c6d61c69b93087b7732edfae4d7594fba339b232a7",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 18,
+      "verticesAfter": 18,
+      "bytesBefore": 960,
+      "bytesAfter": 876,
+      "changed": true
+    },
+    {
+      "key": "e3dde831ad2aeaa0775e07316e45a6f9adf3831c3da408ddbf6dc3c8b5309d4d",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 14,
+      "verticesAfter": 14,
+      "bytesBefore": 760,
+      "bytesAfter": 688,
+      "changed": true
+    },
+    {
+      "key": "aa2326661e0a40b47afe20090cb3420e37b4d073218a0cce1f26e18004d64ce6",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 1398,
+      "verticesAfter": 1398,
+      "bytesBefore": 80280,
+      "bytesAfter": 65304,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "25b1aa5d4017e711467f02bcad85446b329903708ffdb65a771f4bdabbc6f593",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 65,
+      "verticesAfter": 55,
+      "bytesBefore": 3580,
+      "bytesAfter": 2780,
+      "changed": true
+    },
+    {
+      "key": "edb6766189825c5d47b59896a9666df2860d447a6e9621d6e8eb057d428eaf97",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 10356,
+      "verticesAfter": 10198,
+      "bytesBefore": 497088,
+      "bytesAfter": 469424,
+      "changed": true
+    },
+    {
+      "key": "1bb706b019bfd6a19676cba01eca9b5fefaa11871ff0ead42adbd64a4863d098",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 52427,
+      "verticesAfter": 52427,
+      "bytesBefore": 3078700,
+      "bytesAfter": 2692744,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "dc8760a5feeb930452780f398603418cb9047eda02fb576b9d55c84a477ce127",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 9,
+      "verticesAfter": 9,
+      "bytesBefore": 420,
+      "bytesAfter": 372,
+      "changed": true
+    },
+    {
+      "key": "3131e2df651a645157eca1530a6dbcfc70c7bf80760fec473340dc76ca5f4456",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 964,
+      "verticesAfter": 961,
+      "bytesBefore": 42600,
+      "bytesAfter": 38544,
+      "changed": true
+    },
+    {
+      "key": "fdff2462eb8a0e1b4ffdfce16c296d74e284ea437cbf6ccef0e67dbc11976ddc",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 198,
+      "verticesAfter": 122,
+      "bytesBefore": 10152,
+      "bytesAfter": 6088,
+      "changed": true
+    },
+    {
+      "key": "29328a423ba620ac9dc738bb38a0d2b05f6f546b1bb07ba702890d8baa85f228",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 9034,
+      "verticesAfter": 6583,
+      "bytesBefore": 465500,
+      "bytesAfter": 323654,
+      "changed": true
+    },
+    {
+      "key": "9d55f4c4ea66d2b07c8188dd557fc7f82366f302130b22375642a29ae5054699",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 10133,
+      "verticesAfter": 5640,
+      "bytesBefore": 438084,
+      "bytesAfter": 239688,
+      "changed": true
+    },
+    {
+      "key": "31c390045ed7464d4c1c303245e4bf976dd3338ab0572319e4c46eda8d510949",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 108,
+      "verticesAfter": 108,
+      "bytesBefore": 4920,
+      "bytesAfter": 4404,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "fc4aeaa5cb6fb3c87ed825780129408b8d905f8dde81d88a0d5e776a968a1f2d",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 228,
+      "verticesAfter": 228,
+      "bytesBefore": 10608,
+      "bytesAfter": 9408,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "81516fa0b6b8ab6c9b1a54af6bc8be9397706cb52a41c1aa9c157ef5bfb03845",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 24,
+      "verticesAfter": 24,
+      "bytesBefore": 1008,
+      "bytesAfter": 936,
+      "changed": true
+    },
+    {
+      "key": "d266b3bef0fcdec009ca72c50b54eb8dca95c3cd5c63544fd62017ebfabf60bc",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 480,
+      "verticesAfter": 480,
+      "bytesBefore": 22848,
+      "bytesAfter": 20064,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "d5517843febc0b8a0d813feea26d56f44e61324e4ff45280a752b42970a2a853",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 4632,
+      "verticesAfter": 4632,
+      "bytesBefore": 299064,
+      "bytesAfter": 251436,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "f34d159721c92b96c150749704e2374133f7220c8419d70fc5788214eacec633",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 2229,
+      "verticesAfter": 2229,
+      "bytesBefore": 125820,
+      "bytesAfter": 111948,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "5ac03f600b3f433ee19aeacb7e8fe8df747230822d25203968f8d4db2f257927",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "ae939a0771f2a5e8c1a155b3053e4dd17a5129c3b3df46ed882bbc40d9f0afc9",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "16209edd52db6af9e8641dc4ce8b762a3ed1dabb09426f462ec4aebc872ec857",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "75c4d68aed18b9cf1e331c754e02fc3ca8cd4c9eefffe730f12b866165c8b395",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "daa4da6c53cdbc2909ee0f5d940a74f0e99eaf87be1ee40e2e3f4f3ee7024906",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "d1108fa9f9c9795986988cb793bd449c5dec1a2150687192b323e71c14fe1e36",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 413,
+      "verticesAfter": 413,
+      "bytesBefore": 95348,
+      "bytesAfter": 95348,
+      "changed": false
+    },
+    {
+      "key": "a5e0ffedef12aeb971e8d8f04da4e54a97ebf2a80b3b3ce8329939d114433357",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "39ff5460a2a5ae6146627ef27b686be395fd034fe2c9b22f9a3a12745f5044bf",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "2475b564777dc6883cda56f9b1a1d03ed768ae4879cea916097a8c55afa0debe",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "3428bb0ce19c692b27abcc50e139979890d2a087454438fbf8d4266f2c2d0ae6",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "be97d577ae4586b6ab90a0c1a50dc7b8444646c18dcc8537b13b5cbb967f91a5",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "89fe2bbae691dcb9881e36fa44f10fa6e3cd04236c171263c6b5fe6b663d60fe",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 416,
+      "verticesAfter": 416,
+      "bytesBefore": 96008,
+      "bytesAfter": 96008,
+      "changed": false
+    },
+    {
+      "key": "7e82f36703a33ca3311f6ab73fed4b9b7b8d6a870dc328c298bd5a0d2b3035b1",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "5d5661849d3198a8c30fc7867495f3568fc1fdae8c65442d847fc4baa83078cb",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 95788,
+      "bytesAfter": 95788,
+      "changed": false
+    },
+    {
+      "key": "9b93ed8d8a3ef8176e69237a3615d8ba86faec8c8a4c55631b31e5c837506e74",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "3000ffb92d57ea708c6289608970d6ef9f65977a4ec0b114df11b2761e13c171",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "fbb6a611fac9c2aa8142c2bba3492d7ac5ad897cbc2210948fea4ae0137957dc",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "07e1ff781d46dc60e93c50a6630cb5ddb63fe99e59f5c91c26e7ce636e6a1625",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "e11ebfdd90f19272489d057fec07e53ca7948da95b9862e8b05b3eb1a98104c1",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "8b7dcda6a491de4c2dc3d5d6a9c1838a38e428a87100d488df5210a2df1e5025",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "31a89fd7800153f1dd15af7514b0b23618bfa40adc3ad77f6c58016f5b3483f7",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "f6bb9cb30e56ac05a847c1f2ae3117e1da244a82374fe4efcf7c6813105b34e4",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "a51240bd76d08bf26603a9175680619b2e52a65a923b783d7bdd39fd02e92298",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 95788,
+      "bytesAfter": 95788,
+      "changed": false
+    },
+    {
+      "key": "17e49b572fbbc6b76133b62bf9b9b0efdc0873ff7584bc3de4caa912cd18c891",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "7a5e30f5b5c11d63480afb72e7afbd8639c9c471491f62dddbca5b3de832c3c4",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "26a23fef6f114cabb9dbe98e493eca364c26b4b18102110f0a794742d4bc0a03",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 95788,
+      "bytesAfter": 95788,
+      "changed": false
+    },
+    {
+      "key": "a670db1e402619c243f1540c9210b6cce8fe10d072179590557921642b64c531",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "011f670445cfc73aa996dbba2d2123cbcc6158bb1c200fb1b1f5ac0f430b79b2",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 413,
+      "verticesAfter": 413,
+      "bytesBefore": 95348,
+      "bytesAfter": 95348,
+      "changed": false
+    },
+    {
+      "key": "9f82904cafd33bd76b272916c88a938ec25071198d07a47ff5633367cec59360",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "109cba49aa816aa815263068cba2a2a680af81c54b376ff1d5f88ad4934f2de0",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "8081ee8b607d7b2c1c79a9ff7a6435328ee3a133132361a615b1595802f098eb",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "1a33a2a9aa3ef9e1c777612f6de187d9b1ebc607969aec3471e08bfaab5aa906",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "b6783bfc1d2b64db571759690b904f77f7b04f7d8b35b4189e36fc72b7ec34dd",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "c0e0cebdde1eed725e4be28cf5fce78b85b0aa94dd400c8d2b77eba206f17b48",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "ce544dd241c802eec582c5e335d256a64a8a4efc57345bc794947720795eb849",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "f0d619af96538f80242e3c85dd6b269589eac8e1abf7769b8ef8799c5a211aad",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 416,
+      "verticesAfter": 416,
+      "bytesBefore": 96008,
+      "bytesAfter": 96008,
+      "changed": false
+    },
+    {
+      "key": "e038b4e3e431ea7d7255ba292f94ee97ed5b995b7c95632a5b9c3ba46f4e8b1f",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "08dbfdc686e7b311575c4976b740490a6b498c590e42eb5466a20419bd41d9fe",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "23ab1ce4498ecae590cdd4cc60290302022f391faf225cdffcada44529bc5de4",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "47b7bca95492d20aa68f27499a63314684cb41df1409463337a87d5d988edfb8",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "e323dcf6d6af73cc07ed34c843b0450470f3b41ee1b0ee637dea56887e900c54",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "1b9ca009d5a6df06e60624fb2488d92b8f2b3485212b0df29b485ea48c8146b2",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 652,
+      "verticesAfter": 652,
+      "bytesBefore": 213136,
+      "bytesAfter": 213136,
+      "changed": false
+    },
+    {
+      "key": "f7eaca4b7a90db0dd824c01e7c1bf0ef84644afb99cd4e2291bc68f033ada783",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "c544e042ce803b98f7573d61dad385ea5f6ceab36707423e4e658bacc3743e65",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "259a6bbcb7cddccb7ec24d7346135feafb6a0178f2b90d93532f36427e15da02",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "0300d255da309c0de2ccc71d71025da5202c7aa6e365a877778663a43674f345",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "25cb4b8b22d562294855d0fe2140cef2aeab8ddf5f3142a5424e2bc79e6c1718",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "81dcc06eb9b99ac7e3961f298b288705cd41ee95bda27b6e3a72d17e4faf671d",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 95788,
+      "bytesAfter": 95788,
+      "changed": false
+    },
+    {
+      "key": "759157727414c9574132d25e4807c7e80ee88b8d0d734f49879ac8968a431db0",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 95788,
+      "bytesAfter": 95788,
+      "changed": false
+    },
+    {
+      "key": "c049bd5c888d126dab388b3e6a4f5437b5005a33ad16aabee63ce49a1a716983",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 95788,
+      "bytesAfter": 95788,
+      "changed": false
+    },
+    {
+      "key": "65161ffe99d328f120483ad83c06e3665790aaa4138977da29d773baa38673d2",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 95788,
+      "bytesAfter": 95788,
+      "changed": false
+    },
+    {
+      "key": "e2dd2921eee97141150bdd8c33ca05e5a0f1e4092ff00d60936b3af67900d162",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 95788,
+      "bytesAfter": 95788,
+      "changed": false
+    },
+    {
+      "key": "f0aaf171967d6d7840b59ccd9c01589f25bc7a5c84a3e15aba8c08e83bc63526",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 95788,
+      "bytesAfter": 95788,
+      "changed": false
+    },
+    {
+      "key": "ba83ddbc7053bdbe8bee980048c54378c24a214b0c393f81712b6ca4c1ea964b",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 95788,
+      "bytesAfter": 95788,
+      "changed": false
+    },
+    {
+      "key": "00065c340a47a3dc420c9231c44897b04ee4330ff5ae73bc4e567deaee2a52ac",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 95788,
+      "bytesAfter": 95788,
+      "changed": false
+    },
+    {
+      "key": "816338abad3c8aecbed22037db377261b2f6987f7ac2450f28dc59aa33d96b1e",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 95788,
+      "bytesAfter": 95788,
+      "changed": false
+    },
+    {
+      "key": "5e5233d6c48d0a4855c1f3659842c97e33f436cbbe6ae3c93e1431b45a9a74c2",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 95788,
+      "bytesAfter": 95788,
+      "changed": false
+    },
+    {
+      "key": "b97eebc2dae109fa8134b9a99f3adf3ab03ba0bc46fc102a8839dac94cc08d69",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 95788,
+      "bytesAfter": 95788,
+      "changed": false
+    },
+    {
+      "key": "cb6bd0760c2ded5c4b90b273f0fbd76c31bb3a9465bb95d240cc9ff831c35b04",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 95788,
+      "bytesAfter": 95788,
+      "changed": false
+    },
+    {
+      "key": "ae3cb6cefe77b2372ce77af234c51a5cf5b6e0a2c5b061a7a343ba0dacd8939c",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 95788,
+      "bytesAfter": 95788,
+      "changed": false
+    },
+    {
+      "key": "71db15eee52a2ca415d110637287d8a6870564f8b0c3876f34ffe58390539dcd",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 652,
+      "verticesAfter": 652,
+      "bytesBefore": 213136,
+      "bytesAfter": 213136,
+      "changed": false
+    },
+    {
+      "key": "5c401871fa19446e561fb348ed3728bfc9bdb13bf7830b85f16c5e271c9ded8f",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 95788,
+      "bytesAfter": 95788,
+      "changed": false
+    },
+    {
+      "key": "91698f8a1fc5324439cc3fc3ee00633029febfbc34cead9767f43e731c6def81",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "a93032316b81f79690c21bb65a1a218ad77439a4b557b8ed43069e2b9caff96f",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 413,
+      "verticesAfter": 413,
+      "bytesBefore": 95348,
+      "bytesAfter": 95348,
+      "changed": false
+    },
+    {
+      "key": "714988ca692d67ad87911bc336a65d612f0fd9b10ed135fb286084cf6fcac680",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "316b4efd0ccaf43da53b578f3d272a721b164e1e1db12d72450e84af2bbffbc6",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 413,
+      "verticesAfter": 413,
+      "bytesBefore": 95348,
+      "bytesAfter": 95348,
+      "changed": false
+    },
+    {
+      "key": "5aa998c9608dfbc48ec9b5afd3b9fa0700fb0cb810c0c9f69846a2a6b7a4334b",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "51409c5552c60c199b47edc69a6d6c8f71a30abce87cc50867ab0a66ce842575",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "dc4ad93725b3bd72c6b9a04aad349786b4d849b21fdc9c9aef34267b32538e2b",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "1fc5be2059753a620e6848e7fd36bfa5047aa560036b0ac6eba11ea23648ef37",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "2c5f4527b09d0d4e5cd0978c2ed494744ddb0f72494a47a9964a6486331534a8",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 582,
+      "verticesAfter": 582,
+      "bytesBefore": 134256,
+      "bytesAfter": 134256,
+      "changed": false
+    },
+    {
+      "key": "45ee36e0259e74fb834889a00f3ec7dfa3aa8a3602f1bcccaf56572d16b22e01",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "493197b4858f06b3df15989cc3b1df8c657ce4959c7c27e5d2b03b01690407be",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "07c81cb4d6ae624e47c75149064956d7ee5dff2014b957dc79709411c2752606",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "87463f0f0a57960b5e117de0d1a62fc07f27a7d47d2b44ff8d7f3c1ef109b83f",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "4bdf73ccd14fc0dd8c3de0e2add4e1970346522146a74ad424f6ec18f60257a5",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "d11acb6ff964540782c88957f7f72a529170a75a6c2ba0e321728174de5c79eb",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "8f90cc0a1a57694b1594392c7468927b255e4686a56e9fe92f2b34dccb77a243",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "35d6644138d4ce3ca035a3388b690a9397d10e6d719628aac0a8e959622d90c8",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "047e8a2c71452d2fcb7b021be94a2122bdb0951c987f2ee697fecc4f38097236",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "eaef154e993bf0f45a2ba470f503294dca77368a0ee1f05d635fc971ab9910fe",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "7e9e02e9bef49425e67f30fe3eadf7fa7b964a962e52a8b4493621957f4f23bb",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "3a75b2ef79767d19dd0bc0146401561916d89e99f92ffe7c9d299219206575f2",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "db17048ca95db23f29e28a9a51ffa9a5c00a71e7139b434d02699381372a4360",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "0f4819635767daa4a67d8d7c2b22be7ef3385bc83002abb0f51ee9752f53af14",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "deab22f927649798b3cd429c39f440d68eebbaaa57a3d2e490f21bce2c83b2d6",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "c6f80033fb33c5d4523f20dbd7876378d13f52cc4d9ae2fefaa8d20830c87c3c",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 412,
+      "verticesAfter": 412,
+      "bytesBefore": 95128,
+      "bytesAfter": 95128,
+      "changed": false
+    },
+    {
+      "key": "40d8046a81f652c532448125291aefa5acdc968a58986e6479c3fa53def2c4c1",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 424,
+      "verticesAfter": 424,
+      "bytesBefore": 97768,
+      "bytesAfter": 97768,
+      "changed": false
+    },
+    {
+      "key": "5a3f58fe041e1d56fddd9b77acf0afbf630abe9985e083e2949b1757e4737f62",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 78,
+      "verticesAfter": 78,
+      "bytesBefore": 3336,
+      "bytesAfter": 3072,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "0cf72c43204351fc42e1a7af01a60a058b71f8452dc2cca4a73b27a644e3e90d",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 896,
+      "verticesAfter": 896,
+      "bytesBefore": 52216,
+      "bytesAfter": 45820,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "f07de6e40deb3f9a58f169b85189e1f60a26222e42013dec642b20017b7c2730",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 19409,
+      "verticesAfter": 19409,
+      "bytesBefore": 1102968,
+      "bytesAfter": 900846,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "52494afaa235c91a68607d1509aba97b17e17dc9d75d25635a20580fa88d0095",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 1174,
+      "verticesAfter": 1174,
+      "bytesBefore": 54936,
+      "bytesAfter": 48600,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "e16ce58715a73ecf771da4dd9ee552bfe514824132931f2a3feba40d133cd14c",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 1045,
+      "verticesAfter": 1045,
+      "bytesBefore": 58556,
+      "bytesAfter": 52268,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "6b0a477c0c0708e8e0b9fcb374aa2bce893904b1ae26dd5b5fc70a9e5775e16e",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 889,
+      "verticesAfter": 889,
+      "bytesBefore": 50412,
+      "bytesAfter": 41208,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "9af9a6c6bbc95079dde02d27242707aa7b3ad0641015d14d70ede340e4989b1f",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 752,
+      "verticesAfter": 752,
+      "bytesBefore": 45088,
+      "bytesAfter": 39088,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "75e80d071c3488780fbf0b55bbb1f5c324b93ad641354e69ef4a2ce471fc3f0f",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 872,
+      "verticesAfter": 872,
+      "bytesBefore": 53596,
+      "bytesAfter": 45982,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "4c8e02a53d9ef5333db4843da50c19c4a45a9dd67ed7315876b6751753a09ffb",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 76,
+      "verticesAfter": 76,
+      "bytesBefore": 4700,
+      "bytesAfter": 4022,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "87ac78f8bed69beddca38d43e3f7b2284f28d705f5e16644c50e57c64c13ad54",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 200,
+      "verticesAfter": 200,
+      "bytesBefore": 12832,
+      "bytesAfter": 10816,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "8f3cbc99e399fef06a1e8f9a48ff3b9f02e4d99bf3741dcfbb0f43cd7a46b8e9",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 601,
+      "verticesAfter": 601,
+      "bytesBefore": 36044,
+      "bytesAfter": 31244,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "fc1d023eadede7512563379d6362dcc9660de72c2792b4609337696da7201ae9",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 100,
+      "verticesAfter": 100,
+      "bytesBefore": 5864,
+      "bytesAfter": 5132,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "6504f3bbce519951e0e24f099396984c03df572bdcb79bfa621e6bce25ff09b8",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 62,
+      "verticesAfter": 62,
+      "bytesBefore": 3592,
+      "bytesAfter": 3160,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "6a372d0257cac4a187957122486586f4bbcf33e329c9792c1f99ce9940517d16",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 311,
+      "verticesAfter": 311,
+      "bytesBefore": 19252,
+      "bytesAfter": 16468,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "c0cb9be3bba9c250b56fc8ea4e6af527208294dad01f20d290f779faaf0a4750",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 415,
+      "verticesAfter": 415,
+      "bytesBefore": 25532,
+      "bytesAfter": 21896,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "a1dde2f029767834802db2929eb66920bb0b83ec2349077ff94ba954b24f79ef",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 945,
+      "verticesAfter": 945,
+      "bytesBefore": 60468,
+      "bytesAfter": 51024,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "35be423e7fa8965182d7f50b129de2dd631b7895feaccc88201d3b5b6e5702e3",
+      "type": "CubeGeometry",
+      "verticesBefore": 600,
+      "verticesAfter": 561,
+      "bytesBefore": 30696,
+      "bytesAfter": 28980,
+      "changed": true
+    },
+    {
+      "key": "b66c96b9afd74e30be6d3f81cc0d146e7fd247753e7ff28cf8ed03c7526a9c8b",
+      "type": "RectangleGeometry",
+      "verticesBefore": 164,
+      "verticesAfter": 164,
+      "bytesBefore": 8188,
+      "bytesAfter": 8188,
+      "changed": false
+    },
+    {
+      "key": "e340bb8644ada7bd1627ff9a0dc6e15e0cdf5281e32d0fd05cf2786d3a7cc625",
+      "type": "TextGeometry",
+      "verticesBefore": 8064,
+      "verticesAfter": 3552,
+      "bytesBefore": 370944,
+      "bytesAfter": 172416,
+      "changed": true
+    },
+    {
+      "key": "8cd5350bc007e1ccd3808756679dcdbbac9cfff5367a523f9ad6e8baa2a86c28",
+      "type": "TextGeometry",
+      "verticesBefore": 24377,
+      "verticesAfter": 24377,
+      "bytesBefore": 1215958,
+      "bytesAfter": 1215958,
+      "changed": false
+    },
+    {
+      "key": "04a13b95812cafaee8b6aba600a68ca34109214aeb997207d57e5df6a7df84e2",
+      "type": "CubeGeometry",
+      "verticesBefore": 600,
+      "verticesAfter": 561,
+      "bytesBefore": 30696,
+      "bytesAfter": 28980,
+      "changed": true
+    },
+    {
+      "key": "7d6fcb759f434f27c886634900144b222afa2730a3daf3187bd97735fce10490",
+      "type": "RectangleGeometry",
+      "verticesBefore": 164,
+      "verticesAfter": 164,
+      "bytesBefore": 8188,
+      "bytesAfter": 8188,
+      "changed": false
+    },
+    {
+      "key": "6c2d9f1c10b7a3c70b7513d7ba9c42c8e4fabeb7f48380b5fe9c594f9a3876fa",
+      "type": "TextGeometry",
+      "verticesBefore": 5124,
+      "verticesAfter": 2338,
+      "bytesBefore": 235704,
+      "bytesAfter": 113120,
+      "changed": true
+    },
+    {
+      "key": "2f3d1b2bc162c238c0a012508ad127604a6eb1f8594100f10f04df2f545c211a",
+      "type": "TextGeometry",
+      "verticesBefore": 36764,
+      "verticesAfter": 36764,
+      "bytesBefore": 1833976,
+      "bytesAfter": 1833976,
+      "changed": false
+    },
+    {
+      "key": "5c500bef7c176ec1e6188dbe3584fc1a1d035a03a9165156d03a634edbb9981a",
+      "type": "RectangleGeometry",
+      "verticesBefore": 164,
+      "verticesAfter": 164,
+      "bytesBefore": 8188,
+      "bytesAfter": 8188,
+      "changed": false
+    },
+    {
+      "key": "b4e7e12090c1224ff52b924277dbc2af205b040cdccbf1a8a72a85ab2376cf7f",
+      "type": "TextGeometry",
+      "verticesBefore": 10488,
+      "verticesAfter": 4668,
+      "bytesBefore": 482448,
+      "bytesAfter": 226368,
+      "changed": true
+    },
+    {
+      "key": "45e159819a41edad61cae4031bc5c15d13818d28985720d80d068b1254566689",
+      "type": "TextGeometry",
+      "verticesBefore": 30073,
+      "verticesAfter": 30073,
+      "bytesBefore": 1500386,
+      "bytesAfter": 1500386,
+      "changed": false
+    },
+    {
+      "key": "2ee0ebe9c999608d231da1cf6d81b0bbd64152258119b9a099fb09e48bbd8a05",
+      "type": "RectangleGeometry",
+      "verticesBefore": 164,
+      "verticesAfter": 164,
+      "bytesBefore": 8188,
+      "bytesAfter": 8188,
+      "changed": false
+    },
+    {
+      "key": "9f21928f6c3f000d73fc6ce509194dad47f555bca0d15581f84df7c22f5bed1c",
+      "type": "TextGeometry",
+      "verticesBefore": 11340,
+      "verticesAfter": 5162,
+      "bytesBefore": 521640,
+      "bytesAfter": 249808,
+      "changed": true
+    },
+    {
+      "key": "affe2435818fe1b65a89dc534cd39bd7a3de8787a374184ac8481a0d9bf323f1",
+      "type": "TextGeometry",
+      "verticesBefore": 7131,
+      "verticesAfter": 7131,
+      "bytesBefore": 355554,
+      "bytesAfter": 355554,
+      "changed": false
+    },
+    {
+      "key": "851dcfebdac193d8f3f57e70d62f1c41103a4cf42e72ab7e45d49f1c07d48a38",
+      "type": "TextGeometry",
+      "verticesBefore": 5196,
+      "verticesAfter": 2324,
+      "bytesBefore": 239016,
+      "bytesAfter": 112648,
+      "changed": true
+    },
+    {
+      "key": "b02d13e6f59877e4d44b555cb2c3392183229e6b7baae6c8118fed8b0595c042",
+      "type": "TextGeometry",
+      "verticesBefore": 19565,
+      "verticesAfter": 19565,
+      "bytesBefore": 975658,
+      "bytesAfter": 975658,
+      "changed": false
+    },
+    {
+      "key": "7ed6ac8d8a5ae027132c5169690ef76e646f08da16419203cd4e0727abe9d438",
+      "type": "RectangleGeometry",
+      "verticesBefore": 164,
+      "verticesAfter": 164,
+      "bytesBefore": 8188,
+      "bytesAfter": 8188,
+      "changed": false
+    },
+    {
+      "key": "885074be2c496d24510d7c91793a2445c60ad3e8d7475e53ab3553468a5d923b",
+      "type": "TextGeometry",
+      "verticesBefore": 6300,
+      "verticesAfter": 2766,
+      "bytesBefore": 289800,
+      "bytesAfter": 134304,
+      "changed": true
+    },
+    {
+      "key": "9a491df3b677c18d4b3ab7bea33895f39b84f9d874fc3d0fc08e11a9ada32d6e",
+      "type": "TextGeometry",
+      "verticesBefore": 24988,
+      "verticesAfter": 24988,
+      "bytesBefore": 1246496,
+      "bytesAfter": 1246496,
+      "changed": false
+    },
+    {
+      "key": "ed93d9b3cd92260c35dfbf03ec8672c0ae82930a911aed2495a4f7601c28ecd1",
+      "type": "TextGeometry",
+      "verticesBefore": 755,
+      "verticesAfter": 755,
+      "bytesBefore": 37714,
+      "bytesAfter": 37714,
+      "changed": false
+    },
+    {
+      "key": "76d9a8e1132d6ac7233557bc4e40fbcbf3548f1a6a6ead982fe7b10d6862462f",
+      "type": "TextGeometry",
+      "verticesBefore": 1143,
+      "verticesAfter": 1143,
+      "bytesBefore": 57090,
+      "bytesAfter": 57090,
+      "changed": false
+    },
+    {
+      "key": "48220fee95fcd0b5cac614b15a21eb80c973c35f3e651511630bfe2731f92a7a",
+      "type": "TextGeometry",
+      "verticesBefore": 1199,
+      "verticesAfter": 1199,
+      "bytesBefore": 59890,
+      "bytesAfter": 59890,
+      "changed": false
+    },
+    {
+      "key": "8f973807058a9cd844cadda0ff09f0e1437886b7425de8ec71c55d5414e2901f",
+      "type": "TextGeometry",
+      "verticesBefore": 857,
+      "verticesAfter": 857,
+      "bytesBefore": 42790,
+      "bytesAfter": 42790,
+      "changed": false
+    },
+    {
+      "key": "cd7ff32a9bafb70dc25ac8a20cf2ede2bc77fc01d7ce4dcc7b5633df8792c197",
+      "type": "TextGeometry",
+      "verticesBefore": 2380,
+      "verticesAfter": 2380,
+      "bytesBefore": 118832,
+      "bytesAfter": 118832,
+      "changed": false
+    },
+    {
+      "key": "00fc2617b66c4a14a1de66a420e5c91bfa1e888337926f1e7ed8e1fd065f7732",
+      "type": "SubdivGeometry",
+      "verticesBefore": 33645,
+      "verticesAfter": 33645,
+      "bytesBefore": 1547670,
+      "bytesAfter": 1547670,
+      "changed": false
+    },
+    {
+      "key": "09bdebf4b429f2dd5ada6c29d6c52eceeca3b16e31e593482d8c7b2aafb2693d",
+      "type": "RectangleGeometry",
+      "verticesBefore": 4,
+      "verticesAfter": 4,
+      "bytesBefore": 200,
+      "bytesAfter": 188,
+      "changed": true
+    },
+    {
+      "key": "dc58840f750a5df730da67a83476eeae2d97cf7269e9d80716cb3ebfb5a68fdd",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 80,
+      "verticesAfter": 80,
+      "bytesBefore": 5248,
+      "bytesAfter": 4384,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "3334f13f7b86350023de25bc576bc80970cd55fdf7a339a6b48231271f8c9a6f",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 79,
+      "verticesAfter": 79,
+      "bytesBefore": 4844,
+      "bytesAfter": 4160,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "bb3c4a096a4462d8fe4951d67120db939d22fad26e25bbc466aab2b48dfe93f8",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 200,
+      "verticesAfter": 200,
+      "bytesBefore": 12832,
+      "bytesAfter": 10816,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "642cf0fedec851ade61be2d7cd13627e858ba9ffa6212453413dea34467a3592",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 605,
+      "verticesAfter": 605,
+      "bytesBefore": 36316,
+      "bytesAfter": 31468,
+      "changed": true,
+      "compressionPreserved": true
+    },
+    {
+      "key": "7f5f7ecd4b2533d7b43fb1daac5db564d63d16e9aa269083491c5d20e8ac5494",
+      "type": "NonParametricGeometry",
+      "verticesBefore": 62,
+      "verticesAfter": 62,
+      "bytesBefore": 3592,
+      "bytesAfter": 3160,
+      "changed": true,
+      "compressionPreserved": true
+    }
+  ]
+}

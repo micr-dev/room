@@ -1,0 +1,304 @@
+{
+  "scope": "Decimal bytes. All document images and all posters, not a browser waterfall. Runtime gzip is an estimate dependent on HTTP compression. HTML/CSS/headers excluded. Deferred video/audio/editor/fonts excluded.",
+  "modelBytes": 2757102,
+  "imageBytes": 729361,
+  "codeGzipEstimate": 171839,
+  "initialEstimatedBytes": 3658302,
+  "images": [
+    {
+      "file": "assets/d53bf051096515d22599e5ffa459cbc6362d041a4633a546f775e499f2636e03.webp",
+      "bytes": 86418
+    },
+    {
+      "file": "assets/aeb4835501043d1a46e19df27272681e36f0d7dfcdc8937be710287b49bea284.webp",
+      "bytes": 85992
+    },
+    {
+      "file": "assets/d973e107c1b8b31c312b847fa1a356018c6d5f06eb9d2ec836fa5109d2613940.jpg",
+      "bytes": 81441
+    },
+    {
+      "file": "assets/6de0257fb90fdc7a6d1a04a00aec40826ea983f556e31d17eea515cdcafbbff3.jpg",
+      "bytes": 63169
+    },
+    {
+      "file": "assets/31b9afee953cd71919f90bd422d627390e44f8f3283dfdc984f1f754eded4a02.webp",
+      "bytes": 53116
+    },
+    {
+      "file": "assets/a8acb3dd171a16e99dfa0d60e34ffe245d731b2b2de8204791682a2239ea2060.webp",
+      "bytes": 46864
+    },
+    {
+      "file": "assets/fd9f41e5e29b6ba9e5b731813704a1b0564e87e1430eda3dd45a7a0781a0aaf8.jpg",
+      "bytes": 42458
+    },
+    {
+      "file": "assets/ab426034f5c5bce5b3294edb35c85a2ef7f2fd390ae4dd3e14a543c6d5ab49b3.webp",
+      "bytes": 29746
+    },
+    {
+      "file": "assets/445d86d040c3e97a6dfd69b4180e397857fe8b0e6d66a6dfe727b9ef220399c4.jpg",
+      "bytes": 28651
+    },
+    {
+      "file": "assets/9f025fb45891dfd3188bf99dbc247acdcae98a5e0019734d4456cba59993cac4.jpg",
+      "bytes": 21385
+    },
+    {
+      "file": "assets/390be3511bb6bc4e0c61e1602e9f66fa0ec93dbbc881f1ae1523f11114ad6d17.webp",
+      "bytes": 19266
+    },
+    {
+      "file": "assets/b8361a505a72230b6ccd0e2a91b26ef4a9cf60d57c48847caa78c5985d78ea41.webp",
+      "bytes": 17374
+    },
+    {
+      "file": "assets/8ef5fa8cc40ad85377c005da8b1292ba0abb43a2fbc07e7133d18fd7dcef7520.webp",
+      "bytes": 16734
+    },
+    {
+      "file": "assets/37c8936804c8bfd7e3d2a6d1958219d01b556c8824b1e70d6b28c3470fc144e0.webp",
+      "bytes": 16660
+    },
+    {
+      "file": "assets/248965642fe291ec43064af86abd9d06112734a13e91354c9cc1051efa63841f.webp",
+      "bytes": 16434
+    },
+    {
+      "file": "assets/a41e510d429b55a21dc8c5c6f31da78237d24040a5bec7697082027490278aea.jpg",
+      "bytes": 16129
+    },
+    {
+      "file": "assets/0f9676e63615e36c58cb214474fba17e6aed190f7ed8624a438b4bd3661a7c0f.webp",
+      "bytes": 14908
+    },
+    {
+      "file": "assets/88addbf9bacb1c880d66f8b7f0417b19243db14c86b0307d4c47ea07e1f0c67f.webp",
+      "bytes": 12436
+    },
+    {
+      "file": "assets/9ea09a27261ee0a2f704db26f3544125a6e38ff8a962be3f25887b1e37a61d58.webp",
+      "bytes": 11544
+    },
+    {
+      "file": "assets/de50e4ec5669bc7cc308eed865cc6d65198db6ce5be547b443a73c2c41af66fb.webp",
+      "bytes": 11116
+    },
+    {
+      "file": "assets/98927613ca32e31b8473ccc2d66c9173faf4e366ade104a76ffd5761a86e0e1d.webp",
+      "bytes": 10962
+    },
+    {
+      "file": "assets/da622f60e005040e459f35158a19a7f31121c251fc552b7e3dfb2259715c9b8a.webp",
+      "bytes": 9492
+    },
+    {
+      "file": "assets/9c94d9faf41cf59fd82cfa04372b34b1f48771e95cf1dec1f9b38f1ddfe481e4.webp",
+      "bytes": 8702
+    },
+    {
+      "file": "assets/24101e5f757219cd89ea698cbaac7e84e339e8e055c781984677285e27d8ec98.webp",
+      "bytes": 7136
+    },
+    {
+      "file": "assets/f8bb492488c9fa950fb99e52f4b19cc8bcaab39705134c101e8a7f3e85f494dd.webp",
+      "bytes": 978
+    },
+    {
+      "file": "assets/ec294a8611db27cde4bf4fa7618536085921d8828737e180b4b0b76a2e5fb8c8.webp",
+      "bytes": 136
+    },
+    {
+      "file": "assets/cd534d78346a8489e79c23385ee3f50ae0951985cc3b2b05f342debfc5756fde.webp",
+      "bytes": 114
+    }
+  ],
+  "code": [
+    {
+      "file": "dist/runtime/startup-GXZHLUUD.js",
+      "raw": 1220,
+      "gzipEstimate": 693
+    },
+    {
+      "file": "dist/runtime/chunk-V7UK2JCJ.js",
+      "raw": 28504,
+      "gzipEstimate": 8146
+    },
+    {
+      "file": "dist/runtime/chunk-W3MRD3XG.js",
+      "raw": 57427,
+      "gzipEstimate": 21844
+    },
+    {
+      "file": "dist/runtime/chunk-UHXQPMZ2.js",
+      "raw": 166,
+      "gzipEstimate": 139
+    },
+    {
+      "file": "dist/runtime/chunk-27P52VHQ.js",
+      "raw": 531358,
+      "gzipEstimate": 136730
+    },
+    {
+      "file": "dist/runtime/chunk-LQRPAPLS.js",
+      "raw": 15882,
+      "gzipEstimate": 4041
+    },
+    {
+      "file": "dist/runtime/chunk-JVHWUGXG.js",
+      "raw": 367,
+      "gzipEstimate": 246
+    }
+  ],
+  "largestGeometryByRemainingVertices": [
+    {
+      "file": "assets/2f3d1b2bc162c238c0a012508ad127604a6eb1f8594100f10f04df2f545c211a.geometry.json",
+      "names": [
+        "Setup/Watch_description/Body"
+      ],
+      "beforeTriangles": 36060,
+      "afterTriangles": 36060,
+      "beforeVertices": 36764,
+      "afterVertices": 36764,
+      "error": 0,
+      "shadowOnly": false
+    },
+    {
+      "file": "assets/45e159819a41edad61cae4031bc5c15d13818d28985720d80d068b1254566689.geometry.json",
+      "names": [
+        "Setup/Keyboard_description/Body"
+      ],
+      "beforeTriangles": 29529,
+      "afterTriangles": 29529,
+      "beforeVertices": 30073,
+      "afterVertices": 30073,
+      "error": 0,
+      "shadowOnly": false
+    },
+    {
+      "file": "assets/9a491df3b677c18d4b3ab7bea33895f39b84f9d874fc3d0fc08e11a9ada32d6e.geometry.json",
+      "names": [
+        "Setup/books_description/Body"
+      ],
+      "beforeTriangles": 24504,
+      "afterTriangles": 24504,
+      "beforeVertices": 24988,
+      "afterVertices": 24988,
+      "error": 0,
+      "shadowOnly": false
+    },
+    {
+      "file": "assets/8cd5350bc007e1ccd3808756679dcdbbac9cfff5367a523f9ad6e8baa2a86c28.geometry.json",
+      "names": [
+        "Setup/Quarzite_description/Body"
+      ],
+      "beforeTriangles": 23895,
+      "afterTriangles": 23895,
+      "beforeVertices": 24377,
+      "afterVertices": 24377,
+      "error": 0,
+      "shadowOnly": false
+    },
+    {
+      "file": "assets/b02d13e6f59877e4d44b555cb2c3392183229e6b7baae6c8118fed8b0595c042.geometry.json",
+      "names": [
+        "Setup/mp3_description/Body"
+      ],
+      "beforeTriangles": 19133,
+      "afterTriangles": 19133,
+      "beforeVertices": 19565,
+      "afterVertices": 19565,
+      "error": 0,
+      "shadowOnly": false
+    },
+    {
+      "file": "assets/ec183d0efaf63816ebf8640ee506795b301e25fc150aaf8ae3eb354a80adb776.geometry.json",
+      "names": [
+        "Setup/Static/CRT Monitor/CRT"
+      ],
+      "beforeTriangles": 49446,
+      "afterTriangles": 20157,
+      "beforeVertices": 51588,
+      "afterVertices": 19335,
+      "error": 0.0009996115695685148,
+      "shadowOnly": false
+    },
+    {
+      "file": "assets/f07de6e40deb3f9a58f169b85189e1f60a26222e42013dec642b20017b7c2730.geometry.json",
+      "names": [
+        "Setup/Hover-interactive/Watch/Watch_Textured/Component/model_2",
+        "Setup/Hover-interactive/Watch/Watch_Textured/model_2",
+        "Setup/Hover-interactive/Watch/Watch_Shadow/model_2"
+      ],
+      "beforeTriangles": 33687,
+      "afterTriangles": 32425,
+      "beforeVertices": 19409,
+      "afterVertices": 18427,
+      "error": 0.00024996031424961984,
+      "shadowOnly": false
+    },
+    {
+      "file": "assets/1bb706b019bfd6a19676cba01eca9b5fefaa11871ff0ead42adbd64a4863d098.geometry.json",
+      "names": [
+        "Setup/Hover-interactive/Cats/Thor/Thor_Textured",
+        "Setup/Hover-interactive/Cats/Thor/Thor_Shadow"
+      ],
+      "beforeTriangles": 64326,
+      "afterTriangles": 22340,
+      "beforeVertices": 52427,
+      "afterVertices": 16215,
+      "error": 0.0009805075824260712,
+      "shadowOnly": false
+    },
+    {
+      "file": "assets/f479bf7718631d9e3ed781d4056239a7933e1fc5df74dfec0db7e7cd13822939.geometry.json",
+      "names": [
+        "Setup/Static/Necklace/Necklace_Shadow/model_3"
+      ],
+      "beforeTriangles": 111749,
+      "afterTriangles": 10956,
+      "beforeVertices": 335247,
+      "afterVertices": 13691,
+      "error": 0.0004911602009087801,
+      "shadowOnly": true
+    },
+    {
+      "file": "assets/edb6766189825c5d47b59896a9666df2860d447a6e9621d6e8eb057d428eaf97.geometry.json",
+      "names": [
+        "Setup/Hover-interactive/Cats/Dorito/Dorito_Shadow",
+        "Setup/Hover-interactive/Cats/Dorito/Dorito_Textured"
+      ],
+      "beforeTriangles": 3452,
+      "afterTriangles": 3420,
+      "beforeVertices": 10198,
+      "afterVertices": 10076,
+      "error": 0.0009896955452859402,
+      "shadowOnly": false
+    },
+    {
+      "file": "assets/86d449496da33920ebe029073847390ed87afb38444296fa0ff01da8ce29e3e8.geometry.json",
+      "names": [
+        "Setup/Static/Necklace/Necklace_Shadow/model_4"
+      ],
+      "beforeTriangles": 28795,
+      "afterTriangles": 5218,
+      "beforeVertices": 86385,
+      "afterVertices": 7577,
+      "error": 0.0004969856818206608,
+      "shadowOnly": true
+    },
+    {
+      "file": "assets/affe2435818fe1b65a89dc534cd39bd7a3de8787a374184ac8481a0d9bf323f1.geometry.json",
+      "names": [
+        "Setup/Cats_description/Body"
+      ],
+      "beforeTriangles": 6965,
+      "afterTriangles": 6965,
+      "beforeVertices": 7131,
+      "afterVertices": 7131,
+      "error": 0,
+      "shadowOnly": false
+    }
+  ]
+}

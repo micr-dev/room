@@ -1,0 +1,14 @@
+{
+  "name": "room-threejs-standalone",
+  "private": true,
+  "scripts": {
+    "build": "node build-runtime.mjs",
+    "optimize": "node build-compact.mjs && node build-media.mjs && node build-runtime.mjs",
+    "build:site": "node build-runtime.mjs && node scripts/generate-about-llms.mjs && node scripts/build-public.mjs",
+    "test": "node test.mjs && node qa/test-compact-text.mjs && node qa/test-lazy-video.mjs && node qa/test-startup-loading.mjs && node qa/test-public-output.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "sharp": "0.35.5"
+  }
+}

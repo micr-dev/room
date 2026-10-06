@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>room.micr.dev</title>
+    <meta
+      name="description"
+      content="a creative developer's portfolio blending technology, design, and innovation."
+    />
+    <meta name="author" content="Microck" />
+    <meta
+      name="googlebot"
+      content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+    />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://room.micr.dev/" />
+    <meta property="og:title" content="room.micr.dev" />
+    <meta
+      property="og:description"
+      content="a creative developer's portfolio blending technology, design, and innovation."
+    />
+    <meta
+      property="og:image"
+      content="https://room.micr.dev/favicons/favicon-96x96.png"
+    />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="room.micr.dev" />
+    <meta
+      name="twitter:description"
+      content="a creative developer's portfolio blending technology, design, and innovation."
+    />
+    <meta
+      name="twitter:image"
+      content="https://room.micr.dev/favicons/favicon-96x96.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="/favicons/favicon-96x96.png"
+      sizes="96x96"
+    />
+    <link rel="icon" type="image/svg+xml" href="/favicons/favicon.svg" />
+    <link rel="shortcut icon" href="/favicons/favicon.ico" />
+    <link rel="manifest" href="/favicons/site.webmanifest" />
+    <link rel="canonical" href="https://room.micr.dev/" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "room.micr.dev",
+        "url": "https://room.micr.dev/",
+        "description": "a creative developer's portfolio blending technology, design, and innovation.",
+        "author": { "@type": "Person", "name": "Microck" }
+      }
+    </script>
+
+    <style>
+      body {
+        --dot-bg: #fff;
+        --dot-color: #bbb;
+        --dot-size: 1px;
+        --dot-space: 22px;
+        background: linear-gradient(
+              90deg,
+              var(--dot-color) calc(var(--dot-space) - var(--dot-size)),
+              transparent 1%
+            )
+            center/var(--dot-space) var(--dot-space),
+          linear-gradient(
+              var(--dot-color) calc(var(--dot-space) - var(--dot-size)),
+              transparent 1%
+            )
+            center/var(--dot-space) var(--dot-space),
+          var(--dot-bg);
+        animation: dotsMove 25s linear infinite;
+        margin: 0;
+        overflow: hidden;
+        font-family: "TermiusTTF", "Courier New", monospace;
+      }
+      @keyframes dotsMove {
+        0% {
+          background-position: 0 0, 0 0;
+        }
+        50% {
+          background-position: 12px 10px, -12px 10px;
+        }
+        100% {
+          background-position: 0 0, 0 0;
+        }
+      }
+      @font-face {
+        font-family: "TermiusTTF";
+        src: url("fonts/TermiusTTF-bold.ttf") format("truetype");
+        font-weight: bold;
+      }
+      #dither-overlay {
+        position: fixed;
+        inset: 0;
+        background: repeating-conic-gradient(
+            rgba(255, 0, 0, 0.1) 0% 25%,
+            rgba(0, 255, 0, 0.1) 0% 50%,
+            rgba(0, 0, 255, 0.1) 0% 75%,
+            rgba(255, 255, 0, 0.1) 0% 100%
+          )
+          0 0/4px 4px;
+        mix-blend-mode: overlay;
+        pointer-events: none;
+        z-index: 10000;
+      }
+      #scene-container {position:relative;width:100%;height:100%;opacity:1}
+      canvas {display:block}
+    </style>
+  <link rel="stylesheet" href="editor.css"><!-- room bundle preload --><script>(()=>{const url="./room.compact.gz?v=39747b40798815878cdf";function preload(){const link=document.createElement('link');link.rel='preload';link.as='fetch';link.href=url;link.crossOrigin='anonymous';link.fetchPriority='high';document.head.appendChild(link);}if(globalThis.caches)caches.open('room-models-v1').then(cache=>cache.match(url)).then(hit=>{if(!hit)preload();}).catch(preload);else preload();})();</script><!-- /room bundle preload --><link rel="modulepreload" href="./runtime/chunk-W3MRD3XG.js"></head>
+
+  <body>
+    <div id="dither-overlay"></div>
+    <div id="scene-container"><canvas id="canvas3d"></canvas></div>
+
+    <div id="cover" hidden><span id="status"></span><button id="enter"></button></div><nav class="toolbar"><button id="edit">Edit scene</button><output id="load-time" aria-live="polite">Loading…</output></nav><aside id="editor" hidden><header><h2>Scene editor</h2><button id="close" aria-label="Close editor">×</button></header><div class="row"><label>Scene<select id="page"></select></label><label>Camera<select id="camera"></select></label></div>
+<label class="check"><input id="outlines" type="checkbox" checked> Outline pass</label><input id="search" type="search" placeholder="Find an object…"><div id="objects"></div><h3 id="selected">Select an object</h3><p id="selection-info">Shift-click an object in the room, or choose from the list.</p><textarea id="object-json" spellcheck="false" aria-label="Editable object JSON"></textarea><div class="row"><button id="apply">Apply edits</button><button id="download">Export JSON</button><button id="reset">Reset</button></div><p id="edit-result" role="status"></p></aside>
+<script type="module" src="./runtime/startup-GXZHLUUD.js"></script>
+
+    <script>
+      const eggAudio = new Audio("./assets/run.ogg");
+      eggAudio.preload = "none";
+      eggAudio.volume = 0.25;
+      let dev = false,
+        th = 160;
+      setInterval(() => {
+        const w = window.outerWidth - window.innerWidth > th,
+          h = window.outerHeight - window.innerHeight > th;
+        if ((w || h) && !dev) {
+          dev = true;
+          if (window.__asciiEggLoaded__) return;
+          window.__asciiEggLoaded__ = true;
+          const s = document.createElement("script");
+          s.type = "module";
+          s.src = "./run.js";
+          document.body.appendChild(s);
+          window.playEggAudio = () => {
+            eggAudio.currentTime = 0;
+            eggAudio.play();
+          };
+        }
+      }, 1000);
+    </script>
+  </body>
+</html>

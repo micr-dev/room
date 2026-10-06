@@ -1,0 +1,165 @@
+{
+  "scope": "All 32 sequential 1920x1080 native captures before versus after model deduplication, index narrowing, original culling-bound preservation, one-request bundle and lossless byte shuffle. 16 GPU frames/state, same scene/event/media fixtures. Does not verify browser UI/media.",
+  "results": [
+    {
+      "label": "start",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "2-mouseHover-13a9552d-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "3-mouseHover-13a9552d-true",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "4-mouseHover-05d7915d-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "5-mouseHover-05d7915d-true",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "6-mouseDown-13a9552d-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "7-mouseDown-de1bfcc3-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "8-mouseDown-e0f22b4f-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "9-mouseDown-c6100348-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "10-mouseDown-e241d2d4-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "11-mouseDown-05d7915d-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "12-mouseDown-533bc62f-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "13-mouseDown-30b6cf6b-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "14-mouseDown-e0ad34f9-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "15-mouseDown-a3c78044-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "16-mouseDown-29fab0a0-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "17-mouseDown-2653c1e1-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "18-mouseDown-3cac6b32-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "19-mouseDown-eb44ea9c-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "20-mouseDown-464c9278-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "21-mouseDown-366c9975-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "22-mouseDown-44465644-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "23-mouseDown-36df5187-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "24-mouseDown-6834529d-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "25-mouseDown-64172c93-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "26-mouseDown-5d245355-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "27-mouseDown-6834529d-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "28-mouseDown-c910b656-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "29-mouseDown-5d245355-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "30-mouseDown-6d0d15bc-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "31-mouseDown-3ebfee77-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    },
+    {
+      "label": "32-mouseDown-6d0d15bc-false",
+      "maximumChannelError": 0,
+      "changedPixels": 0
+    }
+  ]
+}

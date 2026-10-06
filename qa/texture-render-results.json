@@ -1,0 +1,252 @@
+{
+  "backend": "llvmpipe (LLVM 20.1.2, 256 bits)",
+  "tested": 22,
+  "passed": 22,
+  "failed": 0,
+  "not_checked": 0,
+  "scope": "Isolated UV sampling; not full-scene or browser parity",
+  "cases": [
+    {
+      "object": "Cube003",
+      "status": "pass",
+      "max_channel_error": 0,
+      "differing_pixels": 0,
+      "pixels": 230400,
+      "image_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "object": "Plane",
+      "status": "pass",
+      "max_channel_error": 0,
+      "differing_pixels": 0,
+      "pixels": 230400,
+      "image_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "object": "welcome_to_my_desktop_feel_gradient.webm",
+      "status": "pass",
+      "max_channel_error": 0,
+      "differing_pixels": 0,
+      "pixels": 230400,
+      "image_size": [
+        1000,
+        564
+      ]
+    },
+    {
+      "object": "transition.png",
+      "status": "pass",
+      "max_channel_error": 1,
+      "differing_pixels": 353,
+      "pixels": 230400,
+      "image_size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "object": "loading-full",
+      "status": "pass",
+      "max_channel_error": 1,
+      "differing_pixels": 85,
+      "pixels": 230400,
+      "image_size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "object": "Cube",
+      "status": "pass",
+      "max_channel_error": 0,
+      "differing_pixels": 0,
+      "pixels": 230400,
+      "image_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "object": "model_0",
+      "status": "pass",
+      "max_channel_error": 0,
+      "differing_pixels": 0,
+      "pixels": 230400,
+      "image_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "object": "model_6",
+      "status": "pass",
+      "max_channel_error": 0,
+      "differing_pixels": 0,
+      "pixels": 230400,
+      "image_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "object": "R_Shift028",
+      "status": "pass",
+      "max_channel_error": 0,
+      "differing_pixels": 0,
+      "pixels": 230400,
+      "image_size": [
+        512,
+        512
+      ]
+    },
+    {
+      "object": "0019",
+      "status": "pass",
+      "max_channel_error": 0,
+      "differing_pixels": 0,
+      "pixels": 230400,
+      "image_size": [
+        512,
+        512
+      ]
+    },
+    {
+      "object": "model_2",
+      "status": "pass",
+      "max_channel_error": 0,
+      "differing_pixels": 0,
+      "pixels": 230400,
+      "image_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "object": "Thor_Textured",
+      "status": "pass",
+      "max_channel_error": 0,
+      "differing_pixels": 0,
+      "pixels": 230400,
+      "image_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "object": "Dorito_Textured",
+      "status": "pass",
+      "max_channel_error": 0,
+      "differing_pixels": 0,
+      "pixels": 230400,
+      "image_size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "object": "group_BOOK_B_Couv_Down",
+      "status": "pass",
+      "max_channel_error": 0,
+      "differing_pixels": 0,
+      "pixels": 230400,
+      "image_size": [
+        857,
+        1200
+      ]
+    },
+    {
+      "object": "cover",
+      "status": "pass",
+      "max_channel_error": 0,
+      "differing_pixels": 0,
+      "pixels": 230400,
+      "image_size": [
+        659,
+        1000
+      ]
+    },
+    {
+      "object": "gaming-folder-good.png",
+      "status": "pass",
+      "max_channel_error": 1,
+      "differing_pixels": 188,
+      "pixels": 230400,
+      "image_size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "object": "projects-folder.png",
+      "status": "pass",
+      "max_channel_error": 1,
+      "differing_pixels": 610,
+      "pixels": 230400,
+      "image_size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "object": "others-Oflder-fashionm",
+      "status": "pass",
+      "max_channel_error": 1,
+      "differing_pixels": 585,
+      "pixels": 230400,
+      "image_size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "object": "others_folder_keyboards",
+      "status": "pass",
+      "max_channel_error": 1,
+      "differing_pixels": 729,
+      "pixels": 230400,
+      "image_size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "object": "others-folder-main.png",
+      "status": "pass",
+      "max_channel_error": 1,
+      "differing_pixels": 504,
+      "pixels": 230400,
+      "image_size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "object": "LoadingScreen.mp4",
+      "status": "pass",
+      "max_channel_error": 0,
+      "differing_pixels": 0,
+      "pixels": 230400,
+      "image_size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "object": "bg-full.png",
+      "status": "pass",
+      "max_channel_error": 1,
+      "differing_pixels": 672,
+      "pixels": 230400,
+      "image_size": [
+        1920,
+        1080
+      ]
+    }
+  ]
+}

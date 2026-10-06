@@ -1,0 +1,325 @@
+{
+  "scope": "32 sequential states without pointer movement; 783 stored objects; optimized loading/render scheduler and look-at pause lifecycle; tolerance 1e-5; explicit pointer cases verified separately",
+  "stages": [
+    {
+      "stage": 1,
+      "event": "start",
+      "id": null,
+      "reverse": null,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 5.4569682106375694e-12,
+      "poseDifferences": []
+    },
+    {
+      "stage": 2,
+      "event": "mouseHover",
+      "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 1.0913936421275139e-11,
+      "poseDifferences": []
+    },
+    {
+      "stage": 3,
+      "event": "mouseHover",
+      "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+      "reverse": true,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 1.4551915228366852e-11,
+      "poseDifferences": []
+    },
+    {
+      "stage": 4,
+      "event": "mouseHover",
+      "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 1.8189894035458565e-11,
+      "poseDifferences": []
+    },
+    {
+      "stage": 5,
+      "event": "mouseHover",
+      "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+      "reverse": true,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 2.1827872842550278e-11,
+      "poseDifferences": []
+    },
+    {
+      "stage": 6,
+      "event": "mouseDown",
+      "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 2.546585164964199e-11,
+      "poseDifferences": []
+    },
+    {
+      "stage": 7,
+      "event": "mouseDown",
+      "id": "de1bfcc3-aab3-49f8-badc-3d669d669bd0",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 3.5176315194007657e-09,
+      "poseDifferences": []
+    },
+    {
+      "stage": 8,
+      "event": "mouseDown",
+      "id": "e0f22b4f-7190-48a8-a4d1-2415bce1bf63",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 2.6648194761946797e-10,
+      "poseDifferences": []
+    },
+    {
+      "stage": 9,
+      "event": "mouseDown",
+      "id": "c6100348-b213-4e09-bdcb-50ded30414bd",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 1.6370904631912708e-10,
+      "poseDifferences": []
+    },
+    {
+      "stage": 10,
+      "event": "mouseDown",
+      "id": "e241d2d4-c8c7-4301-8acc-003acecb5113",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 2.6648194761946797e-10,
+      "poseDifferences": []
+    },
+    {
+      "stage": 11,
+      "event": "mouseDown",
+      "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 1.801936377887614e-10,
+      "poseDifferences": []
+    },
+    {
+      "stage": 12,
+      "event": "mouseDown",
+      "id": "533bc62f-0360-4bf5-96bb-f41ab9e1ff07",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 2.6648194761946797e-10,
+      "poseDifferences": []
+    },
+    {
+      "stage": 13,
+      "event": "mouseDown",
+      "id": "30b6cf6b-4a9f-48e3-9456-49a2a5897692",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 1.3233147910796106e-10,
+      "poseDifferences": []
+    },
+    {
+      "stage": 14,
+      "event": "mouseDown",
+      "id": "e0ad34f9-6219-4131-82d5-0b2a8b6f04a8",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 2.6648194761946797e-10,
+      "poseDifferences": []
+    },
+    {
+      "stage": 15,
+      "event": "mouseDown",
+      "id": "a3c78044-d774-4589-984b-79568d911853",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 9.276845958083868e-11,
+      "poseDifferences": []
+    },
+    {
+      "stage": 16,
+      "event": "mouseDown",
+      "id": "29fab0a0-c145-461f-8b6b-716bff352e6d",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 2.6784618967212737e-10,
+      "poseDifferences": []
+    },
+    {
+      "stage": 17,
+      "event": "mouseDown",
+      "id": "2653c1e1-6c99-4b4e-843c-90ed8c8f1065",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 2.6784618967212737e-10,
+      "poseDifferences": []
+    },
+    {
+      "stage": 18,
+      "event": "mouseDown",
+      "id": "3cac6b32-4d54-47a6-be46-4993b52ad40a",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 5.147740012034774e-10,
+      "poseDifferences": []
+    },
+    {
+      "stage": 19,
+      "event": "mouseDown",
+      "id": "eb44ea9c-d1fa-4ca8-b6b3-81775bc26b55",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 1.8344166186068378e-09,
+      "poseDifferences": []
+    },
+    {
+      "stage": 20,
+      "event": "mouseDown",
+      "id": "464c9278-9b44-47f7-8cab-795e5b045a14",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 5.3480109230008566e-09,
+      "poseDifferences": []
+    },
+    {
+      "stage": 21,
+      "event": "mouseDown",
+      "id": "366c9975-6a1f-4cd4-b92d-48741f6acf4b",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 3.6156277971599593e-09,
+      "poseDifferences": []
+    },
+    {
+      "stage": 22,
+      "event": "mouseDown",
+      "id": "44465644-10a7-4d35-8f72-5a56ed96f598",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 3.6156273530707495e-09,
+      "poseDifferences": []
+    },
+    {
+      "stage": 23,
+      "event": "mouseDown",
+      "id": "36df5187-0543-4481-a2b7-7a5c04ff0561",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 3.6156273530707495e-09,
+      "poseDifferences": []
+    },
+    {
+      "stage": 24,
+      "event": "mouseDown",
+      "id": "6834529d-7e75-430e-a67c-671ca76362cb",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 3.6156273530707495e-09,
+      "poseDifferences": []
+    },
+    {
+      "stage": 25,
+      "event": "mouseDown",
+      "id": "64172c93-e2dd-472c-8393-e748e52523cb",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 1.0287995788615945e-08,
+      "poseDifferences": []
+    },
+    {
+      "stage": 26,
+      "event": "mouseDown",
+      "id": "5d245355-21b8-437e-9804-f6165afe27aa",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 1.6376665801232093e-08,
+      "poseDifferences": []
+    },
+    {
+      "stage": 27,
+      "event": "mouseDown",
+      "id": "6834529d-7e75-430e-a67c-671ca76362cb",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 1.6376665801232093e-08,
+      "poseDifferences": []
+    },
+    {
+      "stage": 28,
+      "event": "mouseDown",
+      "id": "c910b656-af26-4126-a8f5-c43780e44169",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 1.4901159861580027e-08,
+      "poseDifferences": []
+    },
+    {
+      "stage": 29,
+      "event": "mouseDown",
+      "id": "5d245355-21b8-437e-9804-f6165afe27aa",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 1.4901159861580027e-08,
+      "poseDifferences": []
+    },
+    {
+      "stage": 30,
+      "event": "mouseDown",
+      "id": "6d0d15bc-6dfc-420f-a6f9-5e7e70145045",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 1.4901159417490817e-08,
+      "poseDifferences": []
+    },
+    {
+      "stage": 31,
+      "event": "mouseDown",
+      "id": "3ebfee77-b1cf-491c-b12f-c9c3d67d7fce",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 5.5933924159035087e-11,
+      "poseDifferences": []
+    },
+    {
+      "stage": 32,
+      "event": "mouseDown",
+      "id": "6d0d15bc-6dfc-420f-a6f9-5e7e70145045",
+      "reverse": false,
+      "pageMatches": true,
+      "cameraMatches": true,
+      "maximumPoseError": 1.8344166186068378e-09,
+      "poseDifferences": []
+    }
+  ]
+}

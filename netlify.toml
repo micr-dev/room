@@ -1,6 +1,6 @@
 [build]
-  command = "node scripts/generate-about-llms.mjs"
-  publish = "."
+  command = "npm run build:site"
+  publish = "public"
 
 [[redirects]]
   from = "https://tree.micr.dev/"
@@ -256,3 +256,14 @@
     Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "camera=(), microphone=(), geolocation=()"
     Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.jsdelivr.net https://www.youtube.com https://s.ytimg.com https://sleepie.uk; worker-src 'self' blob:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://unpkg.com; font-src 'self' https://fonts.gstatic.com https://unpkg.com; img-src 'self' data: https: blob:; media-src 'self' data: https: blob:; connect-src 'self' https: blob:; frame-src 'self' https://www.youtube.com https://open.spotify.com https://dialoguegen.vercel.app; object-src 'none';"
+
+[[headers]]
+  for = "/runtime/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/room.compact.gz"
+  [headers.values]
+    Content-Type = "application/octet-stream"
+    Cache-Control = "public, max-age=0, must-revalidate"

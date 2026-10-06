@@ -1,0 +1,74 @@
+[
+  {
+    "event": "start",
+    "id": null,
+    "reverse": null,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": false,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": true,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+    "reverse": false,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+    "reverse": true,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": false,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "de1bfcc3-aab3-49f8-badc-3d669d669bd0",
+    "reverse": false,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "e835d3e8-f4bd-4764-becd-be6fd511abef",
+    "reverse": false,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  }
+]

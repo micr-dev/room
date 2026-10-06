@@ -1,0 +1,432 @@
+[
+  {
+    "event": "start",
+    "id": null,
+    "reverse": null,
+    "elapsed": null,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": false,
+    "elapsed": 100,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": false,
+    "elapsed": 200,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": false,
+    "elapsed": 500,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": false,
+    "elapsed": 1000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": false,
+    "elapsed": 2000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": false,
+    "elapsed": 4000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": true,
+    "elapsed": 100,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": true,
+    "elapsed": 200,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": true,
+    "elapsed": 500,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": true,
+    "elapsed": 1000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": true,
+    "elapsed": 2000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": true,
+    "elapsed": 4000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+    "reverse": false,
+    "elapsed": 100,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+    "reverse": false,
+    "elapsed": 200,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+    "reverse": false,
+    "elapsed": 500,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+    "reverse": false,
+    "elapsed": 1000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+    "reverse": false,
+    "elapsed": 2000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+    "reverse": false,
+    "elapsed": 4000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+    "reverse": true,
+    "elapsed": 100,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+    "reverse": true,
+    "elapsed": 200,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+    "reverse": true,
+    "elapsed": 500,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+    "reverse": true,
+    "elapsed": 1000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+    "reverse": true,
+    "elapsed": 2000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseHover",
+    "id": "05d7915d-ce87-44ee-b035-352b0a00cec0",
+    "reverse": true,
+    "elapsed": 4000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": false,
+    "elapsed": 100,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": false,
+    "elapsed": 200,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": false,
+    "elapsed": 500,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": false,
+    "elapsed": 1000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": false,
+    "elapsed": 2000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "13a9552d-bdd5-4aed-a5ff-7f093bd68eff",
+    "reverse": false,
+    "elapsed": 4000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "de1bfcc3-aab3-49f8-badc-3d669d669bd0",
+    "reverse": false,
+    "elapsed": 100,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "de1bfcc3-aab3-49f8-badc-3d669d669bd0",
+    "reverse": false,
+    "elapsed": 200,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "de1bfcc3-aab3-49f8-badc-3d669d669bd0",
+    "reverse": false,
+    "elapsed": 500,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "de1bfcc3-aab3-49f8-badc-3d669d669bd0",
+    "reverse": false,
+    "elapsed": 1000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "de1bfcc3-aab3-49f8-badc-3d669d669bd0",
+    "reverse": false,
+    "elapsed": 2000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "de1bfcc3-aab3-49f8-badc-3d669d669bd0",
+    "reverse": false,
+    "elapsed": 4000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "e835d3e8-f4bd-4764-becd-be6fd511abef",
+    "reverse": false,
+    "elapsed": 100,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "e835d3e8-f4bd-4764-becd-be6fd511abef",
+    "reverse": false,
+    "elapsed": 200,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "e835d3e8-f4bd-4764-becd-be6fd511abef",
+    "reverse": false,
+    "elapsed": 500,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "e835d3e8-f4bd-4764-becd-be6fd511abef",
+    "reverse": false,
+    "elapsed": 1000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "e835d3e8-f4bd-4764-becd-be6fd511abef",
+    "reverse": false,
+    "elapsed": 2000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  },
+  {
+    "event": "mouseDown",
+    "id": "e835d3e8-f4bd-4764-becd-be6fd511abef",
+    "reverse": false,
+    "elapsed": 4000,
+    "pageMatches": true,
+    "cameraMatches": true,
+    "differences": [],
+    "comparedObjects": 783
+  }
+]

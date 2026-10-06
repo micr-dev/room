@@ -1,0 +1,7 @@
+{
+  "scope": "Source versus optimized conversion; virtual RAF and external effects mocked; 783 authored objects per snapshot. Not browser rendering/media.",
+  "snapshots": 11,
+  "objectsPerSnapshot": 783,
+  "maximumNumericDifference": 3.517666158359134e-09,
+  "passed": true
+}

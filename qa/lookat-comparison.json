@@ -1,0 +1,37 @@
+{
+  "method": "Real pointer events after Projects transition; native DOM + virtual60Hz + worldmatrixupdates",
+  "results": [
+    {
+      "pointer": [
+        960,
+        540
+      ],
+      "maxWorldMatrixDifference": 4.3298697960381105e-14,
+      "status": "pass"
+    },
+    {
+      "pointer": [
+        200,
+        200
+      ],
+      "maxWorldMatrixDifference": 1.1024667401215993e-08,
+      "status": "pass"
+    },
+    {
+      "pointer": [
+        1700,
+        800
+      ],
+      "maxWorldMatrixDifference": 2.193064574385062e-08,
+      "status": "pass"
+    },
+    {
+      "pointer": [
+        null,
+        null
+      ],
+      "maxWorldMatrixDifference": 5.286437954055145e-10,
+      "status": "pass"
+    }
+  ]
+}

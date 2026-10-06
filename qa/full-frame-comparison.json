@@ -1,0 +1,24 @@
+{
+  "method": "Native WebGL, matching clone outline input IDs, frozen video first frame",
+  "results": [
+    {
+      "page": "Setup",
+      "meanAbsoluteRGBError": 0.08473894032921811,
+      "fractionPixelsRGBErrorAbove16": 0.0006462191358024692,
+      "width": 1920,
+      "height": 1080,
+      "frames": 32,
+      "cloneOutlineIDsAligned": true
+    },
+    {
+      "page": "Desktop",
+      "meanAbsoluteRGBError": 0.016912937242798354,
+      "fractionPixelsRGBErrorAbove16": 7.71604938271605e-06,
+      "width": 1920,
+      "height": 1080,
+      "frames": 32,
+      "cloneOutlineIDsAligned": true
+    }
+  ],
+  "fullParityEstablished": false
+}

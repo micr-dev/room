@@ -1,0 +1,45 @@
+{
+  "scope": "Mesa llvmpipe native WebGL2; 480x270 fixed raster; gl.finish per frame; 3 warm-up frames + 10 measured; controlled clone IDs; idle pages, media first frames. Not browser/device FPS.",
+  "results": [
+    {
+      "page": "Setup",
+      "firstFrameMs": 6661.470332999999,
+      "steadyFramesMs": [
+        250.59304900000097,
+        252.65350200000103,
+        270.1516279999996,
+        248.96800799999983,
+        255.304345999999,
+        269.4493300000013,
+        249.36188200000106,
+        252.45760100000007,
+        261.12051600000086,
+        254.81029099999978
+      ],
+      "meanSteadyFrameMs": 256.48701530000034,
+      "programs": 43,
+      "calls": 1283,
+      "triangles": 2496432
+    },
+    {
+      "page": "Desktop",
+      "firstFrameMs": 753.558833000001,
+      "steadyFramesMs": [
+        14.90401700000075,
+        15.961065999999846,
+        25.644304999999804,
+        19.945047999999588,
+        14.667315000000599,
+        14.41644400000041,
+        14.57784300000094,
+        27.734338000000207,
+        17.61767399999917,
+        14.694155999999566
+      ],
+      "meanSteadyFrameMs": 18.01622060000009,
+      "programs": 51,
+      "calls": 70,
+      "triangles": 11032
+    }
+  ]
+}
